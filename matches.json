@@ -33,79 +33,13 @@
                 "currentMatchday": 2,
                 "winner": null
             },
-            "id": 557110,
-            "utcDate": "2026-04-15T00:00:00Z",
-            "status": "TIMED",
-            "matchday": 2,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_C",
-            "lastUpdated": "2026-03-23T03:59:21Z",
-            "homeTeam": {
-                "id": 4261,
-                "name": "Club Bolívar",
-                "shortName": "Club Bolívar",
-                "tla": "BOL",
-                "crest": "https://crests.football-data.org/4261.png"
-            },
-            "awayTeam": {
-                "id": 5170,
-                "name": "Deportivo La Guaira FC",
-                "shortName": "La Guaira",
-                "tla": null,
-                "crest": null
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 294590,
-                    "name": "Anthony Diaz",
-                    "type": "REFEREE",
-                    "nationality": "Ecuador"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 2,
-                "winner": null
-            },
             "id": 557123,
             "utcDate": "2026-04-15T00:00:00Z",
-            "status": "TIMED",
+            "status": "PAUSED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_D",
-            "lastUpdated": "2026-04-11T20:20:50Z",
+            "lastUpdated": "2026-04-15T03:00:01Z",
             "homeTeam": {
                 "id": 2061,
                 "name": "CA Boca Juniors",
@@ -121,15 +55,15 @@
                 "crest": "https://crests.football-data.org/4520.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -165,37 +99,37 @@
                 "currentMatchday": 2,
                 "winner": null
             },
-            "id": 557098,
-            "utcDate": "2026-04-15T02:00:00Z",
-            "status": "TIMED",
+            "id": 557110,
+            "utcDate": "2026-04-15T00:00:00Z",
+            "status": "PAUSED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_B",
-            "lastUpdated": "2026-03-26T15:21:15Z",
+            "group": "GROUP_C",
+            "lastUpdated": "2026-04-15T03:00:01Z",
             "homeTeam": {
-                "id": 4268,
-                "name": "Club Universitario de Deportes",
-                "shortName": "Universitario",
-                "tla": "CUD",
-                "crest": "https://crests.football-data.org/4268.png"
+                "id": 4261,
+                "name": "Club Bolívar",
+                "shortName": "Club Bolívar",
+                "tla": "BOL",
+                "crest": "https://crests.football-data.org/4261.png"
             },
             "awayTeam": {
-                "id": 7912,
-                "name": "CD Coquimbo Unido",
-                "shortName": "Coquimbo Unido",
-                "tla": "COQ",
-                "crest": "https://crests.football-data.org/7912.png"
+                "id": 5170,
+                "name": "Deportivo La Guaira FC",
+                "shortName": "La Guaira",
+                "tla": null,
+                "crest": null
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -203,10 +137,10 @@
             },
             "referees": [
                 {
-                    "id": 18754,
-                    "name": "Ramon Abatti Abel",
+                    "id": 294590,
+                    "name": "Anthony Diaz",
                     "type": "REFEREE",
-                    "nationality": "Brazil"
+                    "nationality": "Ecuador"
                 }
             ]
         },
@@ -278,45 +212,45 @@
         },
         {
             "area": {
-                "id": 2077,
-                "name": "Europe",
-                "code": "EUR",
-                "flag": "https://crests.football-data.org/EUR.svg"
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
             },
             "competition": {
-                "id": 2001,
-                "name": "UEFA Champions League",
-                "code": "CL",
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
                 "type": "CUP",
-                "emblem": "https://crests.football-data.org/CL.png"
+                "emblem": "https://crests.football-data.org/CLI.svg"
             },
             "season": {
-                "id": 2454,
-                "startDate": "2025-09-16",
-                "endDate": "2026-05-30",
-                "currentMatchday": 8,
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 2,
                 "winner": null
             },
-            "id": 556723,
-            "utcDate": "2026-04-15T19:00:00Z",
+            "id": 557098,
+            "utcDate": "2026-04-15T02:00:00Z",
             "status": "TIMED",
             "matchday": 2,
-            "stage": "QUARTER_FINALS",
-            "group": null,
-            "lastUpdated": "2026-04-11T20:20:48Z",
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_B",
+            "lastUpdated": "2026-03-26T15:21:15Z",
             "homeTeam": {
-                "id": 5,
-                "name": "FC Bayern München",
-                "shortName": "Bayern",
-                "tla": "FCB",
-                "crest": "https://crests.football-data.org/5.png"
+                "id": 4268,
+                "name": "Club Universitario de Deportes",
+                "shortName": "Universitario",
+                "tla": "CUD",
+                "crest": "https://crests.football-data.org/4268.png"
             },
             "awayTeam": {
-                "id": 86,
-                "name": "Real Madrid CF",
-                "shortName": "Real Madrid",
-                "tla": "RMA",
-                "crest": "https://crests.football-data.org/86.png"
+                "id": 7912,
+                "name": "CD Coquimbo Unido",
+                "shortName": "Coquimbo Unido",
+                "tla": "COQ",
+                "crest": "https://crests.football-data.org/7912.png"
             },
             "score": {
                 "winner": null,
@@ -335,10 +269,10 @@
             },
             "referees": [
                 {
-                    "id": 9351,
-                    "name": "Slavko Vinčič",
+                    "id": 18754,
+                    "name": "Ramon Abatti Abel",
                     "type": "REFEREE",
-                    "nationality": "Slovenia"
+                    "nationality": "Brazil"
                 }
             ]
         },
@@ -365,11 +299,11 @@
             },
             "id": 556725,
             "utcDate": "2026-04-15T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 2,
             "stage": "QUARTER_FINALS",
             "group": null,
-            "lastUpdated": "2026-04-09T01:32:03Z",
+            "lastUpdated": "2026-04-15T20:08:32Z",
             "homeTeam": {
                 "id": 57,
                 "name": "Arsenal FC",
@@ -385,15 +319,27 @@
                 "crest": "https://crests.football-data.org/498.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -405,6 +351,84 @@
                     "name": "François Letexier",
                     "type": "REFEREE",
                     "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2077,
+                "name": "Europe",
+                "code": "EUR",
+                "flag": "https://crests.football-data.org/EUR.svg"
+            },
+            "competition": {
+                "id": 2001,
+                "name": "UEFA Champions League",
+                "code": "CL",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CL.png"
+            },
+            "season": {
+                "id": 2454,
+                "startDate": "2025-09-16",
+                "endDate": "2026-05-30",
+                "currentMatchday": 8,
+                "winner": null
+            },
+            "id": 556723,
+            "utcDate": "2026-04-15T19:00:00Z",
+            "status": "IN_PLAY",
+            "matchday": 2,
+            "stage": "QUARTER_FINALS",
+            "group": null,
+            "lastUpdated": "2026-04-15T20:12:02Z",
+            "homeTeam": {
+                "id": 5,
+                "name": "FC Bayern München",
+                "shortName": "Bayern",
+                "tla": "FCB",
+                "crest": "https://crests.football-data.org/5.png"
+            },
+            "awayTeam": {
+                "id": 86,
+                "name": "Real Madrid CF",
+                "shortName": "Real Madrid",
+                "tla": "RMA",
+                "crest": "https://crests.football-data.org/86.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 9351,
+                    "name": "Slavko Vinčič",
+                    "type": "REFEREE",
+                    "nationality": "Slovenia"
                 }
             ]
         },
@@ -465,7 +489,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 77890,
+                    "name": "Carlos Betancur",
+                    "type": "REFEREE",
+                    "nationality": null
+                }
+            ]
         },
         {
             "area": {
@@ -524,7 +555,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11260,
+                    "name": "Raphael Claus",
+                    "type": "REFEREE",
+                    "nationality": "Brazil"
+                }
+            ]
         }
     ]
 }
