@@ -35,11 +35,11 @@
             },
             "id": 557111,
             "utcDate": "2026-04-16T00:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_C",
-            "lastUpdated": "2026-03-23T03:59:21Z",
+            "lastUpdated": "2026-04-16T03:00:01Z",
             "homeTeam": {
                 "id": 1765,
                 "name": "Fluminense FC",
@@ -55,11 +55,11 @@
                 "crest": "https://crests.football-data.org/2052.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -101,11 +101,11 @@
             },
             "id": 557134,
             "utcDate": "2026-04-16T00:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-04-11T20:20:50Z",
+            "lastUpdated": "2026-04-16T02:59:57Z",
             "homeTeam": {
                 "id": 1779,
                 "name": "SC Corinthians Paulista",
@@ -121,11 +121,11 @@
                 "crest": "https://crests.football-data.org/4441.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -171,7 +171,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_H",
-            "lastUpdated": "2026-03-23T03:59:22Z",
+            "lastUpdated": "2026-04-16T02:53:07Z",
             "homeTeam": {
                 "id": 6989,
                 "name": "CAR Independiente del Valle",
@@ -237,7 +237,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_F",
-            "lastUpdated": "2026-04-11T20:20:50Z",
+            "lastUpdated": "2026-04-15T20:21:13Z",
             "homeTeam": {
                 "id": 1769,
                 "name": "SE Palmeiras",
