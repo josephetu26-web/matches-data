@@ -267,7 +267,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 23903,
+                    "name": "Piero Maza",
+                    "type": "REFEREE",
+                    "nationality": "Chile"
+                }
+            ]
         },
         {
             "area": {
@@ -326,7 +333,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 29389,
+                    "name": "Alexis Herrera",
+                    "type": "REFEREE",
+                    "nationality": "Venezuela"
+                }
+            ]
         }
     ]
 }
