@@ -9,7 +9,7 @@
         "competitions": "CLI,SA,BL1,FL1,ELC,PPL",
         "first": "2026-04-17",
         "last": "2026-04-17",
-        "played": 1
+        "played": 6
     },
     "matches": [
         {
@@ -33,33 +33,33 @@
                 "currentMatchday": 2,
                 "winner": null
             },
-            "id": 557087,
+            "id": 557135,
             "utcDate": "2026-04-17T00:30:00Z",
-            "status": "IN_PLAY",
+            "status": "TIMED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_A",
-            "lastUpdated": "2026-04-17T02:59:56Z",
+            "group": "GROUP_E",
+            "lastUpdated": "2026-03-24T15:21:09Z",
             "homeTeam": {
-                "id": 1783,
-                "name": "CR Flamengo",
-                "shortName": "Flamengo",
-                "tla": "FLA",
-                "crest": "https://crests.football-data.org/1783.png"
+                "id": 5184,
+                "name": "CA Peñarol",
+                "shortName": "Peñarol",
+                "tla": "PEN",
+                "crest": "https://crests.football-data.org/5184.png"
             },
             "awayTeam": {
-                "id": 7119,
-                "name": "CD Independiente Medellín",
-                "shortName": "Independiente",
-                "tla": "DIM",
-                "crest": "https://crests.football-data.org/7119.png"
+                "id": 7580,
+                "name": "CA Platense",
+                "shortName": "Platense",
+                "tla": "PLA",
+                "crest": "https://crests.football-data.org/7580.png"
             },
             "score": {
-                "winner": "HOME_TEAM",
+                "winner": null,
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 1,
-                    "away": 0
+                    "home": null,
+                    "away": null
                 },
                 "halfTime": {
                     "home": null,
@@ -71,10 +71,10 @@
             },
             "referees": [
                 {
-                    "id": 28309,
-                    "name": "Andrés Matonte",
+                    "id": 113033,
+                    "name": "Derlis López",
                     "type": "REFEREE",
-                    "nationality": "Uruguay"
+                    "nationality": "Paraguay"
                 }
             ]
         },
@@ -99,33 +99,33 @@
                 "currentMatchday": 2,
                 "winner": null
             },
-            "id": 557135,
+            "id": 557087,
             "utcDate": "2026-04-17T00:30:00Z",
-            "status": "IN_PLAY",
+            "status": "TIMED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_E",
-            "lastUpdated": "2026-04-17T02:59:56Z",
+            "group": "GROUP_A",
+            "lastUpdated": "2026-04-11T20:20:50Z",
             "homeTeam": {
-                "id": 5184,
-                "name": "CA Peñarol",
-                "shortName": "Peñarol",
-                "tla": "PEN",
-                "crest": "https://crests.football-data.org/5184.png"
+                "id": 1783,
+                "name": "CR Flamengo",
+                "shortName": "Flamengo",
+                "tla": "FLA",
+                "crest": "https://crests.football-data.org/1783.png"
             },
             "awayTeam": {
-                "id": 7580,
-                "name": "CA Platense",
-                "shortName": "Platense",
-                "tla": "PLA",
-                "crest": "https://crests.football-data.org/7580.png"
+                "id": 7119,
+                "name": "CD Independiente Medellín",
+                "shortName": "Independiente",
+                "tla": "DIM",
+                "crest": "https://crests.football-data.org/7119.png"
             },
             "score": {
-                "winner": "AWAY_TEAM",
+                "winner": null,
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 1
+                    "home": null,
+                    "away": null
                 },
                 "halfTime": {
                     "home": null,
@@ -137,10 +137,10 @@
             },
             "referees": [
                 {
-                    "id": 113033,
-                    "name": "Derlis López",
+                    "id": 28309,
+                    "name": "Andrés Matonte",
                     "type": "REFEREE",
-                    "nationality": "Paraguay"
+                    "nationality": "Uruguay"
                 }
             ]
         },
@@ -162,7 +162,7 @@
                 "id": 2395,
                 "startDate": "2025-08-24",
                 "endDate": "2026-05-24",
-                "currentMatchday": 33,
+                "currentMatchday": 32,
                 "winner": null
             },
             "id": 537140,
@@ -240,16 +240,16 @@
                 "id": 2414,
                 "startDate": "2025-08-22",
                 "endDate": "2026-05-16",
-                "currentMatchday": 30,
+                "currentMatchday": 29,
                 "winner": null
             },
             "id": 540673,
             "utcDate": "2026-04-17T18:30:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 30,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-17T20:08:12Z",
+            "lastUpdated": "2026-04-17T20:37:32Z",
             "homeTeam": {
                 "id": 20,
                 "name": "FC St. Pauli 1910",
@@ -265,11 +265,11 @@
                 "crest": "https://crests.football-data.org/1.png"
             },
             "score": {
-                "winner": "HOME_TEAM",
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 1,
-                    "away": 0
+                    "away": 1
                 },
                 "halfTime": {
                     "home": 0,
@@ -318,16 +318,16 @@
                 "id": 2395,
                 "startDate": "2025-08-24",
                 "endDate": "2026-05-24",
-                "currentMatchday": 33,
+                "currentMatchday": 32,
                 "winner": null
             },
             "id": 537137,
             "utcDate": "2026-04-17T18:45:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 33,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-17T20:08:54Z",
+            "lastUpdated": "2026-04-17T20:50:12Z",
             "homeTeam": {
                 "id": 108,
                 "name": "FC Internazionale Milano",
@@ -346,7 +346,7 @@
                 "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 2,
+                    "home": 3,
                     "away": 0
                 },
                 "halfTime": {
@@ -396,16 +396,16 @@
                 "id": 2420,
                 "startDate": "2025-08-17",
                 "endDate": "2026-05-16",
-                "currentMatchday": 30,
+                "currentMatchday": 29,
                 "winner": null
             },
             "id": 542674,
             "utcDate": "2026-04-17T18:45:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 30,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-17T19:57:39Z",
+            "lastUpdated": "2026-04-17T20:48:12Z",
             "homeTeam": {
                 "id": 546,
                 "name": "Racing Club de Lens",
@@ -421,10 +421,10 @@
                 "crest": "https://crests.football-data.org/511.png"
             },
             "score": {
-                "winner": "AWAY_TEAM",
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
+                    "home": 3,
                     "away": 2
                 },
                 "halfTime": {
@@ -474,16 +474,16 @@
                 "id": 2416,
                 "startDate": "2025-08-08",
                 "endDate": "2026-12-29",
-                "currentMatchday": 45,
+                "currentMatchday": 42,
                 "winner": null
             },
             "id": 541216,
             "utcDate": "2026-04-17T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 43,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-17T20:09:35Z",
+            "lastUpdated": "2026-04-17T21:00:51Z",
             "homeTeam": {
                 "id": 59,
                 "name": "Blackburn Rovers FC",
@@ -502,8 +502,8 @@
                 "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
                     "home": 0,
@@ -552,16 +552,16 @@
                 "id": 2433,
                 "startDate": "2025-08-08",
                 "endDate": "2026-05-17",
-                "currentMatchday": 30,
+                "currentMatchday": 29,
                 "winner": null
             },
             "id": 545961,
             "utcDate": "2026-04-17T19:45:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 30,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-17T19:50:31Z",
+            "lastUpdated": "2026-04-17T21:47:31Z",
             "homeTeam": {
                 "id": 496,
                 "name": "Rio Ave FC",
@@ -580,12 +580,12 @@
                 "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": 1,
+                    "away": 1
                 },
                 "regularTime": {
                     "home": 0,
