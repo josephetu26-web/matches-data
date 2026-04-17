@@ -9,7 +9,7 @@
         "competitions": "CLI,SA,BL1,FL1,ELC,PPL",
         "first": "2026-04-17",
         "last": "2026-04-17",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -167,11 +167,11 @@
             },
             "id": 537140,
             "utcDate": "2026-04-17T16:30:00Z",
-            "status": "PAUSED",
+            "status": "FINISHED",
             "matchday": 33,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-17T17:24:33Z",
+            "lastUpdated": "2026-04-17T18:31:12Z",
             "homeTeam": {
                 "id": 471,
                 "name": "US Sassuolo Calcio",
@@ -245,11 +245,11 @@
             },
             "id": 540673,
             "utcDate": "2026-04-17T18:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 30,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-15T06:00:51Z",
+            "lastUpdated": "2026-04-17T20:08:12Z",
             "homeTeam": {
                 "id": 20,
                 "name": "FC St. Pauli 1910",
@@ -265,15 +265,27 @@
                 "crest": "https://crests.football-data.org/1.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -285,72 +297,6 @@
                     "name": "Matthias Jöllenbeck",
                     "type": "REFEREE",
                     "nationality": "Germany"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2081,
-                "name": "France",
-                "code": "FRA",
-                "flag": "https://crests.football-data.org/773.svg"
-            },
-            "competition": {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
-            },
-            "season": {
-                "id": 2420,
-                "startDate": "2025-08-17",
-                "endDate": "2026-05-16",
-                "currentMatchday": 30,
-                "winner": null
-            },
-            "id": 542674,
-            "utcDate": "2026-04-17T18:45:00Z",
-            "status": "TIMED",
-            "matchday": 30,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-04-11T01:32:04Z",
-            "homeTeam": {
-                "id": 546,
-                "name": "Racing Club de Lens",
-                "shortName": "RC Lens",
-                "tla": "RCL",
-                "crest": "https://crests.football-data.org/546.png"
-            },
-            "awayTeam": {
-                "id": 511,
-                "name": "Toulouse FC",
-                "shortName": "Toulouse",
-                "tla": "TOU",
-                "crest": "https://crests.football-data.org/511.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 57073,
-                    "name": "Jérémie Pignard",
-                    "type": "REFEREE",
-                    "nationality": "France"
                 }
             ]
         },
@@ -377,11 +323,11 @@
             },
             "id": 537137,
             "utcDate": "2026-04-17T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 33,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-14T01:32:01Z",
+            "lastUpdated": "2026-04-17T20:08:54Z",
             "homeTeam": {
                 "id": 108,
                 "name": "FC Internazionale Milano",
@@ -397,15 +343,27 @@
                 "crest": "https://crests.football-data.org/104.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -417,6 +375,84 @@
                     "name": "Matteo Marchetti",
                     "type": "REFEREE",
                     "nationality": "Italy"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2420,
+                "startDate": "2025-08-17",
+                "endDate": "2026-05-16",
+                "currentMatchday": 30,
+                "winner": null
+            },
+            "id": 542674,
+            "utcDate": "2026-04-17T18:45:00Z",
+            "status": "IN_PLAY",
+            "matchday": 30,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-04-17T19:57:39Z",
+            "homeTeam": {
+                "id": 546,
+                "name": "Racing Club de Lens",
+                "shortName": "RC Lens",
+                "tla": "RCL",
+                "crest": "https://crests.football-data.org/546.png"
+            },
+            "awayTeam": {
+                "id": 511,
+                "name": "Toulouse FC",
+                "shortName": "Toulouse",
+                "tla": "TOU",
+                "crest": "https://crests.football-data.org/511.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57073,
+                    "name": "Jérémie Pignard",
+                    "type": "REFEREE",
+                    "nationality": "France"
                 }
             ]
         },
@@ -443,11 +479,11 @@
             },
             "id": 541216,
             "utcDate": "2026-04-17T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 43,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-15T01:32:01Z",
+            "lastUpdated": "2026-04-17T20:09:35Z",
             "homeTeam": {
                 "id": 59,
                 "name": "Blackburn Rovers FC",
@@ -463,15 +499,27 @@
                 "crest": "https://crests.football-data.org/1076.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -509,11 +557,11 @@
             },
             "id": 545961,
             "utcDate": "2026-04-17T19:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 30,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-13T01:32:01Z",
+            "lastUpdated": "2026-04-17T19:50:31Z",
             "homeTeam": {
                 "id": 496,
                 "name": "Rio Ave FC",
@@ -529,21 +577,40 @@
                 "crest": "https://crests.football-data.org/10340.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 220533,
+                    "name": "Hélder Carvalho",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         }
     ]
 }
