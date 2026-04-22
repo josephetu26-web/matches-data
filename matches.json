@@ -35,11 +35,11 @@
             },
             "id": 542636,
             "utcDate": "2026-04-22T17:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 26,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-03-24T10:21:05Z",
+            "lastUpdated": "2026-04-22T18:14:03Z",
             "homeTeam": {
                 "id": 524,
                 "name": "Paris Saint-Germain FC",
@@ -55,15 +55,27 @@
                 "crest": "https://crests.football-data.org/543.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -101,11 +113,11 @@
             },
             "id": 544537,
             "utcDate": "2026-04-22T17:00:00Z",
-            "status": "TIMED",
+            "status": "PAUSED",
             "matchday": 33,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-16T01:32:04Z",
+            "lastUpdated": "2026-04-22T18:03:21Z",
             "homeTeam": {
                 "id": 285,
                 "name": "Elche CF",
@@ -121,15 +133,27 @@
                 "crest": "https://crests.football-data.org/78.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -139,6 +163,84 @@
                 {
                     "id": 206215,
                     "name": "Guillermo Cuadra Fernández",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            },
+            "season": {
+                "id": 2429,
+                "startDate": "2025-08-17",
+                "endDate": "2026-05-24",
+                "currentMatchday": 33,
+                "winner": null
+            },
+            "id": 544540,
+            "utcDate": "2026-04-22T18:00:00Z",
+            "status": "IN_PLAY",
+            "matchday": 33,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-04-22T18:05:24Z",
+            "homeTeam": {
+                "id": 92,
+                "name": "Real Sociedad de Fútbol",
+                "shortName": "Real Sociedad",
+                "tla": "RSO",
+                "crest": "https://crests.football-data.org/92.png"
+            },
+            "awayTeam": {
+                "id": 82,
+                "name": "Getafe CF",
+                "shortName": "Getafe",
+                "tla": "GET",
+                "crest": "https://crests.football-data.org/82.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 217698,
+                    "name": "Mateo Busquets Ferrer",
                     "type": "REFEREE",
                     "nationality": "Spain"
                 }
@@ -167,11 +269,11 @@
             },
             "id": 537718,
             "utcDate": "2026-04-22T18:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 31,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-16T01:32:04Z",
+            "lastUpdated": "2026-04-22T18:05:25Z",
             "homeTeam": {
                 "id": 1912,
                 "name": "Telstar 1963",
@@ -187,63 +289,82 @@
                 "crest": "https://crests.football-data.org/6806.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 56917,
+                    "name": "Erwin Blank",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
-                "id": 2224,
-                "name": "Spain",
-                "code": "ESP",
-                "flag": "https://crests.football-data.org/760.svg"
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
             },
             "competition": {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/ELC.png"
             },
             "season": {
-                "id": 2429,
-                "startDate": "2025-08-17",
-                "endDate": "2026-05-24",
-                "currentMatchday": 33,
+                "id": 2416,
+                "startDate": "2025-08-08",
+                "endDate": "2026-12-29",
+                "currentMatchday": 45,
                 "winner": null
             },
-            "id": 544540,
-            "utcDate": "2026-04-22T18:00:00Z",
+            "id": 541237,
+            "utcDate": "2026-04-22T18:45:00Z",
             "status": "TIMED",
-            "matchday": 33,
+            "matchday": 44,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-16T01:32:04Z",
+            "lastUpdated": "2026-04-22T01:32:00Z",
             "homeTeam": {
-                "id": 92,
-                "name": "Real Sociedad de Fútbol",
-                "shortName": "Real Sociedad",
-                "tla": "RSO",
-                "crest": "https://crests.football-data.org/92.png"
+                "id": 348,
+                "name": "Charlton Athletic FC",
+                "shortName": "Charlton",
+                "tla": "CHA",
+                "crest": "https://crests.football-data.org/348.png"
             },
             "awayTeam": {
-                "id": 82,
-                "name": "Getafe CF",
-                "shortName": "Getafe",
-                "tla": "GET",
-                "crest": "https://crests.football-data.org/82.png"
+                "id": 349,
+                "name": "Ipswich Town FC",
+                "shortName": "Ipswich Town",
+                "tla": "IPS",
+                "crest": "https://crests.football-data.org/349.png"
             },
             "score": {
                 "winner": null,
@@ -262,10 +383,76 @@
             },
             "referees": [
                 {
-                    "id": 217698,
-                    "name": "Mateo Busquets Ferrer",
+                    "id": 193220,
+                    "name": "Bobby Madley",
                     "type": "REFEREE",
-                    "nationality": "Spain"
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "competition": {
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ELC.png"
+            },
+            "season": {
+                "id": 2416,
+                "startDate": "2025-08-08",
+                "endDate": "2026-12-29",
+                "currentMatchday": 45,
+                "winner": null
+            },
+            "id": 541229,
+            "utcDate": "2026-04-22T18:45:00Z",
+            "status": "TIMED",
+            "matchday": 44,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-04-16T01:32:04Z",
+            "homeTeam": {
+                "id": 343,
+                "name": "Middlesbrough FC",
+                "shortName": "Middlesbrough",
+                "tla": "MID",
+                "crest": "https://crests.football-data.org/343.png"
+            },
+            "awayTeam": {
+                "id": 345,
+                "name": "Sheffield Wednesday FC",
+                "shortName": "Sheffield Wed",
+                "tla": "SHE",
+                "crest": "https://crests.football-data.org/345.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 11549,
+                    "name": "David Webb",
+                    "type": "REFEREE",
+                    "nationality": "England"
                 }
             ]
         },
@@ -326,7 +513,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 210717,
+                    "name": "Farai Hallam",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
@@ -385,187 +579,10 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https://crests.football-data.org/770.svg"
-            },
-            "competition": {
-                "id": 2016,
-                "name": "Championship",
-                "code": "ELC",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ELC.png"
-            },
-            "season": {
-                "id": 2416,
-                "startDate": "2025-08-08",
-                "endDate": "2026-12-29",
-                "currentMatchday": 45,
-                "winner": null
-            },
-            "id": 541229,
-            "utcDate": "2026-04-22T18:45:00Z",
-            "status": "TIMED",
-            "matchday": 44,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-04-16T01:32:04Z",
-            "homeTeam": {
-                "id": 343,
-                "name": "Middlesbrough FC",
-                "shortName": "Middlesbrough",
-                "tla": "MID",
-                "crest": "https://crests.football-data.org/343.png"
-            },
-            "awayTeam": {
-                "id": 345,
-                "name": "Sheffield Wednesday FC",
-                "shortName": "Sheffield Wed",
-                "tla": "SHE",
-                "crest": "https://crests.football-data.org/345.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https://crests.football-data.org/770.svg"
-            },
-            "competition": {
-                "id": 2016,
-                "name": "Championship",
-                "code": "ELC",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ELC.png"
-            },
-            "season": {
-                "id": 2416,
-                "startDate": "2025-08-08",
-                "endDate": "2026-12-29",
-                "currentMatchday": 45,
-                "winner": null
-            },
-            "id": 541237,
-            "utcDate": "2026-04-22T18:45:00Z",
-            "status": "TIMED",
-            "matchday": 44,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-04-22T01:32:00Z",
-            "homeTeam": {
-                "id": 348,
-                "name": "Charlton Athletic FC",
-                "shortName": "Charlton",
-                "tla": "CHA",
-                "crest": "https://crests.football-data.org/348.png"
-            },
-            "awayTeam": {
-                "id": 349,
-                "name": "Ipswich Town FC",
-                "shortName": "Ipswich Town",
-                "tla": "IPS",
-                "crest": "https://crests.football-data.org/349.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https://crests.football-data.org/770.svg"
-            },
-            "competition": {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
-            },
-            "season": {
-                "id": 2403,
-                "startDate": "2025-08-15",
-                "endDate": "2026-05-24",
-                "currentMatchday": 34,
-                "winner": null
-            },
-            "id": 538119,
-            "utcDate": "2026-04-22T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 34,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-04-22T00:21:08Z",
-            "homeTeam": {
-                "id": 328,
-                "name": "Burnley FC",
-                "shortName": "Burnley",
-                "tla": "BUR",
-                "crest": "https://crests.football-data.org/328.png"
-            },
-            "awayTeam": {
-                "id": 65,
-                "name": "Manchester City FC",
-                "shortName": "Man City",
-                "tla": "MCI",
-                "crest": "https://crests.football-data.org/65.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
             "referees": [
                 {
-                    "id": 11423,
-                    "name": "Andy Madley",
+                    "id": 11689,
+                    "name": "Ben Toner",
                     "type": "REFEREE",
                     "nationality": "England"
                 }
@@ -632,6 +649,72 @@
                 {
                     "id": 11405,
                     "name": "Michael Salisbury",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            },
+            "season": {
+                "id": 2403,
+                "startDate": "2025-08-15",
+                "endDate": "2026-05-24",
+                "currentMatchday": 34,
+                "winner": null
+            },
+            "id": 538119,
+            "utcDate": "2026-04-22T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 34,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-04-22T00:21:08Z",
+            "homeTeam": {
+                "id": 328,
+                "name": "Burnley FC",
+                "shortName": "Burnley",
+                "tla": "BUR",
+                "crest": "https://crests.football-data.org/328.png"
+            },
+            "awayTeam": {
+                "id": 65,
+                "name": "Manchester City FC",
+                "shortName": "Man City",
+                "tla": "MCI",
+                "crest": "https://crests.football-data.org/65.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 11423,
+                    "name": "Andy Madley",
                     "type": "REFEREE",
                     "nationality": "England"
                 }
