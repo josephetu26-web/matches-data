@@ -6,7 +6,7 @@
     },
     "resultSet": {
         "count": 7,
-        "competitions": "BL1,FL1,SA,PL,PD,ELC,PPL",
+        "competitions": "BL1,FL1,SA,PL,ELC,PD,PPL",
         "first": "2026-04-24",
         "last": "2026-04-24",
         "played": 0
@@ -35,11 +35,11 @@
             },
             "id": 540682,
             "utcDate": "2026-04-24T18:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 31,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-22T06:00:56Z",
+            "lastUpdated": "2026-04-24T19:58:44Z",
             "homeTeam": {
                 "id": 721,
                 "name": "RB Leipzig",
@@ -55,15 +55,27 @@
                 "crest": "https://crests.football-data.org/28.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -101,11 +113,11 @@
             },
             "id": 542683,
             "utcDate": "2026-04-24T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 31,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-20T01:32:02Z",
+            "lastUpdated": "2026-04-24T20:08:26Z",
             "homeTeam": {
                 "id": 512,
                 "name": "Stade Brestois 29",
@@ -121,15 +133,27 @@
                 "crest": "https://crests.football-data.org/546.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -167,11 +191,11 @@
             },
             "id": 537154,
             "utcDate": "2026-04-24T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-20T01:32:02Z",
+            "lastUpdated": "2026-04-24T20:04:04Z",
             "homeTeam": {
                 "id": 113,
                 "name": "SSC Napoli",
@@ -187,15 +211,27 @@
                 "crest": "https://crests.football-data.org/457.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 4,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -233,11 +269,11 @@
             },
             "id": 538116,
             "utcDate": "2026-04-24T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-19T01:32:03Z",
+            "lastUpdated": "2026-04-24T20:09:23Z",
             "homeTeam": {
                 "id": 71,
                 "name": "Sunderland AFC",
@@ -253,15 +289,27 @@
                 "crest": "https://crests.football-data.org/351.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 4
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 4
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -271,6 +319,84 @@
                 {
                     "id": 11469,
                     "name": "Darren England",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "competition": {
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ELC.png"
+            },
+            "season": {
+                "id": 2416,
+                "startDate": "2025-08-08",
+                "endDate": "2026-12-29",
+                "currentMatchday": 45,
+                "winner": null
+            },
+            "id": 541243,
+            "utcDate": "2026-04-24T19:00:00Z",
+            "status": "IN_PLAY",
+            "matchday": 45,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-04-24T20:10:03Z",
+            "homeTeam": {
+                "id": 338,
+                "name": "Leicester City FC",
+                "shortName": "Leicester City",
+                "tla": "LEI",
+                "crest": "https://crests.football-data.org/338.png"
+            },
+            "awayTeam": {
+                "id": 384,
+                "name": "Millwall FC",
+                "shortName": "Millwall",
+                "tla": "MIL",
+                "crest": "https://crests.football-data.org/384.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 210717,
+                    "name": "Farai Hallam",
                     "type": "REFEREE",
                     "nationality": "England"
                 }
@@ -299,11 +425,11 @@
             },
             "id": 544522,
             "utcDate": "2026-04-24T19:00:00Z",
-            "status": "TIMED",
+            "status": "PAUSED",
             "matchday": 32,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-24T00:21:04Z",
+            "lastUpdated": "2026-04-24T19:58:28Z",
             "homeTeam": {
                 "id": 90,
                 "name": "Real Betis Balompié",
@@ -319,15 +445,27 @@
                 "crest": "https://crests.football-data.org/86.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -339,72 +477,6 @@
                     "name": "César Soto Grado",
                     "type": "REFEREE",
                     "nationality": "Spain"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https://crests.football-data.org/770.svg"
-            },
-            "competition": {
-                "id": 2016,
-                "name": "Championship",
-                "code": "ELC",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ELC.png"
-            },
-            "season": {
-                "id": 2416,
-                "startDate": "2025-08-08",
-                "endDate": "2026-12-29",
-                "currentMatchday": 45,
-                "winner": null
-            },
-            "id": 541243,
-            "utcDate": "2026-04-24T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 45,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-04-23T01:32:00Z",
-            "homeTeam": {
-                "id": 338,
-                "name": "Leicester City FC",
-                "shortName": "Leicester City",
-                "tla": "LEI",
-                "crest": "https://crests.football-data.org/338.png"
-            },
-            "awayTeam": {
-                "id": 384,
-                "name": "Millwall FC",
-                "shortName": "Millwall",
-                "tla": "MIL",
-                "crest": "https://crests.football-data.org/384.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 210717,
-                    "name": "Farai Hallam",
-                    "type": "REFEREE",
-                    "nationality": "England"
                 }
             ]
         },
@@ -431,11 +503,11 @@
             },
             "id": 545976,
             "utcDate": "2026-04-24T19:15:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 31,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-20T01:32:02Z",
+            "lastUpdated": "2026-04-24T19:33:09Z",
             "homeTeam": {
                 "id": 7822,
                 "name": "FC Alverca",
@@ -451,15 +523,27 @@
                 "crest": "https://crests.football-data.org/712.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
