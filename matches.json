@@ -9,7 +9,7 @@
         "competitions": "SA,PL,PD,PPL",
         "first": "2026-04-27",
         "last": "2026-04-27",
-        "played": 0
+        "played": 5
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 537147,
             "utcDate": "2026-04-27T16:30:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-27T16:45:35Z",
+            "lastUpdated": "2026-04-27T18:35:45Z",
             "homeTeam": {
                 "id": 104,
                 "name": "Cagliari Calcio",
@@ -58,12 +58,12 @@
                 "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 2,
-                    "away": 0
+                    "home": 3,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": 2,
+                    "away": 2
                 },
                 "regularTime": {
                     "home": 0,
@@ -113,11 +113,11 @@
             },
             "id": 537152,
             "utcDate": "2026-04-27T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-21T01:32:05Z",
+            "lastUpdated": "2026-04-27T20:47:41Z",
             "homeTeam": {
                 "id": 110,
                 "name": "SS Lazio",
@@ -133,15 +133,27 @@
                 "crest": "https://crests.football-data.org/115.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -179,11 +191,11 @@
             },
             "id": 538122,
             "utcDate": "2026-04-27T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-27T00:21:06Z",
+            "lastUpdated": "2026-04-27T21:00:20Z",
             "homeTeam": {
                 "id": 66,
                 "name": "Manchester United FC",
@@ -199,15 +211,27 @@
                 "crest": "https://crests.football-data.org/402.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -245,11 +269,11 @@
             },
             "id": 544523,
             "utcDate": "2026-04-27T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 32,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-27T01:32:00Z",
+            "lastUpdated": "2026-04-27T21:04:40Z",
             "homeTeam": {
                 "id": 80,
                 "name": "RCD Espanyol de Barcelona",
@@ -265,15 +289,27 @@
                 "crest": "https://crests.football-data.org/88.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -311,11 +347,11 @@
             },
             "id": 545970,
             "utcDate": "2026-04-27T19:15:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 31,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-20T00:21:04Z",
+            "lastUpdated": "2026-04-27T21:24:50Z",
             "homeTeam": {
                 "id": 5533,
                 "name": "Gil Vicente FC",
@@ -331,21 +367,40 @@
                 "crest": "https://crests.football-data.org/6618.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 220513,
+                    "name": "Bruno Costa",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         }
     ]
 }
