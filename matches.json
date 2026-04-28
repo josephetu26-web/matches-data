@@ -165,26 +165,26 @@
                 "currentMatchday": 3,
                 "winner": null
             },
-            "id": 557172,
+            "id": 557160,
             "utcDate": "2026-04-28T22:00:00Z",
             "status": "TIMED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_H",
-            "lastUpdated": "2026-03-24T15:21:09Z",
+            "group": "GROUP_G",
+            "lastUpdated": "2026-03-23T03:59:22Z",
             "homeTeam": {
-                "id": 9379,
-                "name": "Club Libertad Asuncion",
-                "shortName": "Libertad",
-                "tla": "CLA",
-                "crest": "https://crests.football-data.org/9379.png"
+                "id": 2066,
+                "name": "CA Lanús",
+                "shortName": "Lanús",
+                "tla": "LAN",
+                "crest": "https://crests.football-data.org/2066.png"
             },
             "awayTeam": {
-                "id": 6989,
-                "name": "CAR Independiente del Valle",
-                "shortName": "Independiente",
-                "tla": "IDL",
-                "crest": "https://crests.football-data.org/6989.png"
+                "id": 4528,
+                "name": "LDU de Quito",
+                "shortName": "LDU de Quito",
+                "tla": "LDU",
+                "crest": "https://crests.football-data.org/4528.png"
             },
             "score": {
                 "winner": null,
@@ -224,26 +224,26 @@
                 "currentMatchday": 3,
                 "winner": null
             },
-            "id": 557160,
+            "id": 557172,
             "utcDate": "2026-04-28T22:00:00Z",
             "status": "TIMED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_G",
-            "lastUpdated": "2026-03-23T03:59:22Z",
+            "group": "GROUP_H",
+            "lastUpdated": "2026-03-24T15:21:09Z",
             "homeTeam": {
-                "id": 2066,
-                "name": "CA Lanús",
-                "shortName": "Lanús",
-                "tla": "LAN",
-                "crest": "https://crests.football-data.org/2066.png"
+                "id": 9379,
+                "name": "Club Libertad Asuncion",
+                "shortName": "Libertad",
+                "tla": "CLA",
+                "crest": "https://crests.football-data.org/9379.png"
             },
             "awayTeam": {
-                "id": 4528,
-                "name": "LDU de Quito",
-                "shortName": "LDU de Quito",
-                "tla": "LDU",
-                "crest": "https://crests.football-data.org/4528.png"
+                "id": 6989,
+                "name": "CAR Independiente del Valle",
+                "shortName": "Independiente",
+                "tla": "IDL",
+                "crest": "https://crests.football-data.org/6989.png"
             },
             "score": {
                 "winner": null,
