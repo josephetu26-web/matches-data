@@ -30,16 +30,16 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557125,
             "utcDate": "2026-04-30T00:00:00Z",
-            "status": "PAUSED",
+            "status": "TIMED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_D",
-            "lastUpdated": "2026-04-30T03:00:00Z",
+            "lastUpdated": "2026-03-23T03:59:21Z",
             "homeTeam": {
                 "id": 4520,
                 "name": "Barcelona SC",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/6993.png"
             },
             "score": {
-                "winner": "AWAY_TEAM",
+                "winner": null,
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 2
+                    "home": null,
+                    "away": null
                 },
                 "halfTime": {
-                    "home": 0,
-                    "away": 2
+                    "home": null,
+                    "away": null
                 }
             },
             "odds": {
@@ -96,16 +96,16 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557088,
             "utcDate": "2026-04-30T00:30:00Z",
-            "status": "IN_PLAY",
+            "status": "TIMED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_A",
-            "lastUpdated": "2026-04-30T03:00:01Z",
+            "lastUpdated": "2026-04-11T20:20:50Z",
             "homeTeam": {
                 "id": 2051,
                 "name": "Estudiantes de La Plata",
@@ -121,11 +121,11 @@
                 "crest": "https://crests.football-data.org/1783.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": null,
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": null,
+                    "away": null
                 },
                 "halfTime": {
                     "home": null,
@@ -162,16 +162,16 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557148,
             "utcDate": "2026-04-30T00:30:00Z",
-            "status": "IN_PLAY",
+            "status": "TIMED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_F",
-            "lastUpdated": "2026-04-30T02:59:55Z",
+            "lastUpdated": "2026-04-11T20:20:50Z",
             "homeTeam": {
                 "id": 9373,
                 "name": "Club Cerro Porteño",
@@ -187,11 +187,11 @@
                 "crest": "https://crests.football-data.org/1769.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": null,
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": null,
+                    "away": null
                 },
                 "halfTime": {
                     "home": null,
@@ -228,7 +228,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557100,
@@ -237,7 +237,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-04-30T02:52:56Z",
+            "lastUpdated": "2026-03-23T03:59:20Z",
             "homeTeam": {
                 "id": 4268,
                 "name": "Club Universitario de Deportes",
@@ -294,66 +294,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 3,
-                "winner": null
-            },
-            "id": 557113,
-            "utcDate": "2026-04-30T22:00:00Z",
-            "status": "TIMED",
-            "matchday": 3,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_C",
-            "lastUpdated": "2026-03-23T03:59:21Z",
-            "homeTeam": {
-                "id": 2052,
-                "name": "CS Independiente Rivadavia",
-                "shortName": "Rivadavia",
-                "tla": "RIV",
-                "crest": "https://crests.football-data.org/2052.png"
-            },
-            "awayTeam": {
-                "id": 5170,
-                "name": "Deportivo La Guaira FC",
-                "shortName": "La Guaira",
-                "tla": null,
-                "crest": null
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557112,
@@ -392,7 +333,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 113033,
+                    "name": "Derlis López",
+                    "type": "REFEREE",
+                    "nationality": "Paraguay"
+                }
+            ]
         },
         {
             "area": {
@@ -412,7 +360,73 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
+                "winner": null
+            },
+            "id": 557113,
+            "utcDate": "2026-04-30T22:00:00Z",
+            "status": "TIMED",
+            "matchday": 3,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_C",
+            "lastUpdated": "2026-03-23T03:59:21Z",
+            "homeTeam": {
+                "id": 2052,
+                "name": "CS Independiente Rivadavia",
+                "shortName": "Rivadavia",
+                "tla": "RIV",
+                "crest": "https://crests.football-data.org/2052.png"
+            },
+            "awayTeam": {
+                "id": 5170,
+                "name": "Deportivo La Guaira FC",
+                "shortName": "La Guaira",
+                "tla": null,
+                "crest": null
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 44006,
+                    "name": "Augusto Menéndez",
+                    "type": "REFEREE",
+                    "nationality": "Peru"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557136,
@@ -421,7 +435,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-04-29T20:21:11Z",
+            "lastUpdated": "2026-04-11T20:20:50Z",
             "homeTeam": {
                 "id": 1779,
                 "name": "SC Corinthians Paulista",
