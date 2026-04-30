@@ -99,72 +99,6 @@
                 "currentMatchday": 3,
                 "winner": null
             },
-            "id": 557148,
-            "utcDate": "2026-04-30T00:30:00Z",
-            "status": "IN_PLAY",
-            "matchday": 3,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_F",
-            "lastUpdated": "2026-04-30T02:59:55Z",
-            "homeTeam": {
-                "id": 9373,
-                "name": "Club Cerro Porteño",
-                "shortName": "Cerro Porteño",
-                "tla": "CCP",
-                "crest": "https://crests.football-data.org/9373.png"
-            },
-            "awayTeam": {
-                "id": 1769,
-                "name": "SE Palmeiras",
-                "shortName": "Palmeiras",
-                "tla": "PAL",
-                "crest": "https://crests.football-data.org/1769.png"
-            },
-            "score": {
-                "winner": "DRAW",
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 260120,
-                    "name": "Gustavo Tejera",
-                    "type": "REFEREE",
-                    "nationality": "Uruguay"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 3,
-                "winner": null
-            },
             "id": 557088,
             "utcDate": "2026-04-30T00:30:00Z",
             "status": "IN_PLAY",
@@ -207,6 +141,72 @@
                     "name": "Piero Maza",
                     "type": "REFEREE",
                     "nationality": "Chile"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 3,
+                "winner": null
+            },
+            "id": 557148,
+            "utcDate": "2026-04-30T00:30:00Z",
+            "status": "IN_PLAY",
+            "matchday": 3,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_F",
+            "lastUpdated": "2026-04-30T02:59:55Z",
+            "homeTeam": {
+                "id": 9373,
+                "name": "Club Cerro Porteño",
+                "shortName": "Cerro Porteño",
+                "tla": "CCP",
+                "crest": "https://crests.football-data.org/9373.png"
+            },
+            "awayTeam": {
+                "id": 1769,
+                "name": "SE Palmeiras",
+                "shortName": "Palmeiras",
+                "tla": "PAL",
+                "crest": "https://crests.football-data.org/1769.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 260120,
+                    "name": "Gustavo Tejera",
+                    "type": "REFEREE",
+                    "nationality": "Uruguay"
                 }
             ]
         },
@@ -297,7 +297,7 @@
                 "currentMatchday": 3,
                 "winner": null
             },
-            "id": 557112,
+            "id": 557113,
             "utcDate": "2026-04-30T22:00:00Z",
             "status": "TIMED",
             "matchday": 3,
@@ -305,18 +305,18 @@
             "group": "GROUP_C",
             "lastUpdated": "2026-03-23T03:59:21Z",
             "homeTeam": {
-                "id": 4261,
-                "name": "Club Bolívar",
-                "shortName": "Club Bolívar",
-                "tla": "BOL",
-                "crest": "https://crests.football-data.org/4261.png"
+                "id": 2052,
+                "name": "CS Independiente Rivadavia",
+                "shortName": "Rivadavia",
+                "tla": "RIV",
+                "crest": "https://crests.football-data.org/2052.png"
             },
             "awayTeam": {
-                "id": 1765,
-                "name": "Fluminense FC",
-                "shortName": "Fluminense",
-                "tla": "FLU",
-                "crest": "https://crests.football-data.org/1765.png"
+                "id": 5170,
+                "name": "Deportivo La Guaira FC",
+                "shortName": "La Guaira",
+                "tla": null,
+                "crest": null
             },
             "score": {
                 "winner": null,
@@ -356,7 +356,7 @@
                 "currentMatchday": 3,
                 "winner": null
             },
-            "id": 557113,
+            "id": 557112,
             "utcDate": "2026-04-30T22:00:00Z",
             "status": "TIMED",
             "matchday": 3,
@@ -364,18 +364,18 @@
             "group": "GROUP_C",
             "lastUpdated": "2026-03-23T03:59:21Z",
             "homeTeam": {
-                "id": 2052,
-                "name": "CS Independiente Rivadavia",
-                "shortName": "Rivadavia",
-                "tla": "RIV",
-                "crest": "https://crests.football-data.org/2052.png"
+                "id": 4261,
+                "name": "Club Bolívar",
+                "shortName": "Club Bolívar",
+                "tla": "BOL",
+                "crest": "https://crests.football-data.org/4261.png"
             },
             "awayTeam": {
-                "id": 5170,
-                "name": "Deportivo La Guaira FC",
-                "shortName": "La Guaira",
-                "tla": null,
-                "crest": null
+                "id": 1765,
+                "name": "Fluminense FC",
+                "shortName": "Fluminense",
+                "tla": "FLU",
+                "crest": "https://crests.football-data.org/1765.png"
             },
             "score": {
                 "winner": null,
