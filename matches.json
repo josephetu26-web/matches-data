@@ -30,7 +30,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557136,
@@ -39,7 +39,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-04-21T05:21:10Z",
+            "lastUpdated": "2026-04-11T20:20:50Z",
             "homeTeam": {
                 "id": 1779,
                 "name": "SC Corinthians Paulista",
@@ -96,7 +96,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557089,
@@ -162,7 +162,7 @@
                 "id": 2395,
                 "startDate": "2025-08-24",
                 "endDate": "2026-05-24",
-                "currentMatchday": 33,
+                "currentMatchday": 32,
                 "winner": null
             },
             "id": 537161,
@@ -171,7 +171,7 @@
             "matchday": 35,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-18T00:21:02Z",
+            "lastUpdated": "2026-04-17T22:25:23Z",
             "homeTeam": {
                 "id": 487,
                 "name": "AC Pisa 1909",
@@ -228,7 +228,7 @@
                 "id": 2403,
                 "startDate": "2025-08-15",
                 "endDate": "2026-05-24",
-                "currentMatchday": 34,
+                "currentMatchday": 32,
                 "winner": null
             },
             "id": 538131,
@@ -237,7 +237,7 @@
             "matchday": 35,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-21T05:21:07Z",
+            "lastUpdated": "2026-04-11T10:21:13Z",
             "homeTeam": {
                 "id": 341,
                 "name": "Leeds United FC",
@@ -294,7 +294,7 @@
                 "id": 2429,
                 "startDate": "2025-08-17",
                 "endDate": "2026-05-24",
-                "currentMatchday": 33,
+                "currentMatchday": 31,
                 "winner": null
             },
             "id": 544546,
@@ -303,7 +303,7 @@
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-04-12T00:20:59Z",
+            "lastUpdated": "2026-04-11T22:25:20Z",
             "homeTeam": {
                 "id": 298,
                 "name": "Girona FC",
