@@ -9,7 +9,7 @@
         "competitions": "PL,SA,PD,PPL",
         "first": "2026-05-04",
         "last": "2026-05-04",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 538129,
             "utcDate": "2026-05-04T14:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 35,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-03T01:32:01Z",
+            "lastUpdated": "2026-05-04T16:15:28Z",
             "homeTeam": {
                 "id": 61,
                 "name": "Chelsea FC",
@@ -55,15 +55,27 @@
                 "crest": "https://crests.football-data.org/351.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -101,11 +113,11 @@
             },
             "id": 537164,
             "utcDate": "2026-05-04T16:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 35,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-04T01:32:00Z",
+            "lastUpdated": "2026-05-04T17:06:08Z",
             "homeTeam": {
                 "id": 457,
                 "name": "US Cremonese",
@@ -121,15 +133,27 @@
                 "crest": "https://crests.football-data.org/110.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -399,7 +423,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 37386,
+                    "name": "António Nobre",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         }
     ]
 }
