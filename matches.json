@@ -35,11 +35,11 @@
             },
             "id": 552095,
             "utcDate": "2026-05-05T19:00:00Z",
-            "status": "TIMED",
+            "status": "PAUSED",
             "matchday": 2,
             "stage": "SEMI_FINALS",
             "group": null,
-            "lastUpdated": "2026-04-29T01:32:03Z",
+            "lastUpdated": "2026-05-05T19:52:33Z",
             "homeTeam": {
                 "id": 57,
                 "name": "Arsenal FC",
@@ -53,6 +53,84 @@
                 "shortName": "Atleti",
                 "tla": "ATL",
                 "crest": "https://crests.football-data.org/78.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 15408,
+                    "name": "Daniel Siebert",
+                    "type": "REFEREE",
+                    "nationality": "Germany"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 557151,
+            "utcDate": "2026-05-05T22:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_F",
+            "lastUpdated": "2026-05-05T00:21:16Z",
+            "homeTeam": {
+                "id": 5347,
+                "name": "CS Cristal",
+                "shortName": "Cristal",
+                "tla": "SPO",
+                "crest": "https://crests.football-data.org/5347.png"
+            },
+            "awayTeam": {
+                "id": 1769,
+                "name": "SE Palmeiras",
+                "shortName": "Palmeiras",
+                "tla": "PAL",
+                "crest": "https://crests.football-data.org/1769.png"
             },
             "score": {
                 "winner": null,
@@ -71,10 +149,10 @@
             },
             "referees": [
                 {
-                    "id": 15408,
-                    "name": "Daniel Siebert",
+                    "id": 57288,
+                    "name": "Darío Herrera",
                     "type": "REFEREE",
-                    "nationality": "Germany"
+                    "nationality": "Argentina"
                 }
             ]
         },
@@ -135,7 +213,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11412,
+                    "name": "Wilton Sampaio",
+                    "type": "REFEREE",
+                    "nationality": "Brazil"
+                }
+            ]
         },
         {
             "area": {
@@ -158,26 +243,26 @@
                 "currentMatchday": 4,
                 "winner": null
             },
-            "id": 557151,
-            "utcDate": "2026-05-05T22:00:00Z",
+            "id": 557175,
+            "utcDate": "2026-05-06T00:00:00Z",
             "status": "TIMED",
             "matchday": 4,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_F",
-            "lastUpdated": "2026-05-05T00:21:16Z",
+            "group": "GROUP_H",
+            "lastUpdated": "2026-03-23T03:59:22Z",
             "homeTeam": {
-                "id": 5347,
-                "name": "CS Cristal",
-                "shortName": "Cristal",
-                "tla": "SPO",
-                "crest": "https://crests.football-data.org/5347.png"
+                "id": 9357,
+                "name": "Universidad Central de Venezuela FC",
+                "shortName": "Universidad Central",
+                "tla": "UCV",
+                "crest": "https://crests.football-data.org/9357.png"
             },
             "awayTeam": {
-                "id": 1769,
-                "name": "SE Palmeiras",
-                "shortName": "Palmeiras",
-                "tla": "PAL",
-                "crest": "https://crests.football-data.org/1769.png"
+                "id": 6989,
+                "name": "CAR Independiente del Valle",
+                "shortName": "Independiente",
+                "tla": "IDL",
+                "crest": "https://crests.football-data.org/6989.png"
             },
             "score": {
                 "winner": null,
@@ -237,65 +322,6 @@
                 "shortName": "Boca Juniors",
                 "tla": "BOC",
                 "crest": "https://crests.football-data.org/2061.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 4,
-                "winner": null
-            },
-            "id": 557175,
-            "utcDate": "2026-05-06T00:00:00Z",
-            "status": "TIMED",
-            "matchday": 4,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_H",
-            "lastUpdated": "2026-03-23T03:59:22Z",
-            "homeTeam": {
-                "id": 9357,
-                "name": "Universidad Central de Venezuela FC",
-                "shortName": "Universidad Central",
-                "tla": "UCV",
-                "crest": "https://crests.football-data.org/9357.png"
-            },
-            "awayTeam": {
-                "id": 6989,
-                "name": "CAR Independiente del Valle",
-                "shortName": "Independiente",
-                "tla": "IDL",
-                "crest": "https://crests.football-data.org/6989.png"
             },
             "score": {
                 "winner": null,
