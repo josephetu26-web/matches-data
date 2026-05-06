@@ -233,11 +233,11 @@
             },
             "id": 552094,
             "utcDate": "2026-05-06T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 2,
             "stage": "SEMI_FINALS",
             "group": null,
-            "lastUpdated": "2026-04-30T01:32:03Z",
+            "lastUpdated": "2026-05-06T19:10:18Z",
             "homeTeam": {
                 "id": 5,
                 "name": "FC Bayern München",
@@ -253,15 +253,27 @@
                 "crest": "https://crests.football-data.org/524.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -275,65 +287,6 @@
                     "nationality": "Portugal"
                 }
             ]
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 4,
-                "winner": null
-            },
-            "id": 557114,
-            "utcDate": "2026-05-06T22:00:00Z",
-            "status": "TIMED",
-            "matchday": 4,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_C",
-            "lastUpdated": "2026-03-23T03:59:21Z",
-            "homeTeam": {
-                "id": 5170,
-                "name": "Deportivo La Guaira FC",
-                "shortName": "La Guaira",
-                "tla": "DLG",
-                "crest": "https://crests.football-data.org/5170.png"
-            },
-            "awayTeam": {
-                "id": 4261,
-                "name": "Club Bolívar",
-                "shortName": "Club Bolívar",
-                "tla": "BOL",
-                "crest": "https://crests.football-data.org/4261.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
         },
         {
             "area": {
@@ -376,6 +329,65 @@
                 "shortName": "Estudiantes LP",
                 "tla": "EST",
                 "crest": "https://crests.football-data.org/2051.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 557114,
+            "utcDate": "2026-05-06T22:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_C",
+            "lastUpdated": "2026-03-23T03:59:21Z",
+            "homeTeam": {
+                "id": 5170,
+                "name": "Deportivo La Guaira FC",
+                "shortName": "La Guaira",
+                "tla": "DLG",
+                "crest": "https://crests.football-data.org/5170.png"
+            },
+            "awayTeam": {
+                "id": 4261,
+                "name": "Club Bolívar",
+                "shortName": "Club Bolívar",
+                "tla": "BOL",
+                "crest": "https://crests.football-data.org/4261.png"
             },
             "score": {
                 "winner": null,
