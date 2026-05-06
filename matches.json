@@ -9,7 +9,7 @@
         "competitions": "CLI,CL",
         "first": "2026-05-06",
         "last": "2026-05-06",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -233,11 +233,11 @@
             },
             "id": 552094,
             "utcDate": "2026-05-06T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "SEMI_FINALS",
             "group": null,
-            "lastUpdated": "2026-05-06T19:10:18Z",
+            "lastUpdated": "2026-05-06T21:05:18Z",
             "homeTeam": {
                 "id": 5,
                 "name": "FC Bayern München",
@@ -253,15 +253,15 @@
                 "crest": "https://crests.football-data.org/524.png"
             },
             "score": {
-                "winner": "AWAY_TEAM",
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
+                    "home": 1,
                     "away": 1
                 },
                 "halfTime": {
                     "home": 0,
-                    "away": 0
+                    "away": 1
                 },
                 "regularTime": {
                     "home": 0,
@@ -345,7 +345,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 25022,
+                    "name": "Guillermo Guerrero",
+                    "type": "REFEREE",
+                    "nationality": "Ecuador"
+                }
+            ]
         },
         {
             "area": {
@@ -404,7 +411,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 262964,
+                    "name": "Bryan Loayza",
+                    "type": "REFEREE",
+                    "nationality": "Ecuador"
+                }
+            ]
         }
     ]
 }
