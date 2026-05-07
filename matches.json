@@ -297,26 +297,26 @@
                 "currentMatchday": 4,
                 "winner": null
             },
-            "id": 557163,
+            "id": 557139,
             "utcDate": "2026-05-07T22:00:00Z",
             "status": "TIMED",
             "matchday": 4,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_G",
-            "lastUpdated": "2026-03-23T03:59:22Z",
+            "group": "GROUP_E",
+            "lastUpdated": "2026-03-23T03:59:21Z",
             "homeTeam": {
-                "id": 4364,
-                "name": "Mirassol FC",
-                "shortName": "Mirassol",
-                "tla": "MIR",
-                "crest": "https://crests.football-data.org/4364.png"
+                "id": 7580,
+                "name": "CA Platense",
+                "shortName": "Platense",
+                "tla": "PLA",
+                "crest": "https://crests.football-data.org/7580.png"
             },
             "awayTeam": {
-                "id": 4528,
-                "name": "LDU de Quito",
-                "shortName": "LDU de Quito",
-                "tla": "LDU",
-                "crest": "https://crests.football-data.org/4528.png"
+                "id": 5184,
+                "name": "CA Peñarol",
+                "shortName": "Peñarol",
+                "tla": "PEN",
+                "crest": "https://crests.football-data.org/5184.png"
             },
             "score": {
                 "winner": null,
@@ -356,26 +356,26 @@
                 "currentMatchday": 4,
                 "winner": null
             },
-            "id": 557139,
+            "id": 557163,
             "utcDate": "2026-05-07T22:00:00Z",
             "status": "TIMED",
             "matchday": 4,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_E",
-            "lastUpdated": "2026-03-23T03:59:21Z",
+            "group": "GROUP_G",
+            "lastUpdated": "2026-03-23T03:59:22Z",
             "homeTeam": {
-                "id": 7580,
-                "name": "CA Platense",
-                "shortName": "Platense",
-                "tla": "PLA",
-                "crest": "https://crests.football-data.org/7580.png"
+                "id": 4364,
+                "name": "Mirassol FC",
+                "shortName": "Mirassol",
+                "tla": "MIR",
+                "crest": "https://crests.football-data.org/4364.png"
             },
             "awayTeam": {
-                "id": 5184,
-                "name": "CA Peñarol",
-                "shortName": "Peñarol",
-                "tla": "PEN",
-                "crest": "https://crests.football-data.org/5184.png"
+                "id": 4528,
+                "name": "LDU de Quito",
+                "shortName": "LDU de Quito",
+                "tla": "LDU",
+                "crest": "https://crests.football-data.org/4528.png"
             },
             "score": {
                 "winner": null,
