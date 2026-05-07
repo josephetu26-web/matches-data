@@ -30,7 +30,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 2,
+                "currentMatchday": 3,
                 "winner": null
             },
             "id": 557115,
@@ -96,7 +96,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 2,
+                "currentMatchday": 3,
                 "winner": null
             },
             "id": 557138,
@@ -105,7 +105,7 @@
             "matchday": 4,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-04-11T20:20:50Z",
+            "lastUpdated": "2026-04-21T05:21:10Z",
             "homeTeam": {
                 "id": 4441,
                 "name": "Independiente Santa Fe",
@@ -162,7 +162,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 2,
+                "currentMatchday": 3,
                 "winner": null
             },
             "id": 557103,
@@ -228,7 +228,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 2,
+                "currentMatchday": 3,
                 "winner": null
             },
             "id": 557126,
@@ -294,66 +294,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 2,
-                "winner": null
-            },
-            "id": 557139,
-            "utcDate": "2026-05-07T22:00:00Z",
-            "status": "TIMED",
-            "matchday": 4,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_E",
-            "lastUpdated": "2026-03-23T03:59:21Z",
-            "homeTeam": {
-                "id": 7580,
-                "name": "CA Platense",
-                "shortName": "Platense",
-                "tla": "PLA",
-                "crest": "https://crests.football-data.org/7580.png"
-            },
-            "awayTeam": {
-                "id": 5184,
-                "name": "CA Peñarol",
-                "shortName": "Peñarol",
-                "tla": "PEN",
-                "crest": "https://crests.football-data.org/5184.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 2,
+                "currentMatchday": 3,
                 "winner": null
             },
             "id": 557163,
@@ -392,7 +333,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 29389,
+                    "name": "Alexis Herrera",
+                    "type": "REFEREE",
+                    "nationality": "Venezuela"
+                }
+            ]
         },
         {
             "area": {
@@ -412,7 +360,73 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 2,
+                "currentMatchday": 3,
+                "winner": null
+            },
+            "id": 557139,
+            "utcDate": "2026-05-07T22:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_E",
+            "lastUpdated": "2026-03-23T03:59:21Z",
+            "homeTeam": {
+                "id": 7580,
+                "name": "CA Platense",
+                "shortName": "Platense",
+                "tla": "PLA",
+                "crest": "https://crests.football-data.org/7580.png"
+            },
+            "awayTeam": {
+                "id": 5184,
+                "name": "CA Peñarol",
+                "shortName": "Peñarol",
+                "tla": "PEN",
+                "crest": "https://crests.football-data.org/5184.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 116383,
+                    "name": "Juan Benítez",
+                    "type": "REFEREE",
+                    "nationality": "Paraguay"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 3,
                 "winner": null
             },
             "id": 557102,
@@ -451,7 +465,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 196673,
+                    "name": "Nicolás Ramírez",
+                    "type": "REFEREE",
+                    "nationality": "Argentina"
+                }
+            ]
         }
     ]
 }
