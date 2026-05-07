@@ -30,16 +30,16 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 4,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557115,
             "utcDate": "2026-05-07T00:30:00Z",
-            "status": "IN_PLAY",
+            "status": "TIMED",
             "matchday": 4,
             "stage": "GROUP_STAGE",
             "group": "GROUP_C",
-            "lastUpdated": "2026-05-07T02:59:58Z",
+            "lastUpdated": "2026-03-23T03:59:21Z",
             "homeTeam": {
                 "id": 2052,
                 "name": "CS Independiente Rivadavia",
@@ -55,11 +55,11 @@
                 "crest": "https://crests.football-data.org/1765.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": null,
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": null,
+                    "away": null
                 },
                 "halfTime": {
                     "home": null,
@@ -96,16 +96,16 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 4,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557138,
             "utcDate": "2026-05-07T00:30:00Z",
-            "status": "IN_PLAY",
+            "status": "TIMED",
             "matchday": 4,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-05-07T02:59:58Z",
+            "lastUpdated": "2026-04-11T20:20:50Z",
             "homeTeam": {
                 "id": 4441,
                 "name": "Independiente Santa Fe",
@@ -121,11 +121,11 @@
                 "crest": "https://crests.football-data.org/1779.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": null,
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": null,
+                    "away": null
                 },
                 "halfTime": {
                     "home": null,
@@ -162,7 +162,73 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 4,
+                "currentMatchday": 2,
+                "winner": null
+            },
+            "id": 557126,
+            "utcDate": "2026-05-07T02:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_D",
+            "lastUpdated": "2026-03-23T03:59:21Z",
+            "homeTeam": {
+                "id": 6993,
+                "name": "CD Universidad Católica",
+                "shortName": "Univ Católica",
+                "tla": "CAT",
+                "crest": "https://crests.football-data.org/6993.png"
+            },
+            "awayTeam": {
+                "id": 1771,
+                "name": "Cruzeiro EC",
+                "shortName": "Cruzeiro",
+                "tla": "CRU",
+                "crest": "https://crests.football-data.org/1771.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 23055,
+                    "name": "Andrés Rojas",
+                    "type": "REFEREE",
+                    "nationality": "Colombia"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557103,
@@ -228,132 +294,7 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 4,
-                "winner": null
-            },
-            "id": 557126,
-            "utcDate": "2026-05-07T02:00:00Z",
-            "status": "TIMED",
-            "matchday": 4,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_D",
-            "lastUpdated": "2026-05-07T02:54:13Z",
-            "homeTeam": {
-                "id": 6993,
-                "name": "CD Universidad Católica",
-                "shortName": "Univ Católica",
-                "tla": "CAT",
-                "crest": "https://crests.football-data.org/6993.png"
-            },
-            "awayTeam": {
-                "id": 1771,
-                "name": "Cruzeiro EC",
-                "shortName": "Cruzeiro",
-                "tla": "CRU",
-                "crest": "https://crests.football-data.org/1771.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 23055,
-                    "name": "Andrés Rojas",
-                    "type": "REFEREE",
-                    "nationality": "Colombia"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 4,
-                "winner": null
-            },
-            "id": 557139,
-            "utcDate": "2026-05-07T22:00:00Z",
-            "status": "TIMED",
-            "matchday": 4,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_E",
-            "lastUpdated": "2026-03-23T03:59:21Z",
-            "homeTeam": {
-                "id": 7580,
-                "name": "CA Platense",
-                "shortName": "Platense",
-                "tla": "PLA",
-                "crest": "https://crests.football-data.org/7580.png"
-            },
-            "awayTeam": {
-                "id": 5184,
-                "name": "CA Peñarol",
-                "shortName": "Peñarol",
-                "tla": "PEN",
-                "crest": "https://crests.football-data.org/5184.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 4,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557163,
@@ -412,7 +353,66 @@
                 "id": 2466,
                 "startDate": "2026-02-04",
                 "endDate": "2026-11-28",
-                "currentMatchday": 4,
+                "currentMatchday": 2,
+                "winner": null
+            },
+            "id": 557139,
+            "utcDate": "2026-05-07T22:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_E",
+            "lastUpdated": "2026-03-23T03:59:21Z",
+            "homeTeam": {
+                "id": 7580,
+                "name": "CA Platense",
+                "shortName": "Platense",
+                "tla": "PLA",
+                "crest": "https://crests.football-data.org/7580.png"
+            },
+            "awayTeam": {
+                "id": 5184,
+                "name": "CA Peñarol",
+                "shortName": "Peñarol",
+                "tla": "PEN",
+                "crest": "https://crests.football-data.org/5184.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 557102,
