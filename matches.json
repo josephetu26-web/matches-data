@@ -33,72 +33,6 @@
                 "currentMatchday": 4,
                 "winner": null
             },
-            "id": 557138,
-            "utcDate": "2026-05-07T00:30:00Z",
-            "status": "IN_PLAY",
-            "matchday": 4,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_E",
-            "lastUpdated": "2026-05-07T02:59:58Z",
-            "homeTeam": {
-                "id": 4441,
-                "name": "Independiente Santa Fe",
-                "shortName": "Santa Fe",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/4441.png"
-            },
-            "awayTeam": {
-                "id": 1779,
-                "name": "SC Corinthians Paulista",
-                "shortName": "Corinthians",
-                "tla": "COR",
-                "crest": "https://crests.football-data.org/1779.png"
-            },
-            "score": {
-                "winner": "DRAW",
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 58731,
-                    "name": "Kevin Ortega",
-                    "type": "REFEREE",
-                    "nationality": "Peru"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 4,
-                "winner": null
-            },
             "id": 557115,
             "utcDate": "2026-05-07T00:30:00Z",
             "status": "IN_PLAY",
@@ -165,33 +99,33 @@
                 "currentMatchday": 4,
                 "winner": null
             },
-            "id": 557126,
-            "utcDate": "2026-05-07T02:00:00Z",
-            "status": "TIMED",
+            "id": 557138,
+            "utcDate": "2026-05-07T00:30:00Z",
+            "status": "IN_PLAY",
             "matchday": 4,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_D",
-            "lastUpdated": "2026-05-07T02:54:13Z",
+            "group": "GROUP_E",
+            "lastUpdated": "2026-05-07T02:59:58Z",
             "homeTeam": {
-                "id": 6993,
-                "name": "CD Universidad Católica",
-                "shortName": "Univ Católica",
-                "tla": "CAT",
-                "crest": "https://crests.football-data.org/6993.png"
+                "id": 4441,
+                "name": "Independiente Santa Fe",
+                "shortName": "Santa Fe",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/4441.png"
             },
             "awayTeam": {
-                "id": 1771,
-                "name": "Cruzeiro EC",
-                "shortName": "Cruzeiro",
-                "tla": "CRU",
-                "crest": "https://crests.football-data.org/1771.png"
+                "id": 1779,
+                "name": "SC Corinthians Paulista",
+                "shortName": "Corinthians",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/1779.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -203,10 +137,10 @@
             },
             "referees": [
                 {
-                    "id": 23055,
-                    "name": "Andrés Rojas",
+                    "id": 58731,
+                    "name": "Kevin Ortega",
                     "type": "REFEREE",
-                    "nationality": "Colombia"
+                    "nationality": "Peru"
                 }
             ]
         },
@@ -273,6 +207,72 @@
                     "name": "Raphael Claus",
                     "type": "REFEREE",
                     "nationality": "Brazil"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 557126,
+            "utcDate": "2026-05-07T02:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_D",
+            "lastUpdated": "2026-05-07T02:54:13Z",
+            "homeTeam": {
+                "id": 6993,
+                "name": "CD Universidad Católica",
+                "shortName": "Univ Católica",
+                "tla": "CAT",
+                "crest": "https://crests.football-data.org/6993.png"
+            },
+            "awayTeam": {
+                "id": 1771,
+                "name": "Cruzeiro EC",
+                "shortName": "Cruzeiro",
+                "tla": "CRU",
+                "crest": "https://crests.football-data.org/1771.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 23055,
+                    "name": "Andrés Rojas",
+                    "type": "REFEREE",
+                    "nationality": "Colombia"
                 }
             ]
         },
