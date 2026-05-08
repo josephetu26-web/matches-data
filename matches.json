@@ -6,7 +6,7 @@
     },
     "resultSet": {
         "count": 8,
-        "competitions": "CLI,BL1,SA,FL1,PD,ELC",
+        "competitions": "CLI,BL1,FL1,SA,PD,ELC",
         "first": "2026-05-08",
         "last": "2026-05-08",
         "played": 0
@@ -233,11 +233,11 @@
             },
             "id": 540696,
             "utcDate": "2026-05-08T18:30:00Z",
-            "status": "TIMED",
+            "status": "PAUSED",
             "matchday": 33,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-06T06:01:03Z",
+            "lastUpdated": "2026-05-08T19:25:09Z",
             "homeTeam": {
                 "id": 4,
                 "name": "Borussia Dortmund",
@@ -253,15 +253,27 @@
                 "crest": "https://crests.football-data.org/19.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -273,72 +285,6 @@
                     "name": "Patrick Ittrich",
                     "type": "REFEREE",
                     "nationality": "Germany"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2114,
-                "name": "Italy",
-                "code": "ITA",
-                "flag": "https://crests.football-data.org/784.svg"
-            },
-            "competition": {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/c111.png"
-            },
-            "season": {
-                "id": 2395,
-                "startDate": "2025-08-24",
-                "endDate": "2026-05-24",
-                "currentMatchday": 36,
-                "winner": null
-            },
-            "id": 537168,
-            "utcDate": "2026-05-08T18:45:00Z",
-            "status": "TIMED",
-            "matchday": 36,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-05-05T01:32:00Z",
-            "homeTeam": {
-                "id": 586,
-                "name": "Torino FC",
-                "shortName": "Torino",
-                "tla": "TOR",
-                "crest": "https://crests.football-data.org/586.png"
-            },
-            "awayTeam": {
-                "id": 471,
-                "name": "US Sassuolo Calcio",
-                "shortName": "Sassuolo",
-                "tla": "SAS",
-                "crest": "https://crests.football-data.org/471.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 145270,
-                    "name": "Simone Galipò",
-                    "type": "REFEREE",
-                    "nationality": "Italy"
                 }
             ]
         },
@@ -365,11 +311,11 @@
             },
             "id": 542700,
             "utcDate": "2026-05-08T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 33,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-02T01:32:03Z",
+            "lastUpdated": "2026-05-08T18:51:04Z",
             "homeTeam": {
                 "id": 546,
                 "name": "Racing Club de Lens",
@@ -385,15 +331,27 @@
                 "crest": "https://crests.football-data.org/543.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -405,6 +363,84 @@
                     "name": "Mathieu Vernice",
                     "type": "REFEREE",
                     "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2114,
+                "name": "Italy",
+                "code": "ITA",
+                "flag": "https://crests.football-data.org/784.svg"
+            },
+            "competition": {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/c111.png"
+            },
+            "season": {
+                "id": 2395,
+                "startDate": "2025-08-24",
+                "endDate": "2026-05-24",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 537168,
+            "utcDate": "2026-05-08T18:45:00Z",
+            "status": "IN_PLAY",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-05-08T18:51:04Z",
+            "homeTeam": {
+                "id": 586,
+                "name": "Torino FC",
+                "shortName": "Torino",
+                "tla": "TOR",
+                "crest": "https://crests.football-data.org/586.png"
+            },
+            "awayTeam": {
+                "id": 471,
+                "name": "US Sassuolo Calcio",
+                "shortName": "Sassuolo",
+                "tla": "SAS",
+                "crest": "https://crests.football-data.org/471.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 145270,
+                    "name": "Simone Galipò",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
                 }
             ]
         },
@@ -431,11 +467,11 @@
             },
             "id": 544554,
             "utcDate": "2026-05-08T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 35,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-03T01:32:01Z",
+            "lastUpdated": "2026-05-08T19:19:04Z",
             "homeTeam": {
                 "id": 88,
                 "name": "Levante UD",
@@ -451,15 +487,27 @@
                 "crest": "https://crests.football-data.org/79.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
