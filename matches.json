@@ -9,7 +9,7 @@
         "competitions": "PL",
         "first": "2026-05-15",
         "last": "2026-05-15",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 538146,
             "utcDate": "2026-05-15T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 37,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-15T19:46:47Z",
+            "lastUpdated": "2026-05-15T21:03:36Z",
             "homeTeam": {
                 "id": 58,
                 "name": "Aston Villa FC",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/64.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": 4,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
