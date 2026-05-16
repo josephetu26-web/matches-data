@@ -30,36 +30,36 @@
                 "id": 2414,
                 "startDate": "2025-08-22",
                 "endDate": "2026-05-16",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
-            "id": 540710,
+            "id": 540705,
             "utcDate": "2026-05-16T13:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-10T01:32:02Z",
+            "lastUpdated": "2026-05-16T13:46:08Z",
             "homeTeam": {
-                "id": 5,
-                "name": "FC Bayern München",
-                "shortName": "Bayern",
-                "tla": "FCB",
-                "crest": "https://crests.football-data.org/5.png"
+                "id": 17,
+                "name": "SC Freiburg",
+                "shortName": "Freiburg",
+                "tla": "SCF",
+                "crest": "https://crests.football-data.org/17.png"
             },
             "awayTeam": {
-                "id": 1,
-                "name": "1. FC Köln",
-                "shortName": "1. FC Köln",
-                "tla": "KOE",
-                "crest": "https://crests.football-data.org/1.png"
+                "id": 721,
+                "name": "RB Leipzig",
+                "shortName": "RB Leipzig",
+                "tla": "RBL",
+                "crest": "https://crests.football-data.org/721.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -71,8 +71,8 @@
             },
             "referees": [
                 {
-                    "id": 8825,
-                    "name": "Deniz Aytekin",
+                    "id": 9567,
+                    "name": "Sascha Stegemann",
                     "type": "REFEREE",
                     "nationality": "Germany"
                 }
@@ -96,214 +96,16 @@
                 "id": 2414,
                 "startDate": "2025-08-22",
                 "endDate": "2026-05-16",
-                "currentMatchday": 33,
-                "winner": null
-            },
-            "id": 540706,
-            "utcDate": "2026-05-16T13:30:00Z",
-            "status": "TIMED",
-            "matchday": 34,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-05-11T05:21:09Z",
-            "homeTeam": {
-                "id": 19,
-                "name": "Eintracht Frankfurt",
-                "shortName": "Frankfurt",
-                "tla": "SGE",
-                "crest": "https://crests.football-data.org/19.png"
-            },
-            "awayTeam": {
-                "id": 10,
-                "name": "VfB Stuttgart",
-                "shortName": "Stuttgart",
-                "tla": "VFB",
-                "crest": "https://crests.football-data.org/10.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 57539,
-                    "name": "Tobias Welz",
-                    "type": "REFEREE",
-                    "nationality": "Germany"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2088,
-                "name": "Germany",
-                "code": "DEU",
-                "flag": "https://crests.football-data.org/759.svg"
-            },
-            "competition": {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
-            },
-            "season": {
-                "id": 2414,
-                "startDate": "2025-08-22",
-                "endDate": "2026-05-16",
-                "currentMatchday": 33,
-                "winner": null
-            },
-            "id": 540708,
-            "utcDate": "2026-05-16T13:30:00Z",
-            "status": "TIMED",
-            "matchday": 34,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-05-11T01:32:01Z",
-            "homeTeam": {
-                "id": 28,
-                "name": "1. FC Union Berlin",
-                "shortName": "Union Berlin",
-                "tla": "UNB",
-                "crest": "https://crests.football-data.org/28.png"
-            },
-            "awayTeam": {
-                "id": 16,
-                "name": "FC Augsburg",
-                "shortName": "Augsburg",
-                "tla": "FCA",
-                "crest": "https://crests.football-data.org/16.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 337,
-                    "name": "Patrick Ittrich",
-                    "type": "REFEREE",
-                    "nationality": "Germany"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2088,
-                "name": "Germany",
-                "code": "DEU",
-                "flag": "https://crests.football-data.org/759.svg"
-            },
-            "competition": {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
-            },
-            "season": {
-                "id": 2414,
-                "startDate": "2025-08-22",
-                "endDate": "2026-05-16",
-                "currentMatchday": 33,
-                "winner": null
-            },
-            "id": 540704,
-            "utcDate": "2026-05-16T13:30:00Z",
-            "status": "TIMED",
-            "matchday": 34,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-05-11T01:32:01Z",
-            "homeTeam": {
-                "id": 44,
-                "name": "1. FC Heidenheim 1846",
-                "shortName": "Heidenheim",
-                "tla": "HEI",
-                "crest": "https://crests.football-data.org/44.png"
-            },
-            "awayTeam": {
-                "id": 15,
-                "name": "1. FSV Mainz 05",
-                "shortName": "Mainz",
-                "tla": "M05",
-                "crest": "https://crests.football-data.org/15.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 57504,
-                    "name": "Robert Hartmann",
-                    "type": "REFEREE",
-                    "nationality": "Germany"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2088,
-                "name": "Germany",
-                "code": "DEU",
-                "flag": "https://crests.football-data.org/759.svg"
-            },
-            "competition": {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
-            },
-            "season": {
-                "id": 2414,
-                "startDate": "2025-08-22",
-                "endDate": "2026-05-16",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 540711,
             "utcDate": "2026-05-16T13:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-11T01:32:01Z",
+            "lastUpdated": "2026-05-16T13:46:03Z",
             "homeTeam": {
                 "id": 3,
                 "name": "Bayer 04 Leverkusen",
@@ -319,11 +121,11 @@
                 "crest": "https://crests.football-data.org/7.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -360,16 +162,16 @@
                 "id": 2414,
                 "startDate": "2025-08-22",
                 "endDate": "2026-05-16",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 540707,
             "utcDate": "2026-05-16T13:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-11T05:21:09Z",
+            "lastUpdated": "2026-05-16T13:45:23Z",
             "homeTeam": {
                 "id": 20,
                 "name": "FC St. Pauli 1910",
@@ -385,11 +187,11 @@
                 "crest": "https://crests.football-data.org/11.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -426,16 +228,16 @@
                 "id": 2414,
                 "startDate": "2025-08-22",
                 "endDate": "2026-05-16",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 540703,
             "utcDate": "2026-05-16T13:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-11T05:21:09Z",
+            "lastUpdated": "2026-05-16T13:45:38Z",
             "homeTeam": {
                 "id": 12,
                 "name": "SV Werder Bremen",
@@ -451,11 +253,11 @@
                 "crest": "https://crests.football-data.org/4.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -492,16 +294,16 @@
                 "id": 2414,
                 "startDate": "2025-08-22",
                 "endDate": "2026-05-16",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 540709,
             "utcDate": "2026-05-16T13:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-11T01:32:01Z",
+            "lastUpdated": "2026-05-16T13:46:18Z",
             "homeTeam": {
                 "id": 18,
                 "name": "Borussia Mönchengladbach",
@@ -517,11 +319,11 @@
                 "crest": "https://crests.football-data.org/2.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -558,36 +360,36 @@
                 "id": 2414,
                 "startDate": "2025-08-22",
                 "endDate": "2026-05-16",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
-            "id": 540705,
+            "id": 540710,
             "utcDate": "2026-05-16T13:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-10T01:32:02Z",
+            "lastUpdated": "2026-05-16T13:46:18Z",
             "homeTeam": {
-                "id": 17,
-                "name": "SC Freiburg",
-                "shortName": "Freiburg",
-                "tla": "SCF",
-                "crest": "https://crests.football-data.org/17.png"
+                "id": 5,
+                "name": "FC Bayern München",
+                "shortName": "Bayern",
+                "tla": "FCB",
+                "crest": "https://crests.football-data.org/5.png"
             },
             "awayTeam": {
-                "id": 721,
-                "name": "RB Leipzig",
-                "shortName": "RB Leipzig",
-                "tla": "RBL",
-                "crest": "https://crests.football-data.org/721.png"
+                "id": 1,
+                "name": "1. FC Köln",
+                "shortName": "1. FC Köln",
+                "tla": "KOE",
+                "crest": "https://crests.football-data.org/1.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -599,8 +401,206 @@
             },
             "referees": [
                 {
-                    "id": 9567,
-                    "name": "Sascha Stegemann",
+                    "id": 8825,
+                    "name": "Deniz Aytekin",
+                    "type": "REFEREE",
+                    "nationality": "Germany"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2088,
+                "name": "Germany",
+                "code": "DEU",
+                "flag": "https://crests.football-data.org/759.svg"
+            },
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            },
+            "season": {
+                "id": 2414,
+                "startDate": "2025-08-22",
+                "endDate": "2026-05-16",
+                "currentMatchday": 34,
+                "winner": null
+            },
+            "id": 540706,
+            "utcDate": "2026-05-16T13:30:00Z",
+            "status": "IN_PLAY",
+            "matchday": 34,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-05-16T13:46:18Z",
+            "homeTeam": {
+                "id": 19,
+                "name": "Eintracht Frankfurt",
+                "shortName": "Frankfurt",
+                "tla": "SGE",
+                "crest": "https://crests.football-data.org/19.png"
+            },
+            "awayTeam": {
+                "id": 10,
+                "name": "VfB Stuttgart",
+                "shortName": "Stuttgart",
+                "tla": "VFB",
+                "crest": "https://crests.football-data.org/10.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57539,
+                    "name": "Tobias Welz",
+                    "type": "REFEREE",
+                    "nationality": "Germany"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2088,
+                "name": "Germany",
+                "code": "DEU",
+                "flag": "https://crests.football-data.org/759.svg"
+            },
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            },
+            "season": {
+                "id": 2414,
+                "startDate": "2025-08-22",
+                "endDate": "2026-05-16",
+                "currentMatchday": 34,
+                "winner": null
+            },
+            "id": 540708,
+            "utcDate": "2026-05-16T13:30:00Z",
+            "status": "IN_PLAY",
+            "matchday": 34,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-05-16T13:45:39Z",
+            "homeTeam": {
+                "id": 28,
+                "name": "1. FC Union Berlin",
+                "shortName": "Union Berlin",
+                "tla": "UNB",
+                "crest": "https://crests.football-data.org/28.png"
+            },
+            "awayTeam": {
+                "id": 16,
+                "name": "FC Augsburg",
+                "shortName": "Augsburg",
+                "tla": "FCA",
+                "crest": "https://crests.football-data.org/16.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 337,
+                    "name": "Patrick Ittrich",
+                    "type": "REFEREE",
+                    "nationality": "Germany"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2088,
+                "name": "Germany",
+                "code": "DEU",
+                "flag": "https://crests.football-data.org/759.svg"
+            },
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            },
+            "season": {
+                "id": 2414,
+                "startDate": "2025-08-22",
+                "endDate": "2026-05-16",
+                "currentMatchday": 34,
+                "winner": null
+            },
+            "id": 540704,
+            "utcDate": "2026-05-16T13:30:00Z",
+            "status": "IN_PLAY",
+            "matchday": 34,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-05-16T13:46:18Z",
+            "homeTeam": {
+                "id": 44,
+                "name": "1. FC Heidenheim 1846",
+                "shortName": "Heidenheim",
+                "tla": "HEI",
+                "crest": "https://crests.football-data.org/44.png"
+            },
+            "awayTeam": {
+                "id": 15,
+                "name": "1. FSV Mainz 05",
+                "shortName": "Mainz",
+                "tla": "M05",
+                "crest": "https://crests.football-data.org/15.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57504,
+                    "name": "Robert Hartmann",
                     "type": "REFEREE",
                     "nationality": "Germany"
                 }
@@ -624,7 +624,7 @@
                 "id": 2433,
                 "startDate": "2025-08-08",
                 "endDate": "2026-05-17",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 546000,
@@ -633,7 +633,7 @@
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-12T03:25:23Z",
+            "lastUpdated": "2026-05-16T00:20:53Z",
             "homeTeam": {
                 "id": 503,
                 "name": "FC Porto",
@@ -683,7 +683,7 @@
                 "id": 2433,
                 "startDate": "2025-08-08",
                 "endDate": "2026-05-17",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 545997,
@@ -692,7 +692,7 @@
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-12T03:25:23Z",
+            "lastUpdated": "2026-05-12T05:21:07Z",
             "homeTeam": {
                 "id": 583,
                 "name": "Moreirense FC",
@@ -742,7 +742,7 @@
                 "id": 2433,
                 "startDate": "2025-08-08",
                 "endDate": "2026-05-17",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 546002,
@@ -751,7 +751,7 @@
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-12T03:25:23Z",
+            "lastUpdated": "2026-05-12T05:21:07Z",
             "homeTeam": {
                 "id": 5529,
                 "name": "CD Nacional",
@@ -801,7 +801,7 @@
                 "id": 2433,
                 "startDate": "2025-08-08",
                 "endDate": "2026-05-17",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 546004,
@@ -810,7 +810,7 @@
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-12T03:25:23Z",
+            "lastUpdated": "2026-05-12T05:21:07Z",
             "homeTeam": {
                 "id": 712,
                 "name": "FC Arouca",
@@ -860,66 +860,7 @@
                 "id": 2433,
                 "startDate": "2025-08-08",
                 "endDate": "2026-05-17",
-                "currentMatchday": 33,
-                "winner": null
-            },
-            "id": 546003,
-            "utcDate": "2026-05-16T17:00:00Z",
-            "status": "TIMED",
-            "matchday": 34,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-05-12T03:25:23Z",
-            "homeTeam": {
-                "id": 6618,
-                "name": "Casa Pia AC",
-                "shortName": "Casa Pia",
-                "tla": "CAS",
-                "crest": "https://crests.football-data.org/6618.png"
-            },
-            "awayTeam": {
-                "id": 496,
-                "name": "Rio Ave FC",
-                "shortName": "Rio Ave",
-                "tla": "RIO",
-                "crest": "https://crests.football-data.org/496.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2187,
-                "name": "Portugal",
-                "code": "POR",
-                "flag": "https://crests.football-data.org/765.svg"
-            },
-            "competition": {
-                "id": 2017,
-                "name": "Primeira Liga",
-                "code": "PPL",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PPL.png"
-            },
-            "season": {
-                "id": 2433,
-                "startDate": "2025-08-08",
-                "endDate": "2026-05-17",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 546005,
@@ -928,7 +869,7 @@
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-12T03:25:23Z",
+            "lastUpdated": "2026-05-12T05:21:07Z",
             "homeTeam": {
                 "id": 5613,
                 "name": "Sporting Clube de Braga",
@@ -978,7 +919,66 @@
                 "id": 2433,
                 "startDate": "2025-08-08",
                 "endDate": "2026-05-17",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
+                "winner": null
+            },
+            "id": 546003,
+            "utcDate": "2026-05-16T17:00:00Z",
+            "status": "TIMED",
+            "matchday": 34,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-05-12T05:21:07Z",
+            "homeTeam": {
+                "id": 6618,
+                "name": "Casa Pia AC",
+                "shortName": "Casa Pia",
+                "tla": "CAS",
+                "crest": "https://crests.football-data.org/6618.png"
+            },
+            "awayTeam": {
+                "id": 496,
+                "name": "Rio Ave FC",
+                "shortName": "Rio Ave",
+                "tla": "RIO",
+                "crest": "https://crests.football-data.org/496.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2187,
+                "name": "Portugal",
+                "code": "POR",
+                "flag": "https://crests.football-data.org/765.svg"
+            },
+            "competition": {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            "season": {
+                "id": 2433,
+                "startDate": "2025-08-08",
+                "endDate": "2026-05-17",
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 545998,
@@ -987,7 +987,7 @@
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-12T03:25:23Z",
+            "lastUpdated": "2026-05-12T05:21:07Z",
             "homeTeam": {
                 "id": 5531,
                 "name": "FC Famalicão",
@@ -1037,7 +1037,7 @@
                 "id": 2433,
                 "startDate": "2025-08-08",
                 "endDate": "2026-05-17",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 546001,
@@ -1046,7 +1046,7 @@
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-12T03:25:23Z",
+            "lastUpdated": "2026-05-12T05:21:07Z",
             "homeTeam": {
                 "id": 582,
                 "name": "GD Estoril Praia",
@@ -1096,7 +1096,7 @@
                 "id": 2433,
                 "startDate": "2025-08-08",
                 "endDate": "2026-05-17",
-                "currentMatchday": 33,
+                "currentMatchday": 34,
                 "winner": null
             },
             "id": 545999,
@@ -1105,7 +1105,7 @@
             "matchday": 34,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-12T03:25:23Z",
+            "lastUpdated": "2026-05-12T05:21:07Z",
             "homeTeam": {
                 "id": 498,
                 "name": "Sporting Clube de Portugal",
@@ -1155,7 +1155,7 @@
                 "id": 2474,
                 "startDate": "2026-01-28",
                 "endDate": "2026-12-02",
-                "currentMatchday": 15,
+                "currentMatchday": 16,
                 "winner": null
             },
             "id": 554891,
@@ -1164,7 +1164,7 @@
             "matchday": 16,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-10T01:32:03Z",
+            "lastUpdated": "2026-05-12T01:32:01Z",
             "homeTeam": {
                 "id": 1766,
                 "name": "CA Mineiro",
@@ -1214,7 +1214,7 @@
                 "id": 2474,
                 "startDate": "2026-01-28",
                 "endDate": "2026-12-02",
-                "currentMatchday": 15,
+                "currentMatchday": 16,
                 "winner": null
             },
             "id": 554897,
@@ -1223,7 +1223,7 @@
             "matchday": 16,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-11T01:32:01Z",
+            "lastUpdated": "2026-05-12T01:32:01Z",
             "homeTeam": {
                 "id": 6684,
                 "name": "SC Internacional",
@@ -1273,7 +1273,7 @@
                 "id": 2474,
                 "startDate": "2026-01-28",
                 "endDate": "2026-12-02",
-                "currentMatchday": 15,
+                "currentMatchday": 16,
                 "winner": null
             },
             "id": 554896,
@@ -1282,7 +1282,7 @@
             "matchday": 16,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-12T13:25:21Z",
+            "lastUpdated": "2026-05-12T15:21:09Z",
             "homeTeam": {
                 "id": 1765,
                 "name": "Fluminense FC",
@@ -1332,7 +1332,7 @@
                 "id": 2474,
                 "startDate": "2026-01-28",
                 "endDate": "2026-12-02",
-                "currentMatchday": 15,
+                "currentMatchday": 16,
                 "winner": null
             },
             "id": 554898,
@@ -1341,7 +1341,7 @@
             "matchday": 16,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-11T05:21:09Z",
+            "lastUpdated": "2026-05-16T00:20:53Z",
             "homeTeam": {
                 "id": 1769,
                 "name": "SE Palmeiras",
