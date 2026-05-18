@@ -9,7 +9,7 @@
         "competitions": "PL",
         "first": "2026-05-18",
         "last": "2026-05-18",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 538147,
             "utcDate": "2026-05-18T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 37,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-18T19:52:16Z",
+            "lastUpdated": "2026-05-18T21:04:16Z",
             "homeTeam": {
                 "id": 57,
                 "name": "Arsenal FC",
@@ -62,8 +62,8 @@
                     "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
