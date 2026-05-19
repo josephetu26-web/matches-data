@@ -35,11 +35,11 @@
             },
             "id": 538145,
             "utcDate": "2026-05-19T18:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 37,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-19T00:20:51Z",
+            "lastUpdated": "2026-05-19T19:59:01Z",
             "homeTeam": {
                 "id": 1044,
                 "name": "AFC Bournemouth",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/65.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -101,11 +101,11 @@
             },
             "id": 538149,
             "utcDate": "2026-05-19T19:15:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 37,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-18T01:32:00Z",
+            "lastUpdated": "2026-05-19T19:58:56Z",
             "homeTeam": {
                 "id": 61,
                 "name": "Chelsea FC",
@@ -121,11 +121,11 @@
                 "crest": "https://crests.football-data.org/73.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -224,26 +224,26 @@
                 "currentMatchday": 5,
                 "winner": null
             },
-            "id": 557105,
+            "id": 557177,
             "utcDate": "2026-05-19T22:00:00Z",
             "status": "TIMED",
             "matchday": 5,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_B",
-            "lastUpdated": "2026-03-23T03:59:21Z",
+            "group": "GROUP_H",
+            "lastUpdated": "2026-03-23T03:59:22Z",
             "homeTeam": {
-                "id": 7912,
-                "name": "CD Coquimbo Unido",
-                "shortName": "Coquimbo Unido",
-                "tla": "COQ",
-                "crest": "https://crests.football-data.org/7912.png"
+                "id": 2070,
+                "name": "CA Rosario Central",
+                "shortName": "Rosario",
+                "tla": "ROS",
+                "crest": "https://crests.football-data.org/2070.png"
             },
             "awayTeam": {
-                "id": 4437,
-                "name": "CD Tolima",
-                "shortName": "Tolima",
-                "tla": "TOL",
-                "crest": "https://crests.football-data.org/4437.png"
+                "id": 9357,
+                "name": "Universidad Central de Venezuela FC",
+                "shortName": "Universidad Central",
+                "tla": "UCV",
+                "crest": "https://crests.football-data.org/9357.png"
             },
             "score": {
                 "winner": null,
@@ -283,26 +283,26 @@
                 "currentMatchday": 5,
                 "winner": null
             },
-            "id": 557177,
+            "id": 557105,
             "utcDate": "2026-05-19T22:00:00Z",
             "status": "TIMED",
             "matchday": 5,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_H",
-            "lastUpdated": "2026-03-23T03:59:22Z",
+            "group": "GROUP_B",
+            "lastUpdated": "2026-03-23T03:59:21Z",
             "homeTeam": {
-                "id": 2070,
-                "name": "CA Rosario Central",
-                "shortName": "Rosario",
-                "tla": "ROS",
-                "crest": "https://crests.football-data.org/2070.png"
+                "id": 7912,
+                "name": "CD Coquimbo Unido",
+                "shortName": "Coquimbo Unido",
+                "tla": "COQ",
+                "crest": "https://crests.football-data.org/7912.png"
             },
             "awayTeam": {
-                "id": 9357,
-                "name": "Universidad Central de Venezuela FC",
-                "shortName": "Universidad Central",
-                "tla": "UCV",
-                "crest": "https://crests.football-data.org/9357.png"
+                "id": 4437,
+                "name": "CD Tolima",
+                "shortName": "Tolima",
+                "tla": "TOL",
+                "crest": "https://crests.football-data.org/4437.png"
             },
             "score": {
                 "winner": null,
