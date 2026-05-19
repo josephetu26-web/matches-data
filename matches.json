@@ -165,65 +165,6 @@
                 "currentMatchday": 5,
                 "winner": null
             },
-            "id": 557116,
-            "utcDate": "2026-05-19T22:00:00Z",
-            "status": "TIMED",
-            "matchday": 5,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_C",
-            "lastUpdated": "2026-03-23T03:59:21Z",
-            "homeTeam": {
-                "id": 1765,
-                "name": "Fluminense FC",
-                "shortName": "Fluminense",
-                "tla": "FLU",
-                "crest": "https://crests.football-data.org/1765.png"
-            },
-            "awayTeam": {
-                "id": 4261,
-                "name": "Club Bolívar",
-                "shortName": "Club Bolívar",
-                "tla": "BOL",
-                "crest": "https://crests.football-data.org/4261.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 5,
-                "winner": null
-            },
             "id": 557105,
             "utcDate": "2026-05-19T22:00:00Z",
             "status": "TIMED",
@@ -303,6 +244,65 @@
                 "shortName": "Universidad Central",
                 "tla": "UCV",
                 "crest": "https://crests.football-data.org/9357.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 5,
+                "winner": null
+            },
+            "id": 557116,
+            "utcDate": "2026-05-19T22:00:00Z",
+            "status": "TIMED",
+            "matchday": 5,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_C",
+            "lastUpdated": "2026-03-23T03:59:21Z",
+            "homeTeam": {
+                "id": 1765,
+                "name": "Fluminense FC",
+                "shortName": "Fluminense",
+                "tla": "FLU",
+                "crest": "https://crests.football-data.org/1765.png"
+            },
+            "awayTeam": {
+                "id": 4261,
+                "name": "Club Bolívar",
+                "shortName": "Club Bolívar",
+                "tla": "BOL",
+                "crest": "https://crests.football-data.org/4261.png"
             },
             "score": {
                 "winner": null,
