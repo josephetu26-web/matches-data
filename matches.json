@@ -33,79 +33,13 @@
                 "currentMatchday": 5,
                 "winner": null
             },
-            "id": 557141,
-            "utcDate": "2026-05-20T00:00:00Z",
-            "status": "TIMED",
-            "matchday": 5,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_E",
-            "lastUpdated": "2026-03-23T03:59:21Z",
-            "homeTeam": {
-                "id": 4441,
-                "name": "Independiente Santa Fe",
-                "shortName": "Santa Fe",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/4441.png"
-            },
-            "awayTeam": {
-                "id": 7580,
-                "name": "CA Platense",
-                "shortName": "Platense",
-                "tla": "PLA",
-                "crest": "https://crests.football-data.org/7580.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 58065,
-                    "name": "Cristián Garay",
-                    "type": "REFEREE",
-                    "nationality": "Chile"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 5,
-                "winner": null
-            },
             "id": 557165,
             "utcDate": "2026-05-20T00:00:00Z",
-            "status": "TIMED",
+            "status": "PAUSED",
             "matchday": 5,
             "stage": "GROUP_STAGE",
             "group": "GROUP_G",
-            "lastUpdated": "2026-03-24T15:21:09Z",
+            "lastUpdated": "2026-05-20T02:51:49Z",
             "homeTeam": {
                 "id": 7865,
                 "name": "Club Always Ready",
@@ -121,15 +55,15 @@
                 "crest": "https://crests.football-data.org/4364.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -165,13 +99,79 @@
                 "currentMatchday": 5,
                 "winner": null
             },
+            "id": 557141,
+            "utcDate": "2026-05-20T00:00:00Z",
+            "status": "PAUSED",
+            "matchday": 5,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_E",
+            "lastUpdated": "2026-05-20T02:51:50Z",
+            "homeTeam": {
+                "id": 4441,
+                "name": "Independiente Santa Fe",
+                "shortName": "Santa Fe",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/4441.png"
+            },
+            "awayTeam": {
+                "id": 7580,
+                "name": "CA Platense",
+                "shortName": "Platense",
+                "tla": "PLA",
+                "crest": "https://crests.football-data.org/7580.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 58065,
+                    "name": "Cristián Garay",
+                    "type": "REFEREE",
+                    "nationality": "Chile"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 5,
+                "winner": null
+            },
             "id": 557128,
             "utcDate": "2026-05-20T00:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 5,
             "stage": "GROUP_STAGE",
             "group": "GROUP_D",
-            "lastUpdated": "2026-05-11T05:21:13Z",
+            "lastUpdated": "2026-05-20T02:59:39Z",
             "homeTeam": {
                 "id": 2061,
                 "name": "CA Boca Juniors",
@@ -187,11 +187,11 @@
                 "crest": "https://crests.football-data.org/1771.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
