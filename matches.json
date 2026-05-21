@@ -33,26 +33,26 @@
                 "currentMatchday": 5,
                 "winner": null
             },
-            "id": 557092,
+            "id": 557152,
             "utcDate": "2026-05-21T00:30:00Z",
             "status": "IN_PLAY",
             "matchday": 5,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_A",
-            "lastUpdated": "2026-05-21T02:59:22Z",
+            "group": "GROUP_F",
+            "lastUpdated": "2026-05-21T02:59:18Z",
             "homeTeam": {
-                "id": 1783,
-                "name": "CR Flamengo",
-                "shortName": "Flamengo",
-                "tla": "FLA",
-                "crest": "https://crests.football-data.org/1783.png"
+                "id": 1769,
+                "name": "SE Palmeiras",
+                "shortName": "Palmeiras",
+                "tla": "PAL",
+                "crest": "https://crests.football-data.org/1769.png"
             },
             "awayTeam": {
-                "id": 2051,
-                "name": "Estudiantes de La Plata",
-                "shortName": "Estudiantes LP",
-                "tla": "EST",
-                "crest": "https://crests.football-data.org/2051.png"
+                "id": 9373,
+                "name": "Club Cerro Porteño",
+                "shortName": "Cerro Porteño",
+                "tla": "CCP",
+                "crest": "https://crests.football-data.org/9373.png"
             },
             "score": {
                 "winner": "DRAW",
@@ -151,26 +151,26 @@
                 "currentMatchday": 5,
                 "winner": null
             },
-            "id": 557152,
+            "id": 557092,
             "utcDate": "2026-05-21T00:30:00Z",
             "status": "IN_PLAY",
             "matchday": 5,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_F",
-            "lastUpdated": "2026-05-21T02:59:18Z",
+            "group": "GROUP_A",
+            "lastUpdated": "2026-05-21T02:59:22Z",
             "homeTeam": {
-                "id": 1769,
-                "name": "SE Palmeiras",
-                "shortName": "Palmeiras",
-                "tla": "PAL",
-                "crest": "https://crests.football-data.org/1769.png"
+                "id": 1783,
+                "name": "CR Flamengo",
+                "shortName": "Flamengo",
+                "tla": "FLA",
+                "crest": "https://crests.football-data.org/1783.png"
             },
             "awayTeam": {
-                "id": 9373,
-                "name": "Club Cerro Porteño",
-                "shortName": "Cerro Porteño",
-                "tla": "CCP",
-                "crest": "https://crests.football-data.org/9373.png"
+                "id": 2051,
+                "name": "Estudiantes de La Plata",
+                "shortName": "Estudiantes LP",
+                "tla": "EST",
+                "crest": "https://crests.football-data.org/2051.png"
             },
             "score": {
                 "winner": "DRAW",
@@ -178,65 +178,6 @@
                 "fullTime": {
                     "home": 0,
                     "away": 0
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 5,
-                "winner": null
-            },
-            "id": 557153,
-            "utcDate": "2026-05-21T02:00:00Z",
-            "status": "TIMED",
-            "matchday": 5,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_F",
-            "lastUpdated": "2026-03-23T03:59:22Z",
-            "homeTeam": {
-                "id": 4439,
-                "name": "CDP Junior FC",
-                "shortName": "Junior",
-                "tla": "ATL",
-                "crest": "https://crests.football-data.org/4439.png"
-            },
-            "awayTeam": {
-                "id": 5347,
-                "name": "CS Cristal",
-                "shortName": "Cristal",
-                "tla": "SPO",
-                "crest": "https://crests.football-data.org/5347.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
                 },
                 "halfTime": {
                     "home": null,
@@ -289,6 +230,65 @@
                 "shortName": "Independiente",
                 "tla": "DIM",
                 "crest": "https://crests.football-data.org/7119.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 5,
+                "winner": null
+            },
+            "id": 557153,
+            "utcDate": "2026-05-21T02:00:00Z",
+            "status": "TIMED",
+            "matchday": 5,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_F",
+            "lastUpdated": "2026-03-23T03:59:22Z",
+            "homeTeam": {
+                "id": 4439,
+                "name": "CDP Junior FC",
+                "shortName": "Junior",
+                "tla": "ATL",
+                "crest": "https://crests.football-data.org/4439.png"
+            },
+            "awayTeam": {
+                "id": 5347,
+                "name": "CS Cristal",
+                "shortName": "Cristal",
+                "tla": "SPO",
+                "crest": "https://crests.football-data.org/5347.png"
             },
             "score": {
                 "winner": null,
