@@ -153,11 +153,11 @@
             },
             "id": 537185,
             "utcDate": "2026-05-22T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 38,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-18T13:25:25Z",
+            "lastUpdated": "2026-05-22T19:56:01Z",
             "homeTeam": {
                 "id": 99,
                 "name": "ACF Fiorentina",
@@ -173,15 +173,15 @@
                 "crest": "https://crests.football-data.org/102.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
