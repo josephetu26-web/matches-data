@@ -33,7 +33,7 @@
                 "currentMatchday": 6,
                 "winner": null
             },
-            "id": 557167,
+            "id": 557166,
             "utcDate": "2026-05-26T22:00:00Z",
             "status": "TIMED",
             "matchday": 6,
@@ -41,18 +41,18 @@
             "group": "GROUP_G",
             "lastUpdated": "2026-03-23T03:59:22Z",
             "homeTeam": {
-                "id": 4528,
-                "name": "LDU de Quito",
-                "shortName": "LDU de Quito",
-                "tla": "LDU",
-                "crest": "https://crests.football-data.org/4528.png"
+                "id": 2066,
+                "name": "CA Lanús",
+                "shortName": "Lanús",
+                "tla": "LAN",
+                "crest": "https://crests.football-data.org/2066.png"
             },
             "awayTeam": {
-                "id": 7865,
-                "name": "Club Always Ready",
-                "shortName": "Always Ready",
-                "tla": "CAR",
-                "crest": "https://crests.football-data.org/7865.png"
+                "id": 4364,
+                "name": "Mirassol FC",
+                "shortName": "Mirassol",
+                "tla": "MIR",
+                "crest": "https://crests.football-data.org/4364.png"
             },
             "score": {
                 "winner": null,
@@ -92,7 +92,7 @@
                 "currentMatchday": 6,
                 "winner": null
             },
-            "id": 557166,
+            "id": 557167,
             "utcDate": "2026-05-26T22:00:00Z",
             "status": "TIMED",
             "matchday": 6,
@@ -100,18 +100,18 @@
             "group": "GROUP_G",
             "lastUpdated": "2026-03-23T03:59:22Z",
             "homeTeam": {
-                "id": 2066,
-                "name": "CA Lanús",
-                "shortName": "Lanús",
-                "tla": "LAN",
-                "crest": "https://crests.football-data.org/2066.png"
+                "id": 4528,
+                "name": "LDU de Quito",
+                "shortName": "LDU de Quito",
+                "tla": "LDU",
+                "crest": "https://crests.football-data.org/4528.png"
             },
             "awayTeam": {
-                "id": 4364,
-                "name": "Mirassol FC",
-                "shortName": "Mirassol",
-                "tla": "MIR",
-                "crest": "https://crests.football-data.org/4364.png"
+                "id": 7865,
+                "name": "Club Always Ready",
+                "shortName": "Always Ready",
+                "tla": "CAR",
+                "crest": "https://crests.football-data.org/7865.png"
             },
             "score": {
                 "winner": null,
