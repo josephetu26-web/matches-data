@@ -33,131 +33,6 @@
                 "currentMatchday": 6,
                 "winner": null
             },
-            "id": 557094,
-            "utcDate": "2026-05-27T00:30:00Z",
-            "status": "IN_PLAY",
-            "matchday": 6,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_A",
-            "lastUpdated": "2026-05-27T02:59:17Z",
-            "homeTeam": {
-                "id": 2051,
-                "name": "Estudiantes de La Plata",
-                "shortName": "Estudiantes LP",
-                "tla": "EST",
-                "crest": "https://crests.football-data.org/2051.png"
-            },
-            "awayTeam": {
-                "id": 7119,
-                "name": "CD Independiente Medellín",
-                "shortName": "Independiente",
-                "tla": "DIM",
-                "crest": "https://crests.football-data.org/7119.png"
-            },
-            "score": {
-                "winner": "DRAW",
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 116383,
-                    "name": "Juan Benítez",
-                    "type": "REFEREE",
-                    "nationality": "Paraguay"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 6,
-                "winner": null
-            },
-            "id": 557106,
-            "utcDate": "2026-05-27T00:30:00Z",
-            "status": "IN_PLAY",
-            "matchday": 6,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_B",
-            "lastUpdated": "2026-05-27T02:59:18Z",
-            "homeTeam": {
-                "id": 4268,
-                "name": "Club Universitario de Deportes",
-                "shortName": "Universitario",
-                "tla": "CUD",
-                "crest": "https://crests.football-data.org/4268.png"
-            },
-            "awayTeam": {
-                "id": 4437,
-                "name": "CD Tolima",
-                "shortName": "Tolima",
-                "tla": "TOL",
-                "crest": "https://crests.football-data.org/4437.png"
-            },
-            "score": {
-                "winner": "DRAW",
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 6,
-                "winner": null
-            },
             "id": 557095,
             "utcDate": "2026-05-27T00:30:00Z",
             "status": "IN_PLAY",
@@ -261,6 +136,131 @@
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
             "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 6,
+                "winner": null
+            },
+            "id": 557106,
+            "utcDate": "2026-05-27T00:30:00Z",
+            "status": "IN_PLAY",
+            "matchday": 6,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_B",
+            "lastUpdated": "2026-05-27T02:59:18Z",
+            "homeTeam": {
+                "id": 4268,
+                "name": "Club Universitario de Deportes",
+                "shortName": "Universitario",
+                "tla": "CUD",
+                "crest": "https://crests.football-data.org/4268.png"
+            },
+            "awayTeam": {
+                "id": 4437,
+                "name": "CD Tolima",
+                "shortName": "Tolima",
+                "tla": "TOL",
+                "crest": "https://crests.football-data.org/4437.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 6,
+                "winner": null
+            },
+            "id": 557094,
+            "utcDate": "2026-05-27T00:30:00Z",
+            "status": "IN_PLAY",
+            "matchday": 6,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_A",
+            "lastUpdated": "2026-05-27T02:59:17Z",
+            "homeTeam": {
+                "id": 2051,
+                "name": "Estudiantes de La Plata",
+                "shortName": "Estudiantes LP",
+                "tla": "EST",
+                "crest": "https://crests.football-data.org/2051.png"
+            },
+            "awayTeam": {
+                "id": 7119,
+                "name": "CD Independiente Medellín",
+                "shortName": "Independiente",
+                "tla": "DIM",
+                "crest": "https://crests.football-data.org/7119.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 116383,
+                    "name": "Juan Benítez",
+                    "type": "REFEREE",
+                    "nationality": "Paraguay"
+                }
+            ]
         },
         {
             "area": {
