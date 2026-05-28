@@ -33,72 +33,6 @@
                 "currentMatchday": 6,
                 "winner": null
             },
-            "id": 557142,
-            "utcDate": "2026-05-28T00:30:00Z",
-            "status": "TIMED",
-            "matchday": 6,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_E",
-            "lastUpdated": "2026-05-19T20:20:58Z",
-            "homeTeam": {
-                "id": 1779,
-                "name": "SC Corinthians Paulista",
-                "shortName": "Corinthians",
-                "tla": "COR",
-                "crest": "https://crests.football-data.org/1779.png"
-            },
-            "awayTeam": {
-                "id": 7580,
-                "name": "CA Platense",
-                "shortName": "Platense",
-                "tla": "PLA",
-                "crest": "https://crests.football-data.org/7580.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 29389,
-                    "name": "Alexis Herrera",
-                    "type": "REFEREE",
-                    "nationality": "Venezuela"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 6,
-                "winner": null
-            },
             "id": 557118,
             "utcDate": "2026-05-28T00:30:00Z",
             "status": "TIMED",
@@ -141,6 +75,72 @@
                     "name": "Dennys Guerrero",
                     "type": "REFEREE",
                     "nationality": "Ecuador"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 6,
+                "winner": null
+            },
+            "id": 557142,
+            "utcDate": "2026-05-28T00:30:00Z",
+            "status": "TIMED",
+            "matchday": 6,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_E",
+            "lastUpdated": "2026-05-19T20:20:58Z",
+            "homeTeam": {
+                "id": 1779,
+                "name": "SC Corinthians Paulista",
+                "shortName": "Corinthians",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/1779.png"
+            },
+            "awayTeam": {
+                "id": 7580,
+                "name": "CA Platense",
+                "shortName": "Platense",
+                "tla": "PLA",
+                "crest": "https://crests.football-data.org/7580.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 29389,
+                    "name": "Alexis Herrera",
+                    "type": "REFEREE",
+                    "nationality": "Venezuela"
                 }
             ]
         },
