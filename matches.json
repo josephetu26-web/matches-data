@@ -92,33 +92,33 @@
                 "currentMatchday": 18,
                 "winner": null
             },
-            "id": 554916,
+            "id": 554919,
             "utcDate": "2026-05-31T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 18,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-30T15:20:46Z",
+            "lastUpdated": "2026-05-31T19:25:32Z",
             "homeTeam": {
-                "id": 1769,
-                "name": "SE Palmeiras",
-                "shortName": "Palmeiras",
-                "tla": "PAL",
-                "crest": "https://crests.football-data.org/1769.png"
+                "id": 1780,
+                "name": "CR Vasco da Gama",
+                "shortName": "Vasco da Gama",
+                "tla": "VAS",
+                "crest": "https://crests.football-data.org/1780.png"
             },
             "awayTeam": {
-                "id": 1772,
-                "name": "Chapecoense AF",
-                "shortName": "Chapecoense",
-                "tla": "CHA",
-                "crest": "https://crests.football-data.org/1772_large.png"
+                "id": 1766,
+                "name": "CA Mineiro",
+                "shortName": "Mineiro",
+                "tla": "CAM",
+                "crest": "https://crests.football-data.org/1766.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -151,33 +151,33 @@
                 "currentMatchday": 18,
                 "winner": null
             },
-            "id": 554919,
+            "id": 554916,
             "utcDate": "2026-05-31T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 18,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-31T01:32:00Z",
+            "lastUpdated": "2026-05-31T19:25:32Z",
             "homeTeam": {
-                "id": 1780,
-                "name": "CR Vasco da Gama",
-                "shortName": "Vasco da Gama",
-                "tla": "VAS",
-                "crest": "https://crests.football-data.org/1780.png"
+                "id": 1769,
+                "name": "SE Palmeiras",
+                "shortName": "Palmeiras",
+                "tla": "PAL",
+                "crest": "https://crests.football-data.org/1769.png"
             },
             "awayTeam": {
-                "id": 1766,
-                "name": "CA Mineiro",
-                "shortName": "Mineiro",
-                "tla": "CAM",
-                "crest": "https://crests.football-data.org/1766.png"
+                "id": 1772,
+                "name": "Chapecoense AF",
+                "shortName": "Chapecoense",
+                "tla": "CHA",
+                "crest": "https://crests.football-data.org/1772_large.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
