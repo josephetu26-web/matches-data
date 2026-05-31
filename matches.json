@@ -210,7 +210,7 @@
                 "currentMatchday": 18,
                 "winner": null
             },
-            "id": 554917,
+            "id": 554913,
             "utcDate": "2026-05-31T23:30:00Z",
             "status": "TIMED",
             "matchday": 18,
@@ -218,18 +218,18 @@
             "group": null,
             "lastUpdated": "2026-05-31T01:32:00Z",
             "homeTeam": {
-                "id": 4287,
-                "name": "Clube do Remo",
-                "shortName": "Clube do Remo",
-                "tla": "CRE",
-                "crest": "https://crests.football-data.org/4287.png"
+                "id": 1771,
+                "name": "Cruzeiro EC",
+                "shortName": "Cruzeiro",
+                "tla": "CRU",
+                "crest": "https://crests.football-data.org/1771.png"
             },
             "awayTeam": {
-                "id": 1776,
-                "name": "São Paulo FC",
-                "shortName": "São Paulo",
-                "tla": "PAU",
-                "crest": "https://crests.football-data.org/1776.png"
+                "id": 1765,
+                "name": "Fluminense FC",
+                "shortName": "Fluminense",
+                "tla": "FLU",
+                "crest": "https://crests.football-data.org/1765.png"
             },
             "score": {
                 "winner": null,
@@ -269,7 +269,7 @@
                 "currentMatchday": 18,
                 "winner": null
             },
-            "id": 554913,
+            "id": 554917,
             "utcDate": "2026-05-31T23:30:00Z",
             "status": "TIMED",
             "matchday": 18,
@@ -277,18 +277,18 @@
             "group": null,
             "lastUpdated": "2026-05-31T01:32:00Z",
             "homeTeam": {
-                "id": 1771,
-                "name": "Cruzeiro EC",
-                "shortName": "Cruzeiro",
-                "tla": "CRU",
-                "crest": "https://crests.football-data.org/1771.png"
+                "id": 4287,
+                "name": "Clube do Remo",
+                "shortName": "Clube do Remo",
+                "tla": "CRE",
+                "crest": "https://crests.football-data.org/4287.png"
             },
             "awayTeam": {
-                "id": 1765,
-                "name": "Fluminense FC",
-                "shortName": "Fluminense",
-                "tla": "FLU",
-                "crest": "https://crests.football-data.org/1765.png"
+                "id": 1776,
+                "name": "São Paulo FC",
+                "shortName": "São Paulo",
+                "tla": "PAU",
+                "crest": "https://crests.football-data.org/1776.png"
             },
             "score": {
                 "winner": null,
