@@ -9,7 +9,7 @@
         "competitions": "BSA",
         "first": "2026-05-31",
         "last": "2026-05-31",
-        "played": 1
+        "played": 3
     },
     "matches": [
         {
@@ -94,11 +94,11 @@
             },
             "id": 554919,
             "utcDate": "2026-05-31T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 18,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-31T19:25:32Z",
+            "lastUpdated": "2026-05-31T21:02:17Z",
             "homeTeam": {
                 "id": 1780,
                 "name": "CR Vasco da Gama",
@@ -114,15 +114,15 @@
                 "crest": "https://crests.football-data.org/1766.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 0,
-                    "away": 0
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -153,11 +153,11 @@
             },
             "id": 554916,
             "utcDate": "2026-05-31T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 18,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-05-31T19:25:32Z",
+            "lastUpdated": "2026-05-31T21:17:47Z",
             "homeTeam": {
                 "id": 1769,
                 "name": "SE Palmeiras",
@@ -173,15 +173,15 @@
                 "crest": "https://crests.football-data.org/1772_large.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
+                    "home": 1,
                     "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
