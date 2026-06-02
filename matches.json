@@ -1,7 +1,7 @@
 {
     "filters": {
-        "dateFrom": "2026-06-01",
-        "dateTo": "2026-06-02",
+        "dateFrom": "2026-06-02",
+        "dateTo": "2026-06-03",
         "permission": "TIER_ONE"
     },
     "resultSet": {
