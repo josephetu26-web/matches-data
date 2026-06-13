@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-13",
         "last": "2026-06-13",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -101,11 +101,11 @@
             },
             "id": 537334,
             "utcDate": "2026-06-13T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-13T19:43:47Z",
+            "lastUpdated": "2026-06-13T21:09:44Z",
             "homeTeam": {
                 "id": 8030,
                 "name": "Qatar",
@@ -121,15 +121,15 @@
                 "crest": "https://crests.football-data.org/788.svg"
             },
             "score": {
-                "winner": "AWAY_TEAM",
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
+                    "home": 1,
                     "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -167,11 +167,11 @@
             },
             "id": 537339,
             "utcDate": "2026-06-13T22:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_C",
-            "lastUpdated": "2026-06-10T10:20:19Z",
+            "lastUpdated": "2026-06-13T22:10:47Z",
             "homeTeam": {
                 "id": 764,
                 "name": "Brazil",
@@ -187,11 +187,11 @@
                 "crest": "https://crests.football-data.org/morocco.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
