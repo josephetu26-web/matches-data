@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-14",
         "last": "2026-06-14",
-        "played": 3
+        "played": 4
     },
     "matches": [
         {
@@ -171,7 +171,7 @@
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-14T19:03:57Z",
+            "lastUpdated": "2026-06-14T20:07:14Z",
             "homeTeam": {
                 "id": 759,
                 "name": "Germany",
@@ -233,11 +233,11 @@
             },
             "id": 537357,
             "utcDate": "2026-06-14T20:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_F",
-            "lastUpdated": "2026-06-13T15:20:17Z",
+            "lastUpdated": "2026-06-14T22:01:31Z",
             "homeTeam": {
                 "id": 8601,
                 "name": "Netherlands",
@@ -253,15 +253,15 @@
                 "crest": "https://crests.football-data.org/766.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -303,7 +303,7 @@
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-13T15:20:17Z",
+            "lastUpdated": "2026-06-11T15:20:18Z",
             "homeTeam": {
                 "id": 1935,
                 "name": "Ivory Coast",
