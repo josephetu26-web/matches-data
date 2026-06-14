@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-14",
         "last": "2026-06-14",
-        "played": 2
+        "played": 3
     },
     "matches": [
         {
@@ -167,11 +167,11 @@
             },
             "id": 537351,
             "utcDate": "2026-06-14T17:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-11T15:20:18Z",
+            "lastUpdated": "2026-06-14T19:03:57Z",
             "homeTeam": {
                 "id": 759,
                 "name": "Germany",
@@ -187,15 +187,15 @@
                 "crest": "https://crests.football-data.org/curacao.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 7,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 1
                 }
             },
             "odds": {
@@ -237,7 +237,7 @@
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_F",
-            "lastUpdated": "2026-06-11T15:20:18Z",
+            "lastUpdated": "2026-06-13T15:20:17Z",
             "homeTeam": {
                 "id": 8601,
                 "name": "Netherlands",
@@ -267,7 +267,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 76608,
+                    "name": "Ismail Elfath",
+                    "type": "REFEREE",
+                    "nationality": "United States"
+                }
+            ]
         },
         {
             "area": {
@@ -296,7 +303,7 @@
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-11T15:20:18Z",
+            "lastUpdated": "2026-06-13T15:20:17Z",
             "homeTeam": {
                 "id": 1935,
                 "name": "Ivory Coast",
