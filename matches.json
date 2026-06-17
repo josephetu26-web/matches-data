@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-17",
         "last": "2026-06-17",
-        "played": 2
+        "played": 3
     },
     "matches": [
         {
@@ -167,11 +167,11 @@
             },
             "id": 537403,
             "utcDate": "2026-06-17T17:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_K",
-            "lastUpdated": "2026-06-10T10:20:19Z",
+            "lastUpdated": "2026-06-17T19:57:01Z",
             "homeTeam": {
                 "id": 765,
                 "name": "Portugal",
@@ -187,15 +187,15 @@
                 "crest": "https://crests.football-data.org/congo_dr.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
@@ -233,11 +233,11 @@
             },
             "id": 537409,
             "utcDate": "2026-06-17T20:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_L",
-            "lastUpdated": "2026-06-10T10:20:19Z",
+            "lastUpdated": "2026-06-17T20:21:25Z",
             "homeTeam": {
                 "id": 770,
                 "name": "England",
@@ -253,11 +253,11 @@
                 "crest": "https://crests.football-data.org/799.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -267,7 +267,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 9374,
+                    "name": "Clément Turpin",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
         },
         {
             "area": {
@@ -296,7 +303,7 @@
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_L",
-            "lastUpdated": "2026-06-10T10:20:19Z",
+            "lastUpdated": "2026-06-16T15:20:15Z",
             "homeTeam": {
                 "id": 763,
                 "name": "Ghana",
