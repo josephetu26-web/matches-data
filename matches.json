@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-18",
         "last": "2026-06-18",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -30,7 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537404,
@@ -96,16 +96,16 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537329,
             "utcDate": "2026-06-18T16:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_A",
-            "lastUpdated": "2026-06-17T15:20:15Z",
+            "lastUpdated": "2026-06-18T18:03:38Z",
             "homeTeam": {
                 "id": 798,
                 "name": "Czechia",
@@ -121,15 +121,15 @@
                 "crest": "https://crests.football-data.org/9396.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -162,16 +162,16 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537335,
             "utcDate": "2026-06-18T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-17T15:20:15Z",
+            "lastUpdated": "2026-06-18T20:09:17Z",
             "homeTeam": {
                 "id": 788,
                 "name": "Switzerland",
@@ -201,7 +201,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 38806,
+                    "name": "João Pinheiro",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -221,7 +228,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537336,
@@ -230,7 +237,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-17T15:20:15Z",
+            "lastUpdated": "2026-06-16T15:20:15Z",
             "homeTeam": {
                 "id": 828,
                 "name": "Canada",
