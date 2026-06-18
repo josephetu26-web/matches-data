@@ -30,7 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537404,
@@ -39,7 +39,7 @@
             "matchday": 1,
             "stage": "GROUP_STAGE",
             "group": "GROUP_K",
-            "lastUpdated": "2026-06-18T04:09:40Z",
+            "lastUpdated": "2026-06-18T08:25:01Z",
             "homeTeam": {
                 "id": 8070,
                 "name": "Uzbekistan",
@@ -96,7 +96,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537329,
@@ -105,7 +105,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_A",
-            "lastUpdated": "2026-06-17T15:20:15Z",
+            "lastUpdated": "2026-06-13T15:20:17Z",
             "homeTeam": {
                 "id": 798,
                 "name": "Czechia",
@@ -155,7 +155,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537335,
@@ -164,7 +164,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-17T15:20:15Z",
+            "lastUpdated": "2026-06-13T15:20:17Z",
             "homeTeam": {
                 "id": 788,
                 "name": "Switzerland",
@@ -214,7 +214,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537336,
@@ -223,7 +223,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-17T15:20:15Z",
+            "lastUpdated": "2026-06-13T15:20:17Z",
             "homeTeam": {
                 "id": 828,
                 "name": "Canada",
