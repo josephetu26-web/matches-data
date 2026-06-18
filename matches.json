@@ -30,7 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537404,
@@ -96,7 +96,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537329,
@@ -105,7 +105,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_A",
-            "lastUpdated": "2026-06-13T15:20:17Z",
+            "lastUpdated": "2026-06-17T15:20:15Z",
             "homeTeam": {
                 "id": 798,
                 "name": "Czechia",
@@ -135,7 +135,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 212450,
+                    "name": "Tori Penso",
+                    "type": "REFEREE",
+                    "nationality": "USA"
+                }
+            ]
         },
         {
             "area": {
@@ -155,7 +162,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537335,
@@ -164,7 +171,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-13T15:20:17Z",
+            "lastUpdated": "2026-06-17T15:20:15Z",
             "homeTeam": {
                 "id": 788,
                 "name": "Switzerland",
@@ -214,7 +221,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537336,
@@ -223,7 +230,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-13T15:20:17Z",
+            "lastUpdated": "2026-06-17T15:20:15Z",
             "homeTeam": {
                 "id": 828,
                 "name": "Canada",
