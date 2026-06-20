@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-20",
         "last": "2026-06-21",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -30,7 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537341,
@@ -39,7 +39,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_C",
-            "lastUpdated": "2026-06-20T02:37:13Z",
+            "lastUpdated": "2026-06-20T08:25:00Z",
             "homeTeam": {
                 "id": 764,
                 "name": "Brazil",
@@ -96,16 +96,16 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537347,
             "utcDate": "2026-06-20T03:00:00Z",
-            "status": "PAUSED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_D",
-            "lastUpdated": "2026-06-20T04:01:40Z",
+            "lastUpdated": "2026-06-20T08:25:01Z",
             "homeTeam": {
                 "id": 803,
                 "name": "Turkey",
@@ -162,7 +162,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537359,
@@ -171,7 +171,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_F",
-            "lastUpdated": "2026-06-19T15:20:16Z",
+            "lastUpdated": "2026-06-11T15:20:18Z",
             "homeTeam": {
                 "id": 8601,
                 "name": "Netherlands",
@@ -221,7 +221,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537353,
@@ -230,7 +230,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-19T15:20:16Z",
+            "lastUpdated": "2026-06-11T15:20:18Z",
             "homeTeam": {
                 "id": 759,
                 "name": "Germany",
@@ -280,7 +280,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537354,
@@ -289,7 +289,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-19T15:20:16Z",
+            "lastUpdated": "2026-06-11T15:20:18Z",
             "homeTeam": {
                 "id": 791,
                 "name": "Ecuador",
