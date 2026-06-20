@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-20",
         "last": "2026-06-21",
-        "played": 2
+        "played": 3
     },
     "matches": [
         {
@@ -167,11 +167,11 @@
             },
             "id": 537359,
             "utcDate": "2026-06-20T17:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_F",
-            "lastUpdated": "2026-06-11T15:20:18Z",
+            "lastUpdated": "2026-06-20T19:02:08Z",
             "homeTeam": {
                 "id": 8601,
                 "name": "Netherlands",
@@ -187,15 +187,15 @@
                 "crest": "https://crests.football-data.org/792.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 5,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 }
             },
             "odds": {
@@ -237,7 +237,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-11T15:20:18Z",
+            "lastUpdated": "2026-06-12T00:20:17Z",
             "homeTeam": {
                 "id": 759,
                 "name": "Germany",
@@ -267,7 +267,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 116383,
+                    "name": "Juan Benítez",
+                    "type": "REFEREE",
+                    "nationality": "Paraguay"
+                }
+            ]
         },
         {
             "area": {
@@ -296,7 +303,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-11T15:20:18Z",
+            "lastUpdated": "2026-06-12T00:20:17Z",
             "homeTeam": {
                 "id": 791,
                 "name": "Ecuador",
