@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-20",
         "last": "2026-06-21",
-        "played": 3
+        "played": 4
     },
     "matches": [
         {
@@ -233,11 +233,11 @@
             },
             "id": 537353,
             "utcDate": "2026-06-20T20:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-12T00:20:17Z",
+            "lastUpdated": "2026-06-20T22:05:03Z",
             "homeTeam": {
                 "id": 759,
                 "name": "Germany",
@@ -253,15 +253,15 @@
                 "crest": "https://crests.football-data.org/787.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -303,7 +303,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-12T00:20:17Z",
+            "lastUpdated": "2026-06-11T15:20:18Z",
             "homeTeam": {
                 "id": 791,
                 "name": "Ecuador",
@@ -333,7 +333,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 176659,
+                    "name": "Ning Ma",
+                    "type": "REFEREE",
+                    "nationality": "China PR"
+                }
+            ]
         }
     ]
 }
