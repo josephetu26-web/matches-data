@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-23",
         "last": "2026-06-23",
-        "played": 3
+        "played": 4
     },
     "matches": [
         {
@@ -30,7 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537394,
@@ -96,7 +96,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537400,
@@ -162,7 +162,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537405,
@@ -171,7 +171,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_K",
-            "lastUpdated": "2026-06-23T19:04:30Z",
+            "lastUpdated": "2026-06-23T20:40:13Z",
             "homeTeam": {
                 "id": 765,
                 "name": "Portugal",
@@ -228,16 +228,16 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537411,
             "utcDate": "2026-06-23T20:00:00Z",
-            "status": "LIVE",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_L",
-            "lastUpdated": "2026-06-23T20:13:44Z",
+            "lastUpdated": "2026-06-23T22:10:16Z",
             "homeTeam": {
                 "id": 770,
                 "name": "England",
@@ -260,8 +260,8 @@
                     "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -294,7 +294,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537412,
@@ -303,7 +303,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_L",
-            "lastUpdated": "2026-06-22T15:20:13Z",
+            "lastUpdated": "2026-06-12T00:20:17Z",
             "homeTeam": {
                 "id": 1836,
                 "name": "Panama",
