@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-23",
         "last": "2026-06-23",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -30,7 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537394,
@@ -39,7 +39,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_I",
-            "lastUpdated": "2026-06-23T02:06:01Z",
+            "lastUpdated": "2026-06-23T08:25:01Z",
             "homeTeam": {
                 "id": 8872,
                 "name": "Norway",
@@ -96,16 +96,16 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537400,
             "utcDate": "2026-06-23T03:00:00Z",
-            "status": "PAUSED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_J",
-            "lastUpdated": "2026-06-23T03:57:16Z",
+            "lastUpdated": "2026-06-23T08:25:01Z",
             "homeTeam": {
                 "id": 8049,
                 "name": "Jordan",
@@ -121,11 +121,11 @@
                 "crest": "https://crests.football-data.org/algeria.svg"
             },
             "score": {
-                "winner": "HOME_TEAM",
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 1,
-                    "away": 0
+                    "away": 2
                 },
                 "halfTime": {
                     "home": 1,
@@ -162,7 +162,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537405,
@@ -171,7 +171,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_K",
-            "lastUpdated": "2026-06-13T15:20:17Z",
+            "lastUpdated": "2026-06-22T15:20:13Z",
             "homeTeam": {
                 "id": 765,
                 "name": "Portugal",
@@ -221,7 +221,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537411,
@@ -230,7 +230,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_L",
-            "lastUpdated": "2026-06-13T15:20:17Z",
+            "lastUpdated": "2026-06-22T15:20:13Z",
             "homeTeam": {
                 "id": 770,
                 "name": "England",
@@ -280,7 +280,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537412,
@@ -289,7 +289,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_L",
-            "lastUpdated": "2026-06-13T15:20:17Z",
+            "lastUpdated": "2026-06-22T15:20:13Z",
             "homeTeam": {
                 "id": 1836,
                 "name": "Panama",
