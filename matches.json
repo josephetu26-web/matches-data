@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-23",
         "last": "2026-06-23",
-        "played": 2
+        "played": 3
     },
     "matches": [
         {
@@ -30,7 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537394,
@@ -96,7 +96,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537400,
@@ -162,16 +162,16 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537405,
             "utcDate": "2026-06-23T17:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_K",
-            "lastUpdated": "2026-06-16T10:20:15Z",
+            "lastUpdated": "2026-06-23T19:04:30Z",
             "homeTeam": {
                 "id": 765,
                 "name": "Portugal",
@@ -187,15 +187,15 @@
                 "crest": "https://crests.football-data.org/8070.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 5,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
                 }
             },
             "odds": {
@@ -228,16 +228,16 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537411,
             "utcDate": "2026-06-23T20:00:00Z",
-            "status": "TIMED",
+            "status": "LIVE",
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_L",
-            "lastUpdated": "2026-06-16T10:20:15Z",
+            "lastUpdated": "2026-06-23T20:13:44Z",
             "homeTeam": {
                 "id": 770,
                 "name": "England",
@@ -253,11 +253,11 @@
                 "crest": "https://crests.football-data.org/ghana.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -267,7 +267,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 190002,
+                    "name": "Said Martinez",
+                    "type": "REFEREE",
+                    "nationality": "Honduras"
+                }
+            ]
         },
         {
             "area": {
@@ -287,7 +294,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537412,
@@ -296,7 +303,7 @@
             "matchday": 2,
             "stage": "GROUP_STAGE",
             "group": "GROUP_L",
-            "lastUpdated": "2026-06-16T10:20:15Z",
+            "lastUpdated": "2026-06-22T15:20:13Z",
             "homeTeam": {
                 "id": 1836,
                 "name": "Panama",
