@@ -30,7 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537406,
@@ -89,7 +89,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537337,
@@ -98,7 +98,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-09T10:20:22Z",
+            "lastUpdated": "2026-06-20T15:20:13Z",
             "homeTeam": {
                 "id": 788,
                 "name": "Switzerland",
@@ -148,7 +148,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537338,
@@ -157,7 +157,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-09T10:20:22Z",
+            "lastUpdated": "2026-06-20T15:20:13Z",
             "homeTeam": {
                 "id": 1060,
                 "name": "Bosnia-Herzegovina",
@@ -207,7 +207,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537343,
@@ -216,7 +216,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_C",
-            "lastUpdated": "2026-06-09T10:20:22Z",
+            "lastUpdated": "2026-06-20T15:20:13Z",
             "homeTeam": {
                 "id": 8873,
                 "name": "Scotland",
@@ -266,7 +266,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537344,
@@ -275,7 +275,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_C",
-            "lastUpdated": "2026-06-09T10:20:22Z",
+            "lastUpdated": "2026-06-20T15:20:13Z",
             "homeTeam": {
                 "id": 815,
                 "name": "Morocco",
