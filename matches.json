@@ -30,7 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537406,
@@ -89,7 +89,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537337,
@@ -98,7 +98,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-20T15:20:13Z",
+            "lastUpdated": "2026-06-13T15:20:17Z",
             "homeTeam": {
                 "id": 788,
                 "name": "Switzerland",
@@ -128,7 +128,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 18754,
+                    "name": "Ramon Abatti Abel",
+                    "type": "REFEREE",
+                    "nationality": "Brazil"
+                }
+            ]
         },
         {
             "area": {
@@ -148,7 +155,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537338,
@@ -157,7 +164,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_B",
-            "lastUpdated": "2026-06-20T15:20:13Z",
+            "lastUpdated": "2026-06-13T15:20:17Z",
             "homeTeam": {
                 "id": 1060,
                 "name": "Bosnia-Herzegovina",
@@ -187,7 +194,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 28805,
+                    "name": "Jesús Valenzuela",
+                    "type": "REFEREE",
+                    "nationality": "Venezuela"
+                }
+            ]
         },
         {
             "area": {
@@ -207,7 +221,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537343,
@@ -216,7 +230,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_C",
-            "lastUpdated": "2026-06-20T15:20:13Z",
+            "lastUpdated": "2026-06-13T15:20:17Z",
             "homeTeam": {
                 "id": 8873,
                 "name": "Scotland",
@@ -266,7 +280,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 2,
+                "currentMatchday": 1,
                 "winner": null
             },
             "id": 537344,
@@ -275,7 +289,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_C",
-            "lastUpdated": "2026-06-20T15:20:13Z",
+            "lastUpdated": "2026-06-13T15:20:17Z",
             "homeTeam": {
                 "id": 815,
                 "name": "Morocco",
