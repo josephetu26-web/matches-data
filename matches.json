@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-25",
         "last": "2026-06-25",
-        "played": 2
+        "played": 4
     },
     "matches": [
         {
@@ -167,11 +167,11 @@
             },
             "id": 537356,
             "utcDate": "2026-06-25T20:00:00Z",
-            "status": "LIVE",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-25T20:09:59Z",
+            "lastUpdated": "2026-06-25T22:04:07Z",
             "homeTeam": {
                 "id": 9460,
                 "name": "Curaçao",
@@ -187,15 +187,15 @@
                 "crest": "https://crests.football-data.org/787.svg"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 0,
-                    "away": 0
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -233,11 +233,11 @@
             },
             "id": 537355,
             "utcDate": "2026-06-25T20:00:00Z",
-            "status": "LIVE",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-25T20:10:11Z",
+            "lastUpdated": "2026-06-25T22:08:03Z",
             "homeTeam": {
                 "id": 791,
                 "name": "Ecuador",
@@ -253,15 +253,15 @@
                 "crest": "https://crests.football-data.org/759.svg"
             },
             "score": {
-                "winner": "AWAY_TEAM",
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
+                    "home": 2,
                     "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
@@ -303,7 +303,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_F",
-            "lastUpdated": "2026-06-16T15:20:15Z",
+            "lastUpdated": "2026-06-16T10:20:15Z",
             "homeTeam": {
                 "id": 766,
                 "name": "Japan",
@@ -333,7 +333,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 190010,
+                    "name": "Ivan Barton",
+                    "type": "REFEREE",
+                    "nationality": null
+                }
+            ]
         },
         {
             "area": {
@@ -362,7 +369,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_F",
-            "lastUpdated": "2026-06-16T15:20:15Z",
+            "lastUpdated": "2026-06-16T10:20:15Z",
             "homeTeam": {
                 "id": 802,
                 "name": "Tunisia",
@@ -392,7 +399,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 212546,
+                    "name": "Katia García",
+                    "type": "REFEREE",
+                    "nationality": "Mexico"
+                }
+            ]
         }
     ]
 }
