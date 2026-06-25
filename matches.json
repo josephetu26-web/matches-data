@@ -30,73 +30,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 3,
-                "winner": null
-            },
-            "id": 537331,
-            "utcDate": "2026-06-25T01:00:00Z",
-            "status": "FINISHED",
-            "matchday": 3,
-            "stage": "GROUP_STAGE",
-            "group": "GROUP_A",
-            "lastUpdated": "2026-06-25T03:25:00Z",
-            "homeTeam": {
-                "id": 798,
-                "name": "Czechia",
-                "shortName": "Czechia",
-                "tla": "CZE",
-                "crest": "https://crests.football-data.org/798.svg"
-            },
-            "awayTeam": {
-                "id": 769,
-                "name": "Mexico",
-                "shortName": "Mexico",
-                "tla": "MEX",
-                "crest": "https://crests.football-data.org/769.svg"
-            },
-            "score": {
-                "winner": "AWAY_TEAM",
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": 0,
-                    "away": 3
-                },
-                "halfTime": {
-                    "home": 0,
-                    "away": 0
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 57435,
-                    "name": "Yael Falcón",
-                    "type": "REFEREE",
-                    "nationality": "Argentina"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2267,
-                "name": "World",
-                "code": "INT",
-                "flag": null
-            },
-            "competition": {
-                "id": 2000,
-                "name": "FIFA World Cup",
-                "code": "WC",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/wm26.png"
-            },
-            "season": {
-                "id": 2398,
-                "startDate": "2026-06-11",
-                "endDate": "2026-07-19",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537332,
@@ -162,46 +96,53 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
-            "id": 537355,
-            "utcDate": "2026-06-25T20:00:00Z",
-            "status": "TIMED",
+            "id": 537331,
+            "utcDate": "2026-06-25T01:00:00Z",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_E",
-            "lastUpdated": "2026-06-23T15:20:15Z",
+            "group": "GROUP_A",
+            "lastUpdated": "2026-06-25T03:25:00Z",
             "homeTeam": {
-                "id": 791,
-                "name": "Ecuador",
-                "shortName": "Ecuador",
-                "tla": "ECU",
-                "crest": "https://crests.football-data.org/791.svg"
+                "id": 798,
+                "name": "Czechia",
+                "shortName": "Czechia",
+                "tla": "CZE",
+                "crest": "https://crests.football-data.org/798.svg"
             },
             "awayTeam": {
-                "id": 759,
-                "name": "Germany",
-                "shortName": "Germany",
-                "tla": "GER",
-                "crest": "https://crests.football-data.org/759.svg"
+                "id": 769,
+                "name": "Mexico",
+                "shortName": "Mexico",
+                "tla": "MEX",
+                "crest": "https://crests.football-data.org/769.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57435,
+                    "name": "Yael Falcón",
+                    "type": "REFEREE",
+                    "nationality": "Argentina"
+                }
+            ]
         },
         {
             "area": {
@@ -221,7 +162,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537356,
@@ -230,7 +171,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_E",
-            "lastUpdated": "2026-06-23T15:20:15Z",
+            "lastUpdated": "2026-06-20T15:20:13Z",
             "homeTeam": {
                 "id": 9460,
                 "name": "Curaçao",
@@ -280,29 +221,29 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
-            "id": 537361,
-            "utcDate": "2026-06-25T23:00:00Z",
+            "id": 537355,
+            "utcDate": "2026-06-25T20:00:00Z",
             "status": "TIMED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
-            "group": "GROUP_F",
-            "lastUpdated": "2026-06-23T15:20:15Z",
+            "group": "GROUP_E",
+            "lastUpdated": "2026-06-20T15:20:13Z",
             "homeTeam": {
-                "id": 802,
-                "name": "Tunisia",
-                "shortName": "Tunisia",
-                "tla": "TUN",
-                "crest": "https://crests.football-data.org/tunisia.svg"
+                "id": 791,
+                "name": "Ecuador",
+                "shortName": "Ecuador",
+                "tla": "ECU",
+                "crest": "https://crests.football-data.org/791.svg"
             },
             "awayTeam": {
-                "id": 8601,
-                "name": "Netherlands",
-                "shortName": "Netherlands",
-                "tla": "NED",
-                "crest": "https://crests.football-data.org/8601.svg"
+                "id": 759,
+                "name": "Germany",
+                "shortName": "Germany",
+                "tla": "GER",
+                "crest": "https://crests.football-data.org/759.svg"
             },
             "score": {
                 "winner": null,
@@ -339,7 +280,7 @@
                 "id": 2398,
                 "startDate": "2026-06-11",
                 "endDate": "2026-07-19",
-                "currentMatchday": 3,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 537362,
@@ -348,7 +289,7 @@
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_F",
-            "lastUpdated": "2026-06-23T15:20:15Z",
+            "lastUpdated": "2026-06-20T15:20:13Z",
             "homeTeam": {
                 "id": 766,
                 "name": "Japan",
@@ -362,6 +303,65 @@
                 "shortName": "Sweden",
                 "tla": "SWE",
                 "crest": "https://crests.football-data.org/792.svg"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2267,
+                "name": "World",
+                "code": "INT",
+                "flag": null
+            },
+            "competition": {
+                "id": 2000,
+                "name": "FIFA World Cup",
+                "code": "WC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/wm26.png"
+            },
+            "season": {
+                "id": 2398,
+                "startDate": "2026-06-11",
+                "endDate": "2026-07-19",
+                "currentMatchday": 2,
+                "winner": null
+            },
+            "id": 537361,
+            "utcDate": "2026-06-25T23:00:00Z",
+            "status": "TIMED",
+            "matchday": 3,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_F",
+            "lastUpdated": "2026-06-20T15:20:13Z",
+            "homeTeam": {
+                "id": 802,
+                "name": "Tunisia",
+                "shortName": "Tunisia",
+                "tla": "TUN",
+                "crest": "https://crests.football-data.org/tunisia.svg"
+            },
+            "awayTeam": {
+                "id": 8601,
+                "name": "Netherlands",
+                "shortName": "Netherlands",
+                "tla": "NED",
+                "crest": "https://crests.football-data.org/8601.svg"
             },
             "score": {
                 "winner": null,
