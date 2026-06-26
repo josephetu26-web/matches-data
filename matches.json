@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-26",
         "last": "2026-06-27",
-        "played": 2
+        "played": 4
     },
     "matches": [
         {
@@ -167,11 +167,11 @@
             },
             "id": 537395,
             "utcDate": "2026-06-26T19:00:00Z",
-            "status": "PAUSED",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_I",
-            "lastUpdated": "2026-06-26T19:57:59Z",
+            "lastUpdated": "2026-06-26T21:05:47Z",
             "homeTeam": {
                 "id": 8872,
                 "name": "Norway",
@@ -191,7 +191,7 @@
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 1,
-                    "away": 3
+                    "away": 4
                 },
                 "halfTime": {
                     "home": 1,
@@ -233,11 +233,11 @@
             },
             "id": 537396,
             "utcDate": "2026-06-26T19:00:00Z",
-            "status": "LIVE",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_I",
-            "lastUpdated": "2026-06-26T19:58:58Z",
+            "lastUpdated": "2026-06-26T21:10:58Z",
             "homeTeam": {
                 "id": 804,
                 "name": "Senegal",
@@ -256,12 +256,12 @@
                 "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 1,
+                    "home": 5,
                     "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -333,7 +333,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 76608,
+                    "name": "Ismail Elfath",
+                    "type": "REFEREE",
+                    "nationality": "United States"
+                }
+            ]
         },
         {
             "area": {
@@ -392,7 +399,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 43918,
+                    "name": "François Letexier",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
         }
     ]
 }
