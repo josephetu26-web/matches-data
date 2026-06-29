@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-06-29",
         "last": "2026-06-29",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 537423,
             "utcDate": "2026-06-29T17:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": null,
             "stage": "LAST_32",
             "group": null,
-            "lastUpdated": "2026-06-29T05:20:12Z",
+            "lastUpdated": "2026-06-29T19:09:03Z",
             "homeTeam": {
                 "id": 764,
                 "name": "Brazil",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/766.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -135,7 +135,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 289426,
+                    "name": "Jalal Jayed",
+                    "type": "REFEREE",
+                    "nationality": "Morocco"
+                }
+            ]
         }
     ]
 }
