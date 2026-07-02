@@ -105,7 +105,7 @@
             "matchday": null,
             "stage": "LAST_32",
             "group": null,
-            "lastUpdated": "2026-07-02T05:20:12Z",
+            "lastUpdated": "2026-07-02T19:41:03Z",
             "homeTeam": {
                 "id": 760,
                 "name": "Spain",
@@ -135,7 +135,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 30960,
+                    "name": "Glenn Nyberg",
+                    "type": "REFEREE",
+                    "nationality": "Sweden"
+                }
+            ]
         },
         {
             "area": {
