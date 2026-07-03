@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-07-03",
         "last": "2026-07-03",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -101,11 +101,11 @@
             },
             "id": 537428,
             "utcDate": "2026-07-03T18:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": null,
             "stage": "LAST_32",
             "group": null,
-            "lastUpdated": "2026-07-03T19:38:00Z",
+            "lastUpdated": "2026-07-03T20:58:23Z",
             "homeTeam": {
                 "id": 779,
                 "name": "Australia",
@@ -121,15 +121,27 @@
                 "crest": "https://crests.football-data.org/825.svg"
             },
             "score": {
-                "winner": "DRAW",
-                "duration": "REGULAR",
+                "winner": null,
+                "duration": "PENALTY_SHOOTOUT",
                 "fullTime": {
-                    "home": 1,
-                    "away": 1
+                    "home": 3,
+                    "away": 5
                 },
                 "halfTime": {
                     "home": 0,
                     "away": 1
+                },
+                "regularTime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 4,
+                    "away": 4
                 }
             },
             "odds": {
@@ -167,11 +179,11 @@
             },
             "id": 537427,
             "utcDate": "2026-07-03T22:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": null,
             "stage": "LAST_32",
             "group": null,
-            "lastUpdated": "2026-07-02T15:20:12Z",
+            "lastUpdated": "2026-07-03T22:08:31Z",
             "homeTeam": {
                 "id": 762,
                 "name": "Argentina",
@@ -187,11 +199,11 @@
                 "crest": "https://crests.football-data.org/cape_verde.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -201,7 +213,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 77052,
+                    "name": "Drew Fischer",
+                    "type": "REFEREE",
+                    "nationality": "Canada"
+                }
+            ]
         }
     ]
 }
