@@ -9,7 +9,7 @@
         "competitions": "WC",
         "first": "2026-07-07",
         "last": "2026-07-07",
-        "played": 2
+        "played": 3
     },
     "matches": [
         {
@@ -167,11 +167,11 @@
             },
             "id": 537382,
             "utcDate": "2026-07-07T20:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": null,
             "stage": "LAST_16",
             "group": null,
-            "lastUpdated": "2026-07-07T05:20:11Z",
+            "lastUpdated": "2026-07-07T22:14:59Z",
             "homeTeam": {
                 "id": 788,
                 "name": "Switzerland",
@@ -187,15 +187,15 @@
                 "crest": "https://crests.football-data.org/818.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
