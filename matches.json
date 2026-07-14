@@ -35,11 +35,11 @@
             },
             "id": 537387,
             "utcDate": "2026-07-14T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": null,
             "stage": "SEMI_FINALS",
             "group": null,
-            "lastUpdated": "2026-07-14T05:20:10Z",
+            "lastUpdated": "2026-07-14T19:34:07Z",
             "homeTeam": {
                 "id": 773,
                 "name": "France",
@@ -55,11 +55,11 @@
                 "crest": "https://crests.football-data.org/760.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
                     "home": null,
@@ -69,7 +69,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 190010,
+                    "name": "Ivan Barton",
+                    "type": "REFEREE",
+                    "nationality": null
+                }
+            ]
         }
     ]
 }
