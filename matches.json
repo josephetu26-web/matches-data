@@ -33,7 +33,7 @@
                 "currentMatchday": 19,
                 "winner": null
             },
-            "id": 554921,
+            "id": 554929,
             "utcDate": "2026-07-16T22:30:00Z",
             "status": "TIMED",
             "matchday": 19,
@@ -41,18 +41,18 @@
             "group": null,
             "lastUpdated": "2026-07-16T05:20:07Z",
             "homeTeam": {
-                "id": 1770,
-                "name": "Botafogo FR",
-                "shortName": "Botafogo",
-                "tla": "BOT",
-                "crest": "https://crests.football-data.org/1770.png"
+                "id": 1782,
+                "name": "EC Vitória",
+                "shortName": "Vitória",
+                "tla": "VIT",
+                "crest": "https://crests.football-data.org/1782.png"
             },
             "awayTeam": {
-                "id": 6685,
-                "name": "Santos FC",
-                "shortName": "Santos",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/6685.png"
+                "id": 1780,
+                "name": "CR Vasco da Gama",
+                "shortName": "Vasco da Gama",
+                "tla": "VAS",
+                "crest": "https://crests.football-data.org/1780.png"
             },
             "score": {
                 "winner": null,
@@ -92,7 +92,7 @@
                 "currentMatchday": 19,
                 "winner": null
             },
-            "id": 554929,
+            "id": 554921,
             "utcDate": "2026-07-16T22:30:00Z",
             "status": "TIMED",
             "matchday": 19,
@@ -100,18 +100,18 @@
             "group": null,
             "lastUpdated": "2026-07-16T05:20:07Z",
             "homeTeam": {
-                "id": 1782,
-                "name": "EC Vitória",
-                "shortName": "Vitória",
-                "tla": "VIT",
-                "crest": "https://crests.football-data.org/1782.png"
+                "id": 1770,
+                "name": "Botafogo FR",
+                "shortName": "Botafogo",
+                "tla": "BOT",
+                "crest": "https://crests.football-data.org/1770.png"
             },
             "awayTeam": {
-                "id": 1780,
-                "name": "CR Vasco da Gama",
-                "shortName": "Vasco da Gama",
-                "tla": "VAS",
-                "crest": "https://crests.football-data.org/1780.png"
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
             },
             "score": {
                 "winner": null,
