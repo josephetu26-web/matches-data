@@ -33,7 +33,7 @@
                 "currentMatchday": 20,
                 "winner": null
             },
-            "id": 554938,
+            "id": 554930,
             "utcDate": "2026-07-25T21:30:00Z",
             "status": "TIMED",
             "matchday": 20,
@@ -41,18 +41,18 @@
             "group": null,
             "lastUpdated": "2026-07-25T05:20:04Z",
             "homeTeam": {
-                "id": 6685,
-                "name": "Santos FC",
-                "shortName": "Santos",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/6685.png"
+                "id": 1768,
+                "name": "CA Paranaense",
+                "shortName": "Paranaense",
+                "tla": "CAP",
+                "crest": "https://crests.football-data.org/1768.png"
             },
             "awayTeam": {
-                "id": 1772,
-                "name": "Chapecoense AF",
-                "shortName": "Chapecoense",
-                "tla": "CHA",
-                "crest": "https://crests.football-data.org/1772_large.png"
+                "id": 6684,
+                "name": "SC Internacional",
+                "shortName": "Internacional",
+                "tla": "SCI",
+                "crest": "https://crests.football-data.org/6684.png"
             },
             "score": {
                 "winner": null,
@@ -92,7 +92,7 @@
                 "currentMatchday": 20,
                 "winner": null
             },
-            "id": 554930,
+            "id": 554938,
             "utcDate": "2026-07-25T21:30:00Z",
             "status": "TIMED",
             "matchday": 20,
@@ -100,18 +100,18 @@
             "group": null,
             "lastUpdated": "2026-07-25T05:20:04Z",
             "homeTeam": {
-                "id": 1768,
-                "name": "CA Paranaense",
-                "shortName": "Paranaense",
-                "tla": "CAP",
-                "crest": "https://crests.football-data.org/1768.png"
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
             },
             "awayTeam": {
-                "id": 6684,
-                "name": "SC Internacional",
-                "shortName": "Internacional",
-                "tla": "SCI",
-                "crest": "https://crests.football-data.org/6684.png"
+                "id": 1772,
+                "name": "Chapecoense AF",
+                "shortName": "Chapecoense",
+                "tla": "CHA",
+                "crest": "https://crests.football-data.org/1772_large.png"
             },
             "score": {
                 "winner": null,
