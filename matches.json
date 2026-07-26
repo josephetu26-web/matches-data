@@ -33,7 +33,7 @@
                 "currentMatchday": 20,
                 "winner": null
             },
-            "id": 554933,
+            "id": 554931,
             "utcDate": "2026-07-26T19:00:00Z",
             "status": "TIMED",
             "matchday": 20,
@@ -41,18 +41,18 @@
             "group": null,
             "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
-                "id": 1771,
-                "name": "Cruzeiro EC",
-                "shortName": "Cruzeiro",
-                "tla": "CRU",
-                "crest": "https://crests.football-data.org/1771.png"
+                "id": 1777,
+                "name": "EC Bahia",
+                "shortName": "Bahia",
+                "tla": "BAH",
+                "crest": "https://crests.football-data.org/1777.png"
             },
             "awayTeam": {
-                "id": 1770,
-                "name": "Botafogo FR",
-                "shortName": "Botafogo",
-                "tla": "BOT",
-                "crest": "https://crests.football-data.org/1770.png"
+                "id": 1779,
+                "name": "SC Corinthians Paulista",
+                "shortName": "Corinthians",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/1779.png"
             },
             "score": {
                 "winner": null,
@@ -92,7 +92,7 @@
                 "currentMatchday": 20,
                 "winner": null
             },
-            "id": 554931,
+            "id": 554933,
             "utcDate": "2026-07-26T19:00:00Z",
             "status": "TIMED",
             "matchday": 20,
@@ -100,18 +100,18 @@
             "group": null,
             "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
-                "id": 1777,
-                "name": "EC Bahia",
-                "shortName": "Bahia",
-                "tla": "BAH",
-                "crest": "https://crests.football-data.org/1777.png"
+                "id": 1771,
+                "name": "Cruzeiro EC",
+                "shortName": "Cruzeiro",
+                "tla": "CRU",
+                "crest": "https://crests.football-data.org/1771.png"
             },
             "awayTeam": {
-                "id": 1779,
-                "name": "SC Corinthians Paulista",
-                "shortName": "Corinthians",
-                "tla": "COR",
-                "crest": "https://crests.football-data.org/1779.png"
+                "id": 1770,
+                "name": "Botafogo FR",
+                "shortName": "Botafogo",
+                "tla": "BOT",
+                "crest": "https://crests.football-data.org/1770.png"
             },
             "score": {
                 "winner": null,
@@ -210,7 +210,7 @@
                 "currentMatchday": 20,
                 "winner": null
             },
-            "id": 554934,
+            "id": 554932,
             "utcDate": "2026-07-26T21:30:00Z",
             "status": "TIMED",
             "matchday": 20,
@@ -218,18 +218,18 @@
             "group": null,
             "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
-                "id": 1783,
-                "name": "CR Flamengo",
-                "shortName": "Flamengo",
-                "tla": "FLA",
-                "crest": "https://crests.football-data.org/1783.png"
+                "id": 4286,
+                "name": "RB Bragantino",
+                "shortName": "Bragantino",
+                "tla": "RBB",
+                "crest": "https://crests.football-data.org/4286.png"
             },
             "awayTeam": {
-                "id": 1776,
-                "name": "São Paulo FC",
-                "shortName": "São Paulo",
-                "tla": "PAU",
-                "crest": "https://crests.football-data.org/1776.png"
+                "id": 4241,
+                "name": "Coritiba FBC",
+                "shortName": "Coritiba",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/4241.png"
             },
             "score": {
                 "winner": null,
@@ -269,7 +269,7 @@
                 "currentMatchday": 20,
                 "winner": null
             },
-            "id": 554932,
+            "id": 554934,
             "utcDate": "2026-07-26T21:30:00Z",
             "status": "TIMED",
             "matchday": 20,
@@ -277,18 +277,18 @@
             "group": null,
             "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
-                "id": 4286,
-                "name": "RB Bragantino",
-                "shortName": "Bragantino",
-                "tla": "RBB",
-                "crest": "https://crests.football-data.org/4286.png"
+                "id": 1783,
+                "name": "CR Flamengo",
+                "shortName": "Flamengo",
+                "tla": "FLA",
+                "crest": "https://crests.football-data.org/1783.png"
             },
             "awayTeam": {
-                "id": 4241,
-                "name": "Coritiba FBC",
-                "shortName": "Coritiba",
-                "tla": "COR",
-                "crest": "https://crests.football-data.org/4241.png"
+                "id": 1776,
+                "name": "São Paulo FC",
+                "shortName": "São Paulo",
+                "tla": "PAU",
+                "crest": "https://crests.football-data.org/1776.png"
             },
             "score": {
                 "winner": null,
