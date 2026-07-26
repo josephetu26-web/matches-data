@@ -33,72 +33,13 @@
                 "currentMatchday": 20,
                 "winner": null
             },
-            "id": 554931,
-            "utcDate": "2026-07-26T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 20,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-07-25T05:20:04Z",
-            "homeTeam": {
-                "id": 1777,
-                "name": "EC Bahia",
-                "shortName": "Bahia",
-                "tla": "BAH",
-                "crest": "https://crests.football-data.org/1777.png"
-            },
-            "awayTeam": {
-                "id": 1779,
-                "name": "SC Corinthians Paulista",
-                "shortName": "Corinthians",
-                "tla": "COR",
-                "crest": "https://crests.football-data.org/1779.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2032,
-                "name": "Brazil",
-                "code": "BRA",
-                "flag": "https://crests.football-data.org/764.svg"
-            },
-            "competition": {
-                "id": 2013,
-                "name": "Campeonato Brasileiro Série A",
-                "code": "BSA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/bsa.png"
-            },
-            "season": {
-                "id": 2474,
-                "startDate": "2026-01-28",
-                "endDate": "2026-12-02",
-                "currentMatchday": 20,
-                "winner": null
-            },
             "id": 554933,
             "utcDate": "2026-07-26T19:00:00Z",
             "status": "TIMED",
             "matchday": 20,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-07-25T05:20:04Z",
+            "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
                 "id": 1771,
                 "name": "Cruzeiro EC",
@@ -151,13 +92,72 @@
                 "currentMatchday": 20,
                 "winner": null
             },
+            "id": 554931,
+            "utcDate": "2026-07-26T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 20,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-07-26T05:20:04Z",
+            "homeTeam": {
+                "id": 1777,
+                "name": "EC Bahia",
+                "shortName": "Bahia",
+                "tla": "BAH",
+                "crest": "https://crests.football-data.org/1777.png"
+            },
+            "awayTeam": {
+                "id": 1779,
+                "name": "SC Corinthians Paulista",
+                "shortName": "Corinthians",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/1779.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/bsa.png"
+            },
+            "season": {
+                "id": 2474,
+                "startDate": "2026-01-28",
+                "endDate": "2026-12-02",
+                "currentMatchday": 20,
+                "winner": null
+            },
             "id": 554935,
             "utcDate": "2026-07-26T21:30:00Z",
             "status": "TIMED",
             "matchday": 20,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-07-25T05:20:04Z",
+            "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
                 "id": 1767,
                 "name": "Grêmio FBPA",
@@ -216,7 +216,7 @@
             "matchday": 20,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-07-25T05:20:04Z",
+            "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
                 "id": 1783,
                 "name": "CR Flamengo",
@@ -275,7 +275,7 @@
             "matchday": 20,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-07-25T05:20:04Z",
+            "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
                 "id": 4286,
                 "name": "RB Bragantino",
@@ -334,7 +334,7 @@
             "matchday": 20,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-07-25T05:20:04Z",
+            "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
                 "id": 4287,
                 "name": "Clube do Remo",
@@ -393,7 +393,7 @@
             "matchday": 20,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-07-25T05:20:04Z",
+            "lastUpdated": "2026-07-26T05:20:04Z",
             "homeTeam": {
                 "id": 1769,
                 "name": "SE Palmeiras",
