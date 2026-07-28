@@ -33,7 +33,7 @@
                 "currentMatchday": 21,
                 "winner": null
             },
-            "id": 554948,
+            "id": 554941,
             "utcDate": "2026-07-29T00:00:00Z",
             "status": "POSTPONED",
             "matchday": 21,
@@ -41,18 +41,18 @@
             "group": null,
             "lastUpdated": "2026-07-28T05:20:04Z",
             "homeTeam": {
-                "id": 1776,
-                "name": "São Paulo FC",
-                "shortName": "São Paulo",
-                "tla": "PAU",
-                "crest": "https://crests.football-data.org/1776.png"
+                "id": 1770,
+                "name": "Botafogo FR",
+                "shortName": "Botafogo",
+                "tla": "BOT",
+                "crest": "https://crests.football-data.org/1770.png"
             },
             "awayTeam": {
-                "id": 6685,
-                "name": "Santos FC",
-                "shortName": "Santos",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/6685.png"
+                "id": 1767,
+                "name": "Grêmio FBPA",
+                "shortName": "Grêmio",
+                "tla": "FBP",
+                "crest": "https://crests.football-data.org/1767.png"
             },
             "score": {
                 "winner": null,
@@ -92,7 +92,7 @@
                 "currentMatchday": 21,
                 "winner": null
             },
-            "id": 554941,
+            "id": 554948,
             "utcDate": "2026-07-29T00:00:00Z",
             "status": "POSTPONED",
             "matchday": 21,
@@ -100,18 +100,18 @@
             "group": null,
             "lastUpdated": "2026-07-28T05:20:04Z",
             "homeTeam": {
-                "id": 1770,
-                "name": "Botafogo FR",
-                "shortName": "Botafogo",
-                "tla": "BOT",
-                "crest": "https://crests.football-data.org/1770.png"
+                "id": 1776,
+                "name": "São Paulo FC",
+                "shortName": "São Paulo",
+                "tla": "PAU",
+                "crest": "https://crests.football-data.org/1776.png"
             },
             "awayTeam": {
-                "id": 1767,
-                "name": "Grêmio FBPA",
-                "shortName": "Grêmio",
-                "tla": "FBP",
-                "crest": "https://crests.football-data.org/1767.png"
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
             },
             "score": {
                 "winner": null,
