@@ -33,7 +33,7 @@
                 "currentMatchday": 21,
                 "winner": null
             },
-            "id": 554942,
+            "id": 554940,
             "utcDate": "2026-07-29T00:00:00Z",
             "status": "POSTPONED",
             "matchday": 21,
@@ -41,18 +41,18 @@
             "group": null,
             "lastUpdated": "2026-07-28T20:20:07Z",
             "homeTeam": {
-                "id": 1772,
-                "name": "Chapecoense AF",
-                "shortName": "Chapecoense",
-                "tla": "CHA",
-                "crest": "https://crests.football-data.org/1772_large.png"
+                "id": 1766,
+                "name": "CA Mineiro",
+                "shortName": "Mineiro",
+                "tla": "CAM",
+                "crest": "https://crests.football-data.org/1766.png"
             },
             "awayTeam": {
-                "id": 1780,
-                "name": "CR Vasco da Gama",
-                "shortName": "Vasco da Gama",
-                "tla": "VAS",
-                "crest": "https://crests.football-data.org/1780.png"
+                "id": 4286,
+                "name": "RB Bragantino",
+                "shortName": "Bragantino",
+                "tla": "RBB",
+                "crest": "https://crests.football-data.org/4286.png"
             },
             "score": {
                 "winner": null,
@@ -92,7 +92,7 @@
                 "currentMatchday": 21,
                 "winner": null
             },
-            "id": 554940,
+            "id": 554942,
             "utcDate": "2026-07-29T00:00:00Z",
             "status": "POSTPONED",
             "matchday": 21,
@@ -100,18 +100,18 @@
             "group": null,
             "lastUpdated": "2026-07-28T20:20:07Z",
             "homeTeam": {
-                "id": 1766,
-                "name": "CA Mineiro",
-                "shortName": "Mineiro",
-                "tla": "CAM",
-                "crest": "https://crests.football-data.org/1766.png"
+                "id": 1772,
+                "name": "Chapecoense AF",
+                "shortName": "Chapecoense",
+                "tla": "CHA",
+                "crest": "https://crests.football-data.org/1772_large.png"
             },
             "awayTeam": {
-                "id": 4286,
-                "name": "RB Bragantino",
-                "shortName": "Bragantino",
-                "tla": "RBB",
-                "crest": "https://crests.football-data.org/4286.png"
+                "id": 1780,
+                "name": "CR Vasco da Gama",
+                "shortName": "Vasco da Gama",
+                "tla": "VAS",
+                "crest": "https://crests.football-data.org/1780.png"
             },
             "score": {
                 "winner": null,
