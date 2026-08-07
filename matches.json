@@ -35,11 +35,11 @@
             },
             "id": 558214,
             "utcDate": "2026-08-07T18:00:00Z",
-            "status": "SCHEDULED",
+            "status": "PAUSED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-01T01:32:02Z",
+            "lastUpdated": "2026-08-07T18:51:22Z",
             "homeTeam": {
                 "id": 1909,
                 "name": "SC Cambuur-Leeuwarden",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/670.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 3
                 }
             },
             "odds": {
