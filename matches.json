@@ -9,7 +9,7 @@
         "competitions": "DED,PPL",
         "first": "2026-08-07",
         "last": "2026-08-07",
-        "played": 0
+        "played": 2
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 558214,
             "utcDate": "2026-08-07T18:00:00Z",
-            "status": "PAUSED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-07T18:51:22Z",
+            "lastUpdated": "2026-08-07T20:03:42Z",
             "homeTeam": {
                 "id": 1909,
                 "name": "SC Cambuur-Leeuwarden",
@@ -59,7 +59,7 @@
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 0,
-                    "away": 3
+                    "away": 4
                 },
                 "halfTime": {
                     "home": 0,
@@ -69,7 +69,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 9561,
+                    "name": "Allard Lindhout",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -94,11 +101,11 @@
             },
             "id": 567264,
             "utcDate": "2026-08-07T19:15:00Z",
-            "status": "SCHEDULED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-06T13:02:06Z",
+            "lastUpdated": "2026-08-07T21:18:02Z",
             "homeTeam": {
                 "id": 582,
                 "name": "GD Estoril Praia",
@@ -114,21 +121,28 @@
                 "crest": "https://crests.football-data.org/5531.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 18985,
+                    "name": "Rodrigo da Fonseca Silva",
+                    "type": "REFEREE",
+                    "nationality": "Brazil"
+                }
+            ]
         }
     ]
 }
