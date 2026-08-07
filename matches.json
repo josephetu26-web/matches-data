@@ -94,11 +94,11 @@
             },
             "id": 567264,
             "utcDate": "2026-08-07T19:15:00Z",
-            "status": "2026-08-07 19:15:00Z",
+            "status": "SCHEDULED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-06T11:14:55Z",
+            "lastUpdated": "2026-08-06T13:02:06Z",
             "homeTeam": {
                 "id": 582,
                 "name": "GD Estoril Praia",
