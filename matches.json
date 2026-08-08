@@ -6,71 +6,12 @@
     },
     "resultSet": {
         "count": 11,
-        "competitions": "DED,PPL,BSA",
+        "competitions": "PPL,DED,BSA",
         "first": "2026-08-08",
         "last": "2026-08-09",
         "played": 0
     },
     "matches": [
-        {
-            "area": {
-                "id": 2163,
-                "name": "Netherlands",
-                "code": "NLD",
-                "flag": "https://crests.football-data.org/8601.svg"
-            },
-            "competition": {
-                "id": 2003,
-                "name": "Eredivisie",
-                "code": "DED",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ED.png"
-            },
-            "season": {
-                "id": 2493,
-                "startDate": "2026-08-07",
-                "endDate": "2027-05-23",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "id": 558215,
-            "utcDate": "2026-08-08T14:30:00Z",
-            "status": "SCHEDULED",
-            "matchday": 1,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-02T01:32:02Z",
-            "homeTeam": {
-                "id": 1915,
-                "name": "NEC",
-                "shortName": "NEC",
-                "tla": "NEC",
-                "crest": "https://crests.football-data.org/1915.png"
-            },
-            "awayTeam": {
-                "id": 1912,
-                "name": "Telstar 1963",
-                "shortName": "Telstar",
-                "tla": "TEL",
-                "crest": "https://crests.football-data.org/1912.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
         {
             "area": {
                 "id": 2187,
@@ -94,11 +35,11 @@
             },
             "id": 567263,
             "utcDate": "2026-08-08T14:30:00Z",
-            "status": "SCHEDULED",
+            "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-06T13:02:06Z",
+            "lastUpdated": "2026-08-08T12:35:18Z",
             "homeTeam": {
                 "id": 5575,
                 "name": "CS Marítimo",
@@ -129,6 +70,72 @@
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
             "referees": []
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "competition": {
+                "id": 2003,
+                "name": "Eredivisie",
+                "code": "DED",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ED.png"
+            },
+            "season": {
+                "id": 2493,
+                "startDate": "2026-08-07",
+                "endDate": "2027-05-23",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 558215,
+            "utcDate": "2026-08-08T14:30:00Z",
+            "status": "TIMED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-08T12:35:18Z",
+            "homeTeam": {
+                "id": 1915,
+                "name": "NEC",
+                "shortName": "NEC",
+                "tla": "NEC",
+                "crest": "https://crests.football-data.org/1915.png"
+            },
+            "awayTeam": {
+                "id": 1912,
+                "name": "Telstar 1963",
+                "shortName": "Telstar",
+                "tla": "TEL",
+                "crest": "https://crests.football-data.org/1912.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 81044,
+                    "name": "Martijn Vos",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
