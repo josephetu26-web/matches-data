@@ -6,71 +6,12 @@
     },
     "resultSet": {
         "count": 11,
-        "competitions": "PPL,DED,BSA",
+        "competitions": "DED,PPL,BSA",
         "first": "2026-08-08",
         "last": "2026-08-09",
         "played": 0
     },
     "matches": [
-        {
-            "area": {
-                "id": 2187,
-                "name": "Portugal",
-                "code": "POR",
-                "flag": "https://crests.football-data.org/765.svg"
-            },
-            "competition": {
-                "id": 2017,
-                "name": "Primeira Liga",
-                "code": "PPL",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PPL.png"
-            },
-            "season": {
-                "id": 2526,
-                "startDate": "2026-08-08",
-                "endDate": "2027-05-16",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "id": 567263,
-            "utcDate": "2026-08-08T14:30:00Z",
-            "status": "TIMED",
-            "matchday": 1,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-08T12:35:18Z",
-            "homeTeam": {
-                "id": 5575,
-                "name": "CS Marítimo",
-                "shortName": "Marítimo",
-                "tla": "CSM",
-                "crest": "https://crests.football-data.org/5575.png"
-            },
-            "awayTeam": {
-                "id": 6618,
-                "name": "Casa Pia AC",
-                "shortName": "Casa Pia",
-                "tla": "CAS",
-                "crest": "https://crests.football-data.org/6618.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
         {
             "area": {
                 "id": 2163,
@@ -139,6 +80,65 @@
         },
         {
             "area": {
+                "id": 2187,
+                "name": "Portugal",
+                "code": "POR",
+                "flag": "https://crests.football-data.org/765.svg"
+            },
+            "competition": {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            "season": {
+                "id": 2526,
+                "startDate": "2026-08-08",
+                "endDate": "2027-05-16",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 567263,
+            "utcDate": "2026-08-08T14:30:00Z",
+            "status": "2026-08-08 13:30:00Z",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-08T13:20:14Z",
+            "homeTeam": {
+                "id": 5575,
+                "name": "CS Marítimo",
+                "shortName": "Marítimo",
+                "tla": "CSM",
+                "crest": "https://crests.football-data.org/5575.png"
+            },
+            "awayTeam": {
+                "id": 6618,
+                "name": "Casa Pia AC",
+                "shortName": "Casa Pia",
+                "tla": "CAS",
+                "crest": "https://crests.football-data.org/6618.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
                 "id": 2163,
                 "name": "Netherlands",
                 "code": "NLD",
@@ -160,11 +160,11 @@
             },
             "id": 558216,
             "utcDate": "2026-08-08T16:45:00Z",
-            "status": "SCHEDULED",
+            "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-02T01:32:03Z",
+            "lastUpdated": "2026-08-08T13:22:05Z",
             "homeTeam": {
                 "id": 718,
                 "name": "Go Ahead Eagles",
@@ -194,7 +194,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 81036,
+                    "name": "Robin Hensgens",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -219,11 +226,11 @@
             },
             "id": 567258,
             "utcDate": "2026-08-08T17:00:00Z",
-            "status": "SCHEDULED",
+            "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-06T13:02:06Z",
+            "lastUpdated": "2026-08-08T13:21:25Z",
             "homeTeam": {
                 "id": 5543,
                 "name": "Vitória SC",
@@ -278,11 +285,11 @@
             },
             "id": 558217,
             "utcDate": "2026-08-08T18:00:00Z",
-            "status": "SCHEDULED",
+            "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-02T01:32:03Z",
+            "lastUpdated": "2026-08-08T13:22:05Z",
             "homeTeam": {
                 "id": 674,
                 "name": "PSV",
@@ -396,11 +403,11 @@
             },
             "id": 558218,
             "utcDate": "2026-08-08T19:00:00Z",
-            "status": "SCHEDULED",
+            "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-02T01:32:03Z",
+            "lastUpdated": "2026-08-08T13:22:05Z",
             "homeTeam": {
                 "id": 682,
                 "name": "AZ",
@@ -455,11 +462,11 @@
             },
             "id": 567260,
             "utcDate": "2026-08-08T19:30:00Z",
-            "status": "SCHEDULED",
+            "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-06T13:02:06Z",
+            "lastUpdated": "2026-08-08T13:21:25Z",
             "homeTeam": {
                 "id": 9136,
                 "name": "CF Estrela da Amadora",
