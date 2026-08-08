@@ -6,71 +6,12 @@
     },
     "resultSet": {
         "count": 11,
-        "competitions": "PPL,DED,BSA",
+        "competitions": "DED,PPL,BSA",
         "first": "2026-08-08",
         "last": "2026-08-09",
         "played": 0
     },
     "matches": [
-        {
-            "area": {
-                "id": 2187,
-                "name": "Portugal",
-                "code": "POR",
-                "flag": "https://crests.football-data.org/765.svg"
-            },
-            "competition": {
-                "id": 2017,
-                "name": "Primeira Liga",
-                "code": "PPL",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PPL.png"
-            },
-            "season": {
-                "id": 2526,
-                "startDate": "2026-08-08",
-                "endDate": "2027-05-16",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "id": 567263,
-            "utcDate": "2026-08-08T14:30:00Z",
-            "status": "SCHEDULED",
-            "matchday": 1,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-06T13:02:06Z",
-            "homeTeam": {
-                "id": 5575,
-                "name": "CS Marítimo",
-                "shortName": "Marítimo",
-                "tla": "CSM",
-                "crest": "https://crests.football-data.org/5575.png"
-            },
-            "awayTeam": {
-                "id": 6618,
-                "name": "Casa Pia AC",
-                "shortName": "Casa Pia",
-                "tla": "CAS",
-                "crest": "https://crests.football-data.org/6618.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
         {
             "area": {
                 "id": 2163,
@@ -112,6 +53,65 @@
                 "shortName": "Telstar",
                 "tla": "TEL",
                 "crest": "https://crests.football-data.org/1912.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2187,
+                "name": "Portugal",
+                "code": "POR",
+                "flag": "https://crests.football-data.org/765.svg"
+            },
+            "competition": {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            "season": {
+                "id": 2526,
+                "startDate": "2026-08-08",
+                "endDate": "2027-05-16",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 567263,
+            "utcDate": "2026-08-08T14:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-06T13:02:06Z",
+            "homeTeam": {
+                "id": 5575,
+                "name": "CS Marítimo",
+                "shortName": "Marítimo",
+                "tla": "CSM",
+                "crest": "https://crests.football-data.org/5575.png"
+            },
+            "awayTeam": {
+                "id": 6618,
+                "name": "Casa Pia AC",
+                "shortName": "Casa Pia",
+                "tla": "CAS",
+                "crest": "https://crests.football-data.org/6618.png"
             },
             "score": {
                 "winner": null,
@@ -309,65 +309,6 @@
         },
         {
             "area": {
-                "id": 2163,
-                "name": "Netherlands",
-                "code": "NLD",
-                "flag": "https://crests.football-data.org/8601.svg"
-            },
-            "competition": {
-                "id": 2003,
-                "name": "Eredivisie",
-                "code": "DED",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ED.png"
-            },
-            "season": {
-                "id": 2493,
-                "startDate": "2026-08-07",
-                "endDate": "2027-05-23",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "id": 558218,
-            "utcDate": "2026-08-08T19:00:00Z",
-            "status": "SCHEDULED",
-            "matchday": 1,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-02T01:32:03Z",
-            "homeTeam": {
-                "id": 682,
-                "name": "AZ",
-                "shortName": "AZ",
-                "tla": "AZ",
-                "crest": "https://crests.football-data.org/682.png"
-            },
-            "awayTeam": {
-                "id": 680,
-                "name": "ADO Den Haag",
-                "shortName": "Den Haag",
-                "tla": "ADO",
-                "crest": "https://crests.football-data.org/680.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
                 "id": 2032,
                 "name": "Brazil",
                 "code": "BRA",
@@ -407,6 +348,65 @@
                 "shortName": "São Paulo",
                 "tla": "PAU",
                 "crest": "https://crests.football-data.org/1776.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "competition": {
+                "id": 2003,
+                "name": "Eredivisie",
+                "code": "DED",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ED.png"
+            },
+            "season": {
+                "id": 2493,
+                "startDate": "2026-08-07",
+                "endDate": "2027-05-23",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 558218,
+            "utcDate": "2026-08-08T19:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-02T01:32:03Z",
+            "homeTeam": {
+                "id": 682,
+                "name": "AZ",
+                "shortName": "AZ",
+                "tla": "AZ",
+                "crest": "https://crests.football-data.org/682.png"
+            },
+            "awayTeam": {
+                "id": 680,
+                "name": "ADO Den Haag",
+                "shortName": "Den Haag",
+                "tla": "ADO",
+                "crest": "https://crests.football-data.org/680.png"
             },
             "score": {
                 "winner": null,
