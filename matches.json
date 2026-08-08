@@ -6,78 +6,12 @@
     },
     "resultSet": {
         "count": 11,
-        "competitions": "DED,PPL,BSA",
+        "competitions": "PPL,DED,BSA",
         "first": "2026-08-08",
         "last": "2026-08-09",
-        "played": 1
+        "played": 6
     },
     "matches": [
-        {
-            "area": {
-                "id": 2163,
-                "name": "Netherlands",
-                "code": "NLD",
-                "flag": "https://crests.football-data.org/8601.svg"
-            },
-            "competition": {
-                "id": 2003,
-                "name": "Eredivisie",
-                "code": "DED",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ED.png"
-            },
-            "season": {
-                "id": 2493,
-                "startDate": "2026-08-07",
-                "endDate": "2027-05-23",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "id": 558215,
-            "utcDate": "2026-08-08T14:30:00Z",
-            "status": "TIMED",
-            "matchday": 1,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-08T12:35:18Z",
-            "homeTeam": {
-                "id": 1915,
-                "name": "NEC",
-                "shortName": "NEC",
-                "tla": "NEC",
-                "crest": "https://crests.football-data.org/1915.png"
-            },
-            "awayTeam": {
-                "id": 1912,
-                "name": "Telstar 1963",
-                "shortName": "Telstar",
-                "tla": "TEL",
-                "crest": "https://crests.football-data.org/1912.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 81044,
-                    "name": "Martijn Vos",
-                    "type": "REFEREE",
-                    "nationality": "Netherlands"
-                }
-            ]
-        },
         {
             "area": {
                 "id": 2187,
@@ -141,6 +75,72 @@
                     "name": "Sérgio Guelho",
                     "type": "REFEREE",
                     "nationality": "Portugal"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "competition": {
+                "id": 2003,
+                "name": "Eredivisie",
+                "code": "DED",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ED.png"
+            },
+            "season": {
+                "id": 2493,
+                "startDate": "2026-08-07",
+                "endDate": "2027-05-23",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 558215,
+            "utcDate": "2026-08-08T14:30:00Z",
+            "status": "TIMED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-08T12:35:18Z",
+            "homeTeam": {
+                "id": 1915,
+                "name": "NEC",
+                "shortName": "NEC",
+                "tla": "NEC",
+                "crest": "https://crests.football-data.org/1915.png"
+            },
+            "awayTeam": {
+                "id": 1912,
+                "name": "Telstar 1963",
+                "shortName": "Telstar",
+                "tla": "TEL",
+                "crest": "https://crests.football-data.org/1912.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 81044,
+                    "name": "Martijn Vos",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
                 }
             ]
         },
@@ -233,11 +233,11 @@
             },
             "id": 567258,
             "utcDate": "2026-08-08T17:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T18:46:26Z",
+            "lastUpdated": "2026-08-08T19:01:23Z",
             "homeTeam": {
                 "id": 5543,
                 "name": "Vitória SC",
@@ -299,11 +299,11 @@
             },
             "id": 558217,
             "utcDate": "2026-08-08T18:00:00Z",
-            "status": "LIVE",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T18:45:26Z",
+            "lastUpdated": "2026-08-08T19:59:33Z",
             "homeTeam": {
                 "id": 674,
                 "name": "PSV",
@@ -322,12 +322,12 @@
                 "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -337,72 +337,6 @@
                 {
                     "id": 81350,
                     "name": "Alex Bos",
-                    "type": "REFEREE",
-                    "nationality": "Netherlands"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2163,
-                "name": "Netherlands",
-                "code": "NLD",
-                "flag": "https://crests.football-data.org/8601.svg"
-            },
-            "competition": {
-                "id": 2003,
-                "name": "Eredivisie",
-                "code": "DED",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ED.png"
-            },
-            "season": {
-                "id": 2493,
-                "startDate": "2026-08-07",
-                "endDate": "2027-05-23",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "id": 558218,
-            "utcDate": "2026-08-08T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 1,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-08T13:22:05Z",
-            "homeTeam": {
-                "id": 682,
-                "name": "AZ",
-                "shortName": "AZ",
-                "tla": "AZ",
-                "crest": "https://crests.football-data.org/682.png"
-            },
-            "awayTeam": {
-                "id": 680,
-                "name": "ADO Den Haag",
-                "shortName": "Den Haag",
-                "tla": "ADO",
-                "crest": "https://crests.football-data.org/680.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 56917,
-                    "name": "Erwin Blank",
                     "type": "REFEREE",
                     "nationality": "Netherlands"
                 }
@@ -431,11 +365,11 @@
             },
             "id": 554956,
             "utcDate": "2026-08-08T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T05:20:11Z",
+            "lastUpdated": "2026-08-08T21:06:45Z",
             "homeTeam": {
                 "id": 1767,
                 "name": "Grêmio FBPA",
@@ -451,21 +385,87 @@
                 "crest": "https://crests.football-data.org/1776.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
             "referees": []
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "competition": {
+                "id": 2003,
+                "name": "Eredivisie",
+                "code": "DED",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ED.png"
+            },
+            "season": {
+                "id": 2493,
+                "startDate": "2026-08-07",
+                "endDate": "2027-05-23",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 558218,
+            "utcDate": "2026-08-08T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-08T20:57:41Z",
+            "homeTeam": {
+                "id": 682,
+                "name": "AZ",
+                "shortName": "AZ",
+                "tla": "AZ",
+                "crest": "https://crests.football-data.org/682.png"
+            },
+            "awayTeam": {
+                "id": 680,
+                "name": "ADO Den Haag",
+                "shortName": "Den Haag",
+                "tla": "ADO",
+                "crest": "https://crests.football-data.org/680.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 56917,
+                    "name": "Erwin Blank",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -490,11 +490,11 @@
             },
             "id": 567260,
             "utcDate": "2026-08-08T19:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T13:21:25Z",
+            "lastUpdated": "2026-08-08T21:33:03Z",
             "homeTeam": {
                 "id": 9136,
                 "name": "CF Estrela da Amadora",
@@ -510,15 +510,15 @@
                 "crest": "https://crests.football-data.org/498.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -556,11 +556,11 @@
             },
             "id": 554958,
             "utcDate": "2026-08-08T21:30:00Z",
-            "status": "TIMED",
+            "status": "LIVE",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T05:20:11Z",
+            "lastUpdated": "2026-08-08T21:35:38Z",
             "homeTeam": {
                 "id": 4287,
                 "name": "Clube do Remo",
@@ -576,11 +576,11 @@
                 "crest": "https://crests.football-data.org/1766.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
