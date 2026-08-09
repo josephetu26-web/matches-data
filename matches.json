@@ -9,7 +9,7 @@
         "competitions": "BSA,DED,PPL",
         "first": "2026-08-09",
         "last": "2026-08-09",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 554951,
             "utcDate": "2026-08-09T00:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T02:13:52Z",
+            "lastUpdated": "2026-08-09T06:21:20Z",
             "homeTeam": {
                 "id": 1770,
                 "name": "Botafogo FR",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/1765.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -105,7 +105,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T13:22:05Z",
+            "lastUpdated": "2026-08-09T05:20:14Z",
             "homeTeam": {
                 "id": 6806,
                 "name": "Sparta Rotterdam",
@@ -158,26 +158,26 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 558221,
+            "id": 558220,
             "utcDate": "2026-08-09T12:30:00Z",
             "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T13:22:06Z",
+            "lastUpdated": "2026-08-09T05:20:14Z",
             "homeTeam": {
-                "id": 684,
-                "name": "PEC Zwolle",
-                "shortName": "Zwolle",
-                "tla": "ZWO",
-                "crest": "https://crests.football-data.org/684.png"
+                "id": 677,
+                "name": "FC Groningen",
+                "shortName": "Groningen",
+                "tla": "GRO",
+                "crest": "https://crests.football-data.org/677.png"
             },
             "awayTeam": {
-                "id": 678,
-                "name": "AFC Ajax",
-                "shortName": "Ajax",
-                "tla": "AJA",
-                "crest": "https://crests.football-data.org/678.png"
+                "id": 676,
+                "name": "FC Utrecht",
+                "shortName": "Utrecht",
+                "tla": "UTR",
+                "crest": "https://crests.football-data.org/676.png"
             },
             "score": {
                 "winner": null,
@@ -217,26 +217,26 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 558220,
+            "id": 558221,
             "utcDate": "2026-08-09T12:30:00Z",
             "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T13:22:06Z",
+            "lastUpdated": "2026-08-09T05:20:14Z",
             "homeTeam": {
-                "id": 677,
-                "name": "FC Groningen",
-                "shortName": "Groningen",
-                "tla": "GRO",
-                "crest": "https://crests.football-data.org/677.png"
+                "id": 684,
+                "name": "PEC Zwolle",
+                "shortName": "Zwolle",
+                "tla": "ZWO",
+                "crest": "https://crests.football-data.org/684.png"
             },
             "awayTeam": {
-                "id": 676,
-                "name": "FC Utrecht",
-                "shortName": "Utrecht",
-                "tla": "UTR",
-                "crest": "https://crests.football-data.org/676.png"
+                "id": 678,
+                "name": "AFC Ajax",
+                "shortName": "Ajax",
+                "tla": "AJA",
+                "crest": "https://crests.football-data.org/678.png"
             },
             "score": {
                 "winner": null,
@@ -282,7 +282,7 @@
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T05:20:11Z",
+            "lastUpdated": "2026-08-09T01:32:00Z",
             "homeTeam": {
                 "id": 1771,
                 "name": "Cruzeiro EC",
@@ -341,7 +341,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T13:22:06Z",
+            "lastUpdated": "2026-08-09T05:20:14Z",
             "homeTeam": {
                 "id": 673,
                 "name": "SC Heerenveen",
@@ -400,7 +400,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T13:21:25Z",
+            "lastUpdated": "2026-08-09T05:20:15Z",
             "homeTeam": {
                 "id": 503,
                 "name": "FC Porto",
@@ -453,26 +453,26 @@
                 "currentMatchday": 22,
                 "winner": null
             },
-            "id": 554957,
+            "id": 554950,
             "utcDate": "2026-08-09T19:00:00Z",
             "status": "TIMED",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T05:20:11Z",
+            "lastUpdated": "2026-08-09T01:32:01Z",
             "homeTeam": {
-                "id": 1769,
-                "name": "SE Palmeiras",
-                "shortName": "Palmeiras",
-                "tla": "PAL",
-                "crest": "https://crests.football-data.org/1769.png"
+                "id": 1777,
+                "name": "EC Bahia",
+                "shortName": "Bahia",
+                "tla": "BAH",
+                "crest": "https://crests.football-data.org/1777.png"
             },
             "awayTeam": {
-                "id": 6684,
-                "name": "SC Internacional",
-                "shortName": "Internacional",
-                "tla": "SCI",
-                "crest": "https://crests.football-data.org/6684.png"
+                "id": 1780,
+                "name": "CR Vasco da Gama",
+                "shortName": "Vasco da Gama",
+                "tla": "VAS",
+                "crest": "https://crests.football-data.org/1780.png"
             },
             "score": {
                 "winner": null,
@@ -512,26 +512,26 @@
                 "currentMatchday": 22,
                 "winner": null
             },
-            "id": 554950,
+            "id": 554957,
             "utcDate": "2026-08-09T19:00:00Z",
             "status": "TIMED",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T05:20:11Z",
+            "lastUpdated": "2026-08-09T01:32:01Z",
             "homeTeam": {
-                "id": 1777,
-                "name": "EC Bahia",
-                "shortName": "Bahia",
-                "tla": "BAH",
-                "crest": "https://crests.football-data.org/1777.png"
+                "id": 1769,
+                "name": "SE Palmeiras",
+                "shortName": "Palmeiras",
+                "tla": "PAL",
+                "crest": "https://crests.football-data.org/1769.png"
             },
             "awayTeam": {
-                "id": 1780,
-                "name": "CR Vasco da Gama",
-                "shortName": "Vasco da Gama",
-                "tla": "VAS",
-                "crest": "https://crests.football-data.org/1780.png"
+                "id": 6684,
+                "name": "SC Internacional",
+                "shortName": "Internacional",
+                "tla": "SCI",
+                "crest": "https://crests.football-data.org/6684.png"
             },
             "score": {
                 "winner": null,
@@ -571,26 +571,26 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 567259,
+            "id": 567261,
             "utcDate": "2026-08-09T19:30:00Z",
             "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T13:21:25Z",
+            "lastUpdated": "2026-08-09T05:20:15Z",
             "homeTeam": {
-                "id": 583,
-                "name": "Moreirense FC",
-                "shortName": "Moreirense",
-                "tla": "MOR",
-                "crest": "https://crests.football-data.org/583.png"
+                "id": 5533,
+                "name": "Gil Vicente FC",
+                "shortName": "Gil Vicente",
+                "tla": "GIL",
+                "crest": "https://crests.football-data.org/5533.png"
             },
             "awayTeam": {
-                "id": 5613,
-                "name": "Sporting Clube de Braga",
-                "shortName": "Braga",
-                "tla": "SCB",
-                "crest": "https://crests.football-data.org/5613.png"
+                "id": 496,
+                "name": "Rio Ave FC",
+                "shortName": "Rio Ave",
+                "tla": "RIO",
+                "crest": "https://crests.football-data.org/496.png"
             },
             "score": {
                 "winner": null,
@@ -636,7 +636,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T13:21:25Z",
+            "lastUpdated": "2026-08-09T05:20:15Z",
             "homeTeam": {
                 "id": 1903,
                 "name": "Sport Lisboa e Benfica",
@@ -689,85 +689,26 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 567261,
+            "id": 567259,
             "utcDate": "2026-08-09T19:30:00Z",
             "status": "TIMED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T13:21:25Z",
+            "lastUpdated": "2026-08-09T05:20:15Z",
             "homeTeam": {
-                "id": 5533,
-                "name": "Gil Vicente FC",
-                "shortName": "Gil Vicente",
-                "tla": "GIL",
-                "crest": "https://crests.football-data.org/5533.png"
+                "id": 583,
+                "name": "Moreirense FC",
+                "shortName": "Moreirense",
+                "tla": "MOR",
+                "crest": "https://crests.football-data.org/583.png"
             },
             "awayTeam": {
-                "id": 496,
-                "name": "Rio Ave FC",
-                "shortName": "Rio Ave",
-                "tla": "RIO",
-                "crest": "https://crests.football-data.org/496.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2032,
-                "name": "Brazil",
-                "code": "BRA",
-                "flag": "https://crests.football-data.org/764.svg"
-            },
-            "competition": {
-                "id": 2013,
-                "name": "Campeonato Brasileiro Série A",
-                "code": "BSA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/bsa.png"
-            },
-            "season": {
-                "id": 2474,
-                "startDate": "2026-01-28",
-                "endDate": "2026-12-02",
-                "currentMatchday": 22,
-                "winner": null
-            },
-            "id": 554952,
-            "utcDate": "2026-08-09T21:30:00Z",
-            "status": "TIMED",
-            "matchday": 22,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-08T05:20:11Z",
-            "homeTeam": {
-                "id": 4286,
-                "name": "RB Bragantino",
-                "shortName": "Bragantino",
-                "tla": "RBB",
-                "crest": "https://crests.football-data.org/4286.png"
-            },
-            "awayTeam": {
-                "id": 1779,
-                "name": "SC Corinthians Paulista",
-                "shortName": "Corinthians",
-                "tla": "COR",
-                "crest": "https://crests.football-data.org/1779.png"
+                "id": 5613,
+                "name": "Sporting Clube de Braga",
+                "shortName": "Braga",
+                "tla": "SCB",
+                "crest": "https://crests.football-data.org/5613.png"
             },
             "score": {
                 "winner": null,
@@ -813,7 +754,7 @@
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T05:20:11Z",
+            "lastUpdated": "2026-08-09T01:32:01Z",
             "homeTeam": {
                 "id": 6685,
                 "name": "Santos FC",
@@ -866,13 +807,72 @@
                 "currentMatchday": 22,
                 "winner": null
             },
+            "id": 554952,
+            "utcDate": "2026-08-09T21:30:00Z",
+            "status": "TIMED",
+            "matchday": 22,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-09T01:32:01Z",
+            "homeTeam": {
+                "id": 4286,
+                "name": "RB Bragantino",
+                "shortName": "Bragantino",
+                "tla": "RBB",
+                "crest": "https://crests.football-data.org/4286.png"
+            },
+            "awayTeam": {
+                "id": 1779,
+                "name": "SC Corinthians Paulista",
+                "shortName": "Corinthians",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/1779.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/bsa.png"
+            },
+            "season": {
+                "id": 2474,
+                "startDate": "2026-01-28",
+                "endDate": "2026-12-02",
+                "currentMatchday": 22,
+                "winner": null
+            },
             "id": 554955,
             "utcDate": "2026-08-09T22:30:00Z",
             "status": "TIMED",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-08T05:20:11Z",
+            "lastUpdated": "2026-08-08T15:20:06Z",
             "homeTeam": {
                 "id": 1783,
                 "name": "CR Flamengo",
