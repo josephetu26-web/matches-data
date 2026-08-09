@@ -9,7 +9,7 @@
         "competitions": "BSA,DED,PPL",
         "first": "2026-08-09",
         "last": "2026-08-09",
-        "played": 6
+        "played": 12
     },
     "matches": [
         {
@@ -165,72 +165,6 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 558221,
-            "utcDate": "2026-08-09T12:30:00Z",
-            "status": "FINISHED",
-            "matchday": 1,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-09T18:25:02Z",
-            "homeTeam": {
-                "id": 684,
-                "name": "PEC Zwolle",
-                "shortName": "Zwolle",
-                "tla": "ZWO",
-                "crest": "https://crests.football-data.org/684.png"
-            },
-            "awayTeam": {
-                "id": 678,
-                "name": "AFC Ajax",
-                "shortName": "Ajax",
-                "tla": "AJA",
-                "crest": "https://crests.football-data.org/678.png"
-            },
-            "score": {
-                "winner": "AWAY_TEAM",
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": 0,
-                    "away": 2
-                },
-                "halfTime": {
-                    "home": 0,
-                    "away": 0
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 80087,
-                    "name": "Jannick van der Laan",
-                    "type": "REFEREE",
-                    "nationality": "Netherlands"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2163,
-                "name": "Netherlands",
-                "code": "NLD",
-                "flag": "https://crests.football-data.org/8601.svg"
-            },
-            "competition": {
-                "id": 2003,
-                "name": "Eredivisie",
-                "code": "DED",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ED.png"
-            },
-            "season": {
-                "id": 2493,
-                "startDate": "2026-08-07",
-                "endDate": "2027-05-23",
-                "currentMatchday": 1,
-                "winner": null
-            },
             "id": 558220,
             "utcDate": "2026-08-09T12:30:00Z",
             "status": "FINISHED",
@@ -271,6 +205,72 @@
                 {
                     "id": 17136,
                     "name": "Joey Kooij",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "competition": {
+                "id": 2003,
+                "name": "Eredivisie",
+                "code": "DED",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ED.png"
+            },
+            "season": {
+                "id": 2493,
+                "startDate": "2026-08-07",
+                "endDate": "2027-05-23",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 558221,
+            "utcDate": "2026-08-09T12:30:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-09T18:25:02Z",
+            "homeTeam": {
+                "id": 684,
+                "name": "PEC Zwolle",
+                "shortName": "Zwolle",
+                "tla": "ZWO",
+                "crest": "https://crests.football-data.org/684.png"
+            },
+            "awayTeam": {
+                "id": 678,
+                "name": "AFC Ajax",
+                "shortName": "Ajax",
+                "tla": "AJA",
+                "crest": "https://crests.football-data.org/678.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 80087,
+                    "name": "Jannick van der Laan",
                     "type": "REFEREE",
                     "nationality": "Netherlands"
                 }
@@ -424,11 +424,11 @@
             },
             "id": 567265,
             "utcDate": "2026-08-09T17:00:00Z",
-            "status": "LIVE",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T18:49:11Z",
+            "lastUpdated": "2026-08-09T19:07:21Z",
             "homeTeam": {
                 "id": 503,
                 "name": "FC Porto",
@@ -490,11 +490,11 @@
             },
             "id": 554957,
             "utcDate": "2026-08-09T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T01:32:01Z",
+            "lastUpdated": "2026-08-09T21:06:26Z",
             "homeTeam": {
                 "id": 1769,
                 "name": "SE Palmeiras",
@@ -510,15 +510,15 @@
                 "crest": "https://crests.football-data.org/6684.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -549,11 +549,11 @@
             },
             "id": 554950,
             "utcDate": "2026-08-09T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T01:32:01Z",
+            "lastUpdated": "2026-08-09T21:06:45Z",
             "homeTeam": {
                 "id": 1777,
                 "name": "EC Bahia",
@@ -569,15 +569,15 @@
                 "crest": "https://crests.football-data.org/1780.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -608,11 +608,11 @@
             },
             "id": 567259,
             "utcDate": "2026-08-09T19:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T05:20:15Z",
+            "lastUpdated": "2026-08-09T21:34:29Z",
             "homeTeam": {
                 "id": 583,
                 "name": "Moreirense FC",
@@ -628,15 +628,15 @@
                 "crest": "https://crests.football-data.org/5613.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
@@ -674,11 +674,11 @@
             },
             "id": 567262,
             "utcDate": "2026-08-09T19:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T05:20:15Z",
+            "lastUpdated": "2026-08-09T21:32:53Z",
             "homeTeam": {
                 "id": 1903,
                 "name": "Sport Lisboa e Benfica",
@@ -694,15 +694,15 @@
                 "crest": "https://crests.football-data.org/5527.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -740,11 +740,11 @@
             },
             "id": 567261,
             "utcDate": "2026-08-09T19:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T05:20:15Z",
+            "lastUpdated": "2026-08-09T21:37:09Z",
             "homeTeam": {
                 "id": 5533,
                 "name": "Gil Vicente FC",
@@ -760,15 +760,15 @@
                 "crest": "https://crests.football-data.org/496.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -806,11 +806,11 @@
             },
             "id": 554952,
             "utcDate": "2026-08-09T21:30:00Z",
-            "status": "TIMED",
+            "status": "LIVE",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T01:32:01Z",
+            "lastUpdated": "2026-08-09T21:38:14Z",
             "homeTeam": {
                 "id": 4286,
                 "name": "RB Bragantino",
@@ -826,11 +826,11 @@
                 "crest": "https://crests.football-data.org/1779.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -865,11 +865,11 @@
             },
             "id": 554959,
             "utcDate": "2026-08-09T21:30:00Z",
-            "status": "TIMED",
+            "status": "LIVE",
             "matchday": 22,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T01:32:01Z",
+            "lastUpdated": "2026-08-09T21:37:46Z",
             "homeTeam": {
                 "id": 6685,
                 "name": "Santos FC",
@@ -885,11 +885,11 @@
                 "crest": "https://crests.football-data.org/1768.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
