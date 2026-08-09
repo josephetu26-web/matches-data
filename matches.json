@@ -9,7 +9,7 @@
         "competitions": "BSA,DED,PPL",
         "first": "2026-08-09",
         "last": "2026-08-09",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -101,11 +101,11 @@
             },
             "id": 558219,
             "utcDate": "2026-08-09T10:15:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T05:20:14Z",
+            "lastUpdated": "2026-08-09T12:19:25Z",
             "homeTeam": {
                 "id": 6806,
                 "name": "Sparta Rotterdam",
@@ -121,15 +121,15 @@
                 "crest": "https://crests.football-data.org/675.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -167,11 +167,11 @@
             },
             "id": 558221,
             "utcDate": "2026-08-09T12:30:00Z",
-            "status": "TIMED",
+            "status": "LIVE",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T05:20:14Z",
+            "lastUpdated": "2026-08-09T13:02:38Z",
             "homeTeam": {
                 "id": 684,
                 "name": "PEC Zwolle",
@@ -187,11 +187,11 @@
                 "crest": "https://crests.football-data.org/678.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -201,7 +201,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 80087,
+                    "name": "Jannick van der Laan",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -226,11 +233,11 @@
             },
             "id": 558220,
             "utcDate": "2026-08-09T12:30:00Z",
-            "status": "TIMED",
+            "status": "LIVE",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-09T05:20:14Z",
+            "lastUpdated": "2026-08-09T13:02:48Z",
             "homeTeam": {
                 "id": 677,
                 "name": "FC Groningen",
@@ -246,11 +253,11 @@
                 "crest": "https://crests.football-data.org/676.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -260,7 +267,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 17136,
+                    "name": "Joey Kooij",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -378,7 +392,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 80090,
+                    "name": "Marc Nagtegaal",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -578,7 +599,7 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 567259,
+            "id": 567262,
             "utcDate": "2026-08-09T19:30:00Z",
             "status": "TIMED",
             "matchday": 1,
@@ -586,18 +607,18 @@
             "group": null,
             "lastUpdated": "2026-08-09T05:20:15Z",
             "homeTeam": {
-                "id": 583,
-                "name": "Moreirense FC",
-                "shortName": "Moreirense",
-                "tla": "MOR",
-                "crest": "https://crests.football-data.org/583.png"
+                "id": 1903,
+                "name": "Sport Lisboa e Benfica",
+                "shortName": "SL Benfica",
+                "tla": "BEN",
+                "crest": "https://crests.football-data.org/1903.png"
             },
             "awayTeam": {
-                "id": 5613,
-                "name": "Sporting Clube de Braga",
-                "shortName": "Braga",
-                "tla": "SCB",
-                "crest": "https://crests.football-data.org/5613.png"
+                "id": 5527,
+                "name": "Académico de Viseu FC",
+                "shortName": "Acad. Viseu",
+                "tla": "ACV",
+                "crest": "https://crests.football-data.org/5527.png"
             },
             "score": {
                 "winner": null,
@@ -637,7 +658,7 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 567262,
+            "id": 567259,
             "utcDate": "2026-08-09T19:30:00Z",
             "status": "TIMED",
             "matchday": 1,
@@ -645,18 +666,18 @@
             "group": null,
             "lastUpdated": "2026-08-09T05:20:15Z",
             "homeTeam": {
-                "id": 1903,
-                "name": "Sport Lisboa e Benfica",
-                "shortName": "SL Benfica",
-                "tla": "BEN",
-                "crest": "https://crests.football-data.org/1903.png"
+                "id": 583,
+                "name": "Moreirense FC",
+                "shortName": "Moreirense",
+                "tla": "MOR",
+                "crest": "https://crests.football-data.org/583.png"
             },
             "awayTeam": {
-                "id": 5527,
-                "name": "Académico de Viseu FC",
-                "shortName": "Acad. Viseu",
-                "tla": "ACV",
-                "crest": "https://crests.football-data.org/5527.png"
+                "id": 5613,
+                "name": "Sporting Clube de Braga",
+                "shortName": "Braga",
+                "tla": "SCB",
+                "crest": "https://crests.football-data.org/5613.png"
             },
             "score": {
                 "winner": null,
