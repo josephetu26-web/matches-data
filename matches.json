@@ -9,7 +9,7 @@
         "competitions": "PPL",
         "first": "2026-08-10",
         "last": "2026-08-10",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 567257,
             "utcDate": "2026-08-10T19:15:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-10T05:20:16Z",
+            "lastUpdated": "2026-08-10T21:16:49Z",
             "homeTeam": {
                 "id": 5530,
                 "name": "CD Santa Clara",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/5529.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 }
             },
             "odds": {
