@@ -9,7 +9,7 @@
         "competitions": "CLI",
         "first": "2026-08-12",
         "last": "2026-08-12",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 564457,
             "utcDate": "2026-08-12T00:30:00Z",
-            "status": "SCHEDULED",
+            "status": "POSTPONED",
             "matchday": 1,
             "stage": "PLAY_OFFS",
             "group": null,
-            "lastUpdated": "2026-06-30T22:21:21Z",
+            "lastUpdated": "2026-08-12T07:46:04Z",
             "homeTeam": {
                 "id": 4437,
                 "name": "CD Tolima",
@@ -69,7 +69,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11143,
+                    "name": "Savio Pereira",
+                    "type": "REFEREE",
+                    "nationality": "Brazil"
+                }
+            ]
         },
         {
             "area": {
@@ -94,11 +101,11 @@
             },
             "id": 564456,
             "utcDate": "2026-08-12T00:30:00Z",
-            "status": "SCHEDULED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "PLAY_OFFS",
             "group": null,
-            "lastUpdated": "2026-08-05T01:32:03Z",
+            "lastUpdated": "2026-08-12T07:41:00Z",
             "homeTeam": {
                 "id": 2051,
                 "name": "Estudiantes de La Plata",
@@ -114,21 +121,28 @@
                 "crest": "https://crests.football-data.org/6993.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11260,
+                    "name": "Raphael Claus",
+                    "type": "REFEREE",
+                    "nationality": "Brazil"
+                }
+            ]
         },
         {
             "area": {
