@@ -33,72 +33,6 @@
                 "currentMatchday": 6,
                 "winner": null
             },
-            "id": 564457,
-            "utcDate": "2026-08-12T00:30:00Z",
-            "status": "POSTPONED",
-            "matchday": 1,
-            "stage": "PLAY_OFFS",
-            "group": null,
-            "lastUpdated": "2026-08-12T07:46:04Z",
-            "homeTeam": {
-                "id": 4437,
-                "name": "CD Tolima",
-                "shortName": "Tolima",
-                "tla": "TOL",
-                "crest": "https://crests.football-data.org/4437.png"
-            },
-            "awayTeam": {
-                "id": 6989,
-                "name": "CAR Independiente del Valle",
-                "shortName": "Independiente",
-                "tla": "IDL",
-                "crest": "https://crests.football-data.org/6989.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 11143,
-                    "name": "Savio Pereira",
-                    "type": "REFEREE",
-                    "nationality": "Brazil"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 6,
-                "winner": null
-            },
             "id": 564456,
             "utcDate": "2026-08-12T00:30:00Z",
             "status": "FINISHED",
@@ -165,26 +99,26 @@
                 "currentMatchday": 6,
                 "winner": null
             },
-            "id": 564459,
-            "utcDate": "2026-08-12T22:00:00Z",
-            "status": "SCHEDULED",
+            "id": 564457,
+            "utcDate": "2026-08-12T00:30:00Z",
+            "status": "POSTPONED",
             "matchday": 1,
             "stage": "PLAY_OFFS",
             "group": null,
-            "lastUpdated": "2026-06-30T22:21:21Z",
+            "lastUpdated": "2026-08-12T07:46:04Z",
             "homeTeam": {
-                "id": 1769,
-                "name": "SE Palmeiras",
-                "shortName": "Palmeiras",
-                "tla": "PAL",
-                "crest": "https://crests.football-data.org/1769.png"
+                "id": 4437,
+                "name": "CD Tolima",
+                "shortName": "Tolima",
+                "tla": "TOL",
+                "crest": "https://crests.football-data.org/4437.png"
             },
             "awayTeam": {
-                "id": 9373,
-                "name": "Club Cerro Porteño",
-                "shortName": "Cerro Porteño",
-                "tla": "CCP",
-                "crest": "https://crests.football-data.org/9373.png"
+                "id": 6989,
+                "name": "CAR Independiente del Valle",
+                "shortName": "Independiente",
+                "tla": "IDL",
+                "crest": "https://crests.football-data.org/6989.png"
             },
             "score": {
                 "winner": null,
@@ -201,7 +135,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11143,
+                    "name": "Savio Pereira",
+                    "type": "REFEREE",
+                    "nationality": "Brazil"
+                }
+            ]
         },
         {
             "area": {
@@ -244,6 +185,65 @@
                 "shortName": "Coquimbo Unido",
                 "tla": "COQ",
                 "crest": "https://crests.football-data.org/7912.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 2466,
+                "startDate": "2026-02-04",
+                "endDate": "2026-11-28",
+                "currentMatchday": 6,
+                "winner": null
+            },
+            "id": 564459,
+            "utcDate": "2026-08-12T22:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "PLAY_OFFS",
+            "group": null,
+            "lastUpdated": "2026-06-30T22:21:21Z",
+            "homeTeam": {
+                "id": 1769,
+                "name": "SE Palmeiras",
+                "shortName": "Palmeiras",
+                "tla": "PAL",
+                "crest": "https://crests.football-data.org/1769.png"
+            },
+            "awayTeam": {
+                "id": 9373,
+                "name": "Club Cerro Porteño",
+                "shortName": "Cerro Porteño",
+                "tla": "CCP",
+                "crest": "https://crests.football-data.org/9373.png"
             },
             "score": {
                 "winner": null,
