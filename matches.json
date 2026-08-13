@@ -9,7 +9,7 @@
         "competitions": "CLI",
         "first": "2026-08-13",
         "last": "2026-08-13",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 564460,
             "utcDate": "2026-08-13T00:30:00Z",
-            "status": "SCHEDULED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "PLAY_OFFS",
             "group": null,
-            "lastUpdated": "2026-08-06T01:32:03Z",
+            "lastUpdated": "2026-08-13T04:27:20Z",
             "homeTeam": {
                 "id": 1771,
                 "name": "Cruzeiro EC",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/1783.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
