@@ -94,11 +94,11 @@
             },
             "id": 558223,
             "utcDate": "2026-08-14T18:00:00Z",
-            "status": "TIMED",
+            "status": "PAUSED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-14T05:20:19Z",
+            "lastUpdated": "2026-08-14T18:53:32Z",
             "homeTeam": {
                 "id": 1912,
                 "name": "Telstar 1963",
@@ -114,21 +114,28 @@
                 "crest": "https://crests.football-data.org/6806.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 17127,
+                    "name": "Ingmar Oostrom",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -246,7 +253,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 98928,
+                    "name": "David Silva",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         }
     ]
 }
