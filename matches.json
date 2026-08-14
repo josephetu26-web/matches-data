@@ -9,7 +9,7 @@
         "competitions": "CLI,DED,ELC,PPL",
         "first": "2026-08-14",
         "last": "2026-08-14",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 564462,
             "utcDate": "2026-08-14T00:30:00Z",
-            "status": "SCHEDULED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "PLAY_OFFS",
             "group": null,
-            "lastUpdated": "2026-06-30T22:21:21Z",
+            "lastUpdated": "2026-08-14T04:36:10Z",
             "homeTeam": {
                 "id": 2070,
                 "name": "CA Rosario Central",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/1779.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -98,7 +98,7 @@
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-13T05:20:19Z",
+            "lastUpdated": "2026-08-14T05:20:19Z",
             "homeTeam": {
                 "id": 1912,
                 "name": "Telstar 1963",
@@ -207,7 +207,7 @@
                 "id": 2526,
                 "startDate": "2026-08-08",
                 "endDate": "2027-05-16",
-                "currentMatchday": 1,
+                "currentMatchday": 2,
                 "winner": null
             },
             "id": 567268,
@@ -216,7 +216,7 @@
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-13T05:20:20Z",
+            "lastUpdated": "2026-08-14T05:20:20Z",
             "homeTeam": {
                 "id": 498,
                 "name": "Sporting Clube de Portugal",
