@@ -9,7 +9,7 @@
         "competitions": "CLI,DED,ELC,PPL",
         "first": "2026-08-14",
         "last": "2026-08-14",
-        "played": 1
+        "played": 4
     },
     "matches": [
         {
@@ -94,11 +94,11 @@
             },
             "id": 558223,
             "utcDate": "2026-08-14T18:00:00Z",
-            "status": "PAUSED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-14T18:53:32Z",
+            "lastUpdated": "2026-08-14T20:02:51Z",
             "homeTeam": {
                 "id": 1912,
                 "name": "Telstar 1963",
@@ -117,8 +117,8 @@
                 "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 1
+                    "home": 1,
+                    "away": 3
                 },
                 "halfTime": {
                     "home": 0,
@@ -160,11 +160,11 @@
             },
             "id": 561761,
             "utcDate": "2026-08-14T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-10T07:45:12Z",
+            "lastUpdated": "2026-08-14T20:59:13Z",
             "homeTeam": {
                 "id": 76,
                 "name": "Wolverhampton Wanderers FC",
@@ -180,15 +180,15 @@
                 "crest": "https://crests.football-data.org/59.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
@@ -219,11 +219,11 @@
             },
             "id": 567268,
             "utcDate": "2026-08-14T19:15:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-14T05:20:20Z",
+            "lastUpdated": "2026-08-14T21:22:19Z",
             "homeTeam": {
                 "id": 498,
                 "name": "Sporting Clube de Portugal",
@@ -239,15 +239,15 @@
                 "crest": "https://crests.football-data.org/5543.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
                 }
             },
             "odds": {
