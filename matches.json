@@ -128,7 +128,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 56912,
+                    "name": "Jeroen Manschot",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -191,65 +198,6 @@
         },
         {
             "area": {
-                "id": 2163,
-                "name": "Netherlands",
-                "code": "NLD",
-                "flag": "https://crests.football-data.org/8601.svg"
-            },
-            "competition": {
-                "id": 2003,
-                "name": "Eredivisie",
-                "code": "DED",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ED.png"
-            },
-            "season": {
-                "id": 2493,
-                "startDate": "2026-08-07",
-                "endDate": "2027-05-23",
-                "currentMatchday": 2,
-                "winner": null
-            },
-            "id": 558229,
-            "utcDate": "2026-08-16T12:30:00Z",
-            "status": "TIMED",
-            "matchday": 2,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-16T05:20:28Z",
-            "homeTeam": {
-                "id": 675,
-                "name": "Feyenoord Rotterdam",
-                "shortName": "Feyenoord",
-                "tla": "FEY",
-                "crest": "https://crests.football-data.org/675.png"
-            },
-            "awayTeam": {
-                "id": 718,
-                "name": "Go Ahead Eagles",
-                "shortName": "Go Ahead",
-                "tla": "GOA",
-                "crest": "https://crests.football-data.org/718.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
                 "id": 2072,
                 "name": "England",
                 "code": "ENG",
@@ -289,6 +237,65 @@
                 "shortName": "Southampton",
                 "tla": "SOU",
                 "crest": "https://crests.football-data.org/340.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "competition": {
+                "id": 2003,
+                "name": "Eredivisie",
+                "code": "DED",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ED.png"
+            },
+            "season": {
+                "id": 2493,
+                "startDate": "2026-08-07",
+                "endDate": "2027-05-23",
+                "currentMatchday": 2,
+                "winner": null
+            },
+            "id": 558229,
+            "utcDate": "2026-08-16T12:30:00Z",
+            "status": "TIMED",
+            "matchday": 2,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-16T05:20:28Z",
+            "homeTeam": {
+                "id": 675,
+                "name": "Feyenoord Rotterdam",
+                "shortName": "Feyenoord",
+                "tla": "FEY",
+                "crest": "https://crests.football-data.org/675.png"
+            },
+            "awayTeam": {
+                "id": 718,
+                "name": "Go Ahead Eagles",
+                "shortName": "Go Ahead",
+                "tla": "GOA",
+                "crest": "https://crests.football-data.org/718.png"
             },
             "score": {
                 "winner": null,
@@ -859,7 +866,7 @@
                 "currentMatchday": 2,
                 "winner": null
             },
-            "id": 567269,
+            "id": 567271,
             "utcDate": "2026-08-16T19:30:00Z",
             "status": "TIMED",
             "matchday": 2,
@@ -867,18 +874,18 @@
             "group": null,
             "lastUpdated": "2026-08-16T05:20:29Z",
             "homeTeam": {
-                "id": 5531,
-                "name": "FC Famalicão",
-                "shortName": "Famalicão",
-                "tla": "FAM",
-                "crest": "https://crests.football-data.org/5531.png"
+                "id": 5613,
+                "name": "Sporting Clube de Braga",
+                "shortName": "Braga",
+                "tla": "SCB",
+                "crest": "https://crests.football-data.org/5613.png"
             },
             "awayTeam": {
-                "id": 5575,
-                "name": "CS Marítimo",
-                "shortName": "Marítimo",
-                "tla": "CSM",
-                "crest": "https://crests.football-data.org/5575.png"
+                "id": 5533,
+                "name": "Gil Vicente FC",
+                "shortName": "Gil Vicente",
+                "tla": "GIL",
+                "crest": "https://crests.football-data.org/5533.png"
             },
             "score": {
                 "winner": null,
@@ -918,7 +925,7 @@
                 "currentMatchday": 2,
                 "winner": null
             },
-            "id": 567271,
+            "id": 567269,
             "utcDate": "2026-08-16T19:30:00Z",
             "status": "TIMED",
             "matchday": 2,
@@ -926,18 +933,18 @@
             "group": null,
             "lastUpdated": "2026-08-16T05:20:29Z",
             "homeTeam": {
-                "id": 5613,
-                "name": "Sporting Clube de Braga",
-                "shortName": "Braga",
-                "tla": "SCB",
-                "crest": "https://crests.football-data.org/5613.png"
+                "id": 5531,
+                "name": "FC Famalicão",
+                "shortName": "Famalicão",
+                "tla": "FAM",
+                "crest": "https://crests.football-data.org/5531.png"
             },
             "awayTeam": {
-                "id": 5533,
-                "name": "Gil Vicente FC",
-                "shortName": "Gil Vicente",
-                "tla": "GIL",
-                "crest": "https://crests.football-data.org/5533.png"
+                "id": 5575,
+                "name": "CS Marítimo",
+                "shortName": "Marítimo",
+                "tla": "CSM",
+                "crest": "https://crests.football-data.org/5575.png"
             },
             "score": {
                 "winner": null,
