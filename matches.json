@@ -6,71 +6,12 @@
     },
     "resultSet": {
         "count": 4,
-        "competitions": "PD,ELC,PPL,BSA",
+        "competitions": "ELC,PD,PPL,BSA",
         "first": "2026-08-17",
         "last": "2026-08-17",
         "played": 0
     },
     "matches": [
-        {
-            "area": {
-                "id": 2224,
-                "name": "Spain",
-                "code": "ESP",
-                "flag": "https://crests.football-data.org/760.svg"
-            },
-            "competition": {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
-            },
-            "season": {
-                "id": 2518,
-                "startDate": "2026-08-16",
-                "endDate": "2027-05-30",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "id": 564635,
-            "utcDate": "2026-08-17T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 1,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-08-17T05:20:34Z",
-            "homeTeam": {
-                "id": 560,
-                "name": "RC Deportivo La Coruña",
-                "shortName": "Deportivo",
-                "tla": "DEP",
-                "crest": "https://crests.football-data.org/560.png"
-            },
-            "awayTeam": {
-                "id": 285,
-                "name": "Elche CF",
-                "shortName": "Elche",
-                "tla": "ELC",
-                "crest": "https://crests.football-data.org/285.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
         {
             "area": {
                 "id": 2072,
@@ -128,7 +69,80 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 113767,
+                    "name": "Andrew Kitchen",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            },
+            "season": {
+                "id": 2518,
+                "startDate": "2026-08-16",
+                "endDate": "2027-05-30",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 564635,
+            "utcDate": "2026-08-17T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-08-17T05:20:34Z",
+            "homeTeam": {
+                "id": 560,
+                "name": "RC Deportivo La Coruña",
+                "shortName": "Deportivo",
+                "tla": "DEP",
+                "crest": "https://crests.football-data.org/560.png"
+            },
+            "awayTeam": {
+                "id": 285,
+                "name": "Elche CF",
+                "shortName": "Elche",
+                "tla": "ELC",
+                "crest": "https://crests.football-data.org/285.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 214213,
+                    "name": "Francisco Hernández Maeso",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
