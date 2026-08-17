@@ -39,7 +39,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-16T05:20:28Z",
+            "lastUpdated": "2026-08-17T05:20:34Z",
             "homeTeam": {
                 "id": 560,
                 "name": "RC Deportivo La Coruña",
@@ -98,7 +98,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-16T05:20:28Z",
+            "lastUpdated": "2026-08-17T05:20:34Z",
             "homeTeam": {
                 "id": 715,
                 "name": "Cardiff City FC",
@@ -153,11 +153,11 @@
             },
             "id": 567267,
             "utcDate": "2026-08-17T19:15:00Z",
-            "status": "2026-08-17 18:15:00Z",
+            "status": "TIMED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-16T13:41:33Z",
+            "lastUpdated": "2026-08-17T05:20:34Z",
             "homeTeam": {
                 "id": 6618,
                 "name": "Casa Pia AC",
@@ -216,7 +216,7 @@
             "matchday": 23,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-17T03:25:07Z",
+            "lastUpdated": "2026-08-17T05:20:34Z",
             "homeTeam": {
                 "id": 6684,
                 "name": "SC Internacional",
