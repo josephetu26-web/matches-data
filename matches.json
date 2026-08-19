@@ -9,7 +9,7 @@
         "competitions": "CLI,PD",
         "first": "2026-08-19",
         "last": "2026-08-19",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -94,11 +94,11 @@
             },
             "id": 564628,
             "utcDate": "2026-08-19T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-19T05:20:29Z",
+            "lastUpdated": "2026-08-19T21:15:33Z",
             "homeTeam": {
                 "id": 78,
                 "name": "Club Atlético de Madrid",
@@ -114,15 +114,15 @@
                 "crest": "https://crests.football-data.org/84.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
