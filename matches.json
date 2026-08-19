@@ -5,11 +5,11 @@
         "permission": "TIER_ONE"
     },
     "resultSet": {
-        "count": 5,
+        "count": 4,
         "competitions": "CLI,PD",
         "first": "2026-08-19",
         "last": "2026-08-19",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -33,72 +33,13 @@
                 "currentMatchday": 6,
                 "winner": null
             },
-            "id": 564464,
-            "utcDate": "2026-08-19T00:30:00Z",
-            "status": "SCHEDULED",
-            "matchday": 1,
-            "stage": "PLAY_OFFS",
-            "group": null,
-            "lastUpdated": "2026-06-30T22:21:21Z",
-            "homeTeam": {
-                "id": 6989,
-                "name": "CAR Independiente del Valle",
-                "shortName": "Independiente",
-                "tla": "IDL",
-                "crest": "https://crests.football-data.org/6989.png"
-            },
-            "awayTeam": {
-                "id": 4437,
-                "name": "CD Tolima",
-                "shortName": "Tolima",
-                "tla": "TOL",
-                "crest": "https://crests.football-data.org/4437.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2220,
-                "name": "South America",
-                "code": "SAM",
-                "flag": "https://crests.football-data.org/CLI.svg"
-            },
-            "competition": {
-                "id": 2152,
-                "name": "Copa Libertadores",
-                "code": "CLI",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CLI.svg"
-            },
-            "season": {
-                "id": 2466,
-                "startDate": "2026-02-04",
-                "endDate": "2026-11-28",
-                "currentMatchday": 6,
-                "winner": null
-            },
             "id": 564465,
             "utcDate": "2026-08-19T00:30:00Z",
-            "status": "SCHEDULED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "PLAY_OFFS",
             "group": null,
-            "lastUpdated": "2026-08-12T01:32:05Z",
+            "lastUpdated": "2026-08-19T04:22:12Z",
             "homeTeam": {
                 "id": 6993,
                 "name": "CD Universidad Católica",
@@ -114,15 +55,15 @@
                 "crest": "https://crests.football-data.org/2051.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -157,7 +98,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-18T05:20:28Z",
+            "lastUpdated": "2026-08-19T05:20:29Z",
             "homeTeam": {
                 "id": 78,
                 "name": "Club Atlético de Madrid",
@@ -216,7 +157,7 @@
             "matchday": 1,
             "stage": "PLAY_OFFS",
             "group": null,
-            "lastUpdated": "2026-06-30T22:21:21Z",
+            "lastUpdated": "2026-08-18T10:25:17Z",
             "homeTeam": {
                 "id": 9373,
                 "name": "Club Cerro Porteño",
@@ -275,7 +216,7 @@
             "matchday": 1,
             "stage": "PLAY_OFFS",
             "group": null,
-            "lastUpdated": "2026-06-30T22:21:21Z",
+            "lastUpdated": "2026-08-18T10:25:17Z",
             "homeTeam": {
                 "id": 7912,
                 "name": "CD Coquimbo Unido",
