@@ -9,7 +9,7 @@
         "competitions": "CLI,PD",
         "first": "2026-08-20",
         "last": "2026-08-20",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -94,11 +94,11 @@
             },
             "id": 564638,
             "utcDate": "2026-08-20T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-20T05:20:30Z",
+            "lastUpdated": "2026-08-20T21:10:53Z",
             "homeTeam": {
                 "id": 87,
                 "name": "Rayo Vallecano de Madrid",
@@ -114,15 +114,15 @@
                 "crest": "https://crests.football-data.org/263.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
