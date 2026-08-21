@@ -9,7 +9,7 @@
         "competitions": "CLI,FL1,PD,PL,DED",
         "first": "2026-08-21",
         "last": "2026-08-22",
-        "played": 1
+        "played": 4
     },
     "matches": [
         {
@@ -94,11 +94,11 @@
             },
             "id": 559715,
             "utcDate": "2026-08-21T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-21T10:20:33Z",
+            "lastUpdated": "2026-08-21T20:48:00Z",
             "homeTeam": {
                 "id": 516,
                 "name": "Olympique de Marseille",
@@ -114,15 +114,15 @@
                 "crest": "https://crests.football-data.org/576.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 4,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -160,11 +160,11 @@
             },
             "id": 564647,
             "utcDate": "2026-08-21T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-21T10:20:33Z",
+            "lastUpdated": "2026-08-21T21:01:52Z",
             "homeTeam": {
                 "id": 90,
                 "name": "Real Betis Balompié",
@@ -180,15 +180,15 @@
                 "crest": "https://crests.football-data.org/92.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -226,11 +226,11 @@
             },
             "id": 560542,
             "utcDate": "2026-08-21T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-21T10:20:33Z",
+            "lastUpdated": "2026-08-21T20:58:40Z",
             "homeTeam": {
                 "id": 57,
                 "name": "Arsenal FC",
@@ -246,15 +246,15 @@
                 "crest": "https://crests.football-data.org/1076.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 }
             },
             "odds": {
