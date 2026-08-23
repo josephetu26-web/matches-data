@@ -9,7 +9,7 @@
         "competitions": "DED,ELC,FL1,PL,PPL,PD,SA,BSA",
         "first": "2026-08-23",
         "last": "2026-08-23",
-        "played": 6
+        "played": 12
     },
     "matches": [
         {
@@ -171,7 +171,7 @@
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T14:30:54Z",
+            "lastUpdated": "2026-08-23T18:25:01Z",
             "homeTeam": {
                 "id": 674,
                 "name": "PSV",
@@ -303,7 +303,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T15:00:46Z",
+            "lastUpdated": "2026-08-23T18:25:11Z",
             "homeTeam": {
                 "id": 397,
                 "name": "Brighton & Hove Albion FC",
@@ -369,7 +369,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T15:02:22Z",
+            "lastUpdated": "2026-08-23T18:25:11Z",
             "homeTeam": {
                 "id": 65,
                 "name": "Manchester City FC",
@@ -431,11 +431,11 @@
             },
             "id": 567278,
             "utcDate": "2026-08-23T14:30:00Z",
-            "status": "PAUSED",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T15:26:54Z",
+            "lastUpdated": "2026-08-23T16:36:14Z",
             "homeTeam": {
                 "id": 5543,
                 "name": "Vitória SC",
@@ -465,7 +465,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 39896,
+                    "name": "Pedro Ramalho",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -490,11 +497,11 @@
             },
             "id": 558238,
             "utcDate": "2026-08-23T14:45:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T15:26:54Z",
+            "lastUpdated": "2026-08-23T18:25:01Z",
             "homeTeam": {
                 "id": 1909,
                 "name": "SC Cambuur-Leeuwarden",
@@ -510,15 +517,15 @@
                 "crest": "https://crests.football-data.org/675.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": 2,
+                    "away": 5
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 4
                 }
             },
             "odds": {
@@ -556,11 +563,11 @@
             },
             "id": 564646,
             "utcDate": "2026-08-23T15:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T15:27:26Z",
+            "lastUpdated": "2026-08-23T17:10:22Z",
             "homeTeam": {
                 "id": 78,
                 "name": "Club Atlético de Madrid",
@@ -579,12 +586,12 @@
                 "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
-                    "away": 0
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -615,11 +622,11 @@
             },
             "id": 559719,
             "utcDate": "2026-08-23T15:15:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T15:27:26Z",
+            "lastUpdated": "2026-08-23T17:15:10Z",
             "homeTeam": {
                 "id": 533,
                 "name": "Le Havre AC",
@@ -635,15 +642,15 @@
                 "crest": "https://crests.football-data.org/548.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 0,
-                    "away": 0
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -681,11 +688,11 @@
             },
             "id": 560550,
             "utcDate": "2026-08-23T15:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T05:20:33Z",
+            "lastUpdated": "2026-08-23T18:25:11Z",
             "homeTeam": {
                 "id": 67,
                 "name": "Newcastle United FC",
@@ -701,15 +708,15 @@
                 "crest": "https://crests.football-data.org/64.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -747,11 +754,11 @@
             },
             "id": 558635,
             "utcDate": "2026-08-23T16:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T05:20:33Z",
+            "lastUpdated": "2026-08-23T18:36:46Z",
             "homeTeam": {
                 "id": 470,
                 "name": "Frosinone Calcio",
@@ -767,15 +774,15 @@
                 "crest": "https://crests.football-data.org/109.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -813,11 +820,11 @@
             },
             "id": 558637,
             "utcDate": "2026-08-23T16:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T05:20:33Z",
+            "lastUpdated": "2026-08-23T18:32:30Z",
             "homeTeam": {
                 "id": 454,
                 "name": "Venezia FC",
@@ -833,15 +840,15 @@
                 "crest": "https://crests.football-data.org/5890.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -879,11 +886,11 @@
             },
             "id": 567281,
             "utcDate": "2026-08-23T17:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T05:20:33Z",
+            "lastUpdated": "2026-08-23T18:36:14Z",
             "homeTeam": {
                 "id": 5530,
                 "name": "CD Santa Clara",
@@ -899,15 +906,15 @@
                 "crest": "https://crests.football-data.org/5531.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -938,11 +945,11 @@
             },
             "id": 564644,
             "utcDate": "2026-08-23T17:30:00Z",
-            "status": "TIMED",
+            "status": "PAUSED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-23T05:20:33Z",
+            "lastUpdated": "2026-08-23T18:25:34Z",
             "homeTeam": {
                 "id": 82,
                 "name": "Getafe CF",
@@ -958,15 +965,15 @@
                 "crest": "https://crests.football-data.org/5335.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -1031,7 +1038,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 159361,
+                    "name": "Valerio Crezzini",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -1149,7 +1163,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57764,
+                    "name": "Luca Zufferli",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
