@@ -271,11 +271,11 @@
             },
             "id": 567277,
             "utcDate": "2026-08-24T19:15:00Z",
-            "status": "TIMED",
+            "status": "2026-08-24 18:15:00Z",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-24T05:20:36Z",
+            "lastUpdated": "2026-08-24T11:00:31Z",
             "homeTeam": {
                 "id": 5533,
                 "name": "Gil Vicente FC",
