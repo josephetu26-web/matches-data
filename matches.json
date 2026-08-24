@@ -9,7 +9,7 @@
         "competitions": "SA,PD,PL,PPL,BSA",
         "first": "2026-08-24",
         "last": "2026-08-24",
-        "played": 1
+        "played": 6
     },
     "matches": [
         {
@@ -101,11 +101,11 @@
             },
             "id": 564639,
             "utcDate": "2026-08-24T17:30:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-24T18:47:58Z",
+            "lastUpdated": "2026-08-24T19:34:42Z",
             "homeTeam": {
                 "id": 79,
                 "name": "CA Osasuna",
@@ -128,8 +128,8 @@
                     "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -160,11 +160,11 @@
             },
             "id": 558638,
             "utcDate": "2026-08-24T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-24T05:20:36Z",
+            "lastUpdated": "2026-08-24T20:43:42Z",
             "homeTeam": {
                 "id": 100,
                 "name": "AS Roma",
@@ -180,15 +180,15 @@
                 "crest": "https://crests.football-data.org/99.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 4,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -226,11 +226,11 @@
             },
             "id": 560551,
             "utcDate": "2026-08-24T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-24T05:20:36Z",
+            "lastUpdated": "2026-08-24T21:00:14Z",
             "homeTeam": {
                 "id": 63,
                 "name": "Fulham FC",
@@ -246,15 +246,15 @@
                 "crest": "https://crests.football-data.org/61.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 2
                 }
             },
             "odds": {
@@ -292,11 +292,11 @@
             },
             "id": 567277,
             "utcDate": "2026-08-24T19:15:00Z",
-            "status": "2026-08-24 18:15:00Z",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-24T11:00:31Z",
+            "lastUpdated": "2026-08-24T21:17:50Z",
             "homeTeam": {
                 "id": 5533,
                 "name": "Gil Vicente FC",
@@ -312,15 +312,15 @@
                 "crest": "https://crests.football-data.org/6618.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 }
             },
             "odds": {
@@ -351,11 +351,11 @@
             },
             "id": 564640,
             "utcDate": "2026-08-24T19:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-24T05:20:36Z",
+            "lastUpdated": "2026-08-24T21:29:34Z",
             "homeTeam": {
                 "id": 84,
                 "name": "Málaga CF",
@@ -371,15 +371,15 @@
                 "crest": "https://crests.football-data.org/560.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
