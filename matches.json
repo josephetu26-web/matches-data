@@ -9,7 +9,7 @@
         "competitions": "SA,PD,PL,PPL,BSA",
         "first": "2026-08-24",
         "last": "2026-08-24",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 558630,
             "utcDate": "2026-08-24T16:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-24T05:20:36Z",
+            "lastUpdated": "2026-08-24T18:35:42Z",
             "homeTeam": {
                 "id": 103,
                 "name": "Bologna FC 1909",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/110.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -101,11 +101,11 @@
             },
             "id": 564639,
             "utcDate": "2026-08-24T17:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-24T05:20:36Z",
+            "lastUpdated": "2026-08-24T18:47:58Z",
             "homeTeam": {
                 "id": 79,
                 "name": "CA Osasuna",
@@ -121,11 +121,11 @@
                 "crest": "https://crests.football-data.org/88.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -194,7 +194,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57868,
+                    "name": "Matteo Marcenaro",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -253,7 +260,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11327,
+                    "name": "John Brooks",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
