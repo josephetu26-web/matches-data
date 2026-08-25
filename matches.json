@@ -9,7 +9,7 @@
         "competitions": "PD",
         "first": "2026-08-25",
         "last": "2026-08-25",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 564637,
             "utcDate": "2026-08-25T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-25T05:20:35Z",
+            "lastUpdated": "2026-08-25T21:04:30Z",
             "homeTeam": {
                 "id": 95,
                 "name": "Valencia CF",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/90.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
