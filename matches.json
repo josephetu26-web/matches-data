@@ -94,11 +94,11 @@
             },
             "id": 564631,
             "utcDate": "2026-08-26T19:00:00Z",
-            "status": "TIMED",
+            "status": "2026-08-26 19:00:00Z",
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-26T05:20:35Z",
+            "lastUpdated": "2026-08-26T09:38:29Z",
             "homeTeam": {
                 "id": 86,
                 "name": "Real Madrid CF",
