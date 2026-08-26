@@ -9,7 +9,7 @@
         "competitions": "CLI,PD",
         "first": "2026-08-26",
         "last": "2026-08-26",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 564464,
             "utcDate": "2026-08-26T00:30:00Z",
-            "status": "SCHEDULED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "PLAY_OFFS",
             "group": null,
-            "lastUpdated": "2026-08-18T10:25:17Z",
+            "lastUpdated": "2026-08-26T04:24:54Z",
             "homeTeam": {
                 "id": 6989,
                 "name": "CAR Independiente del Valle",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/4437.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -98,7 +98,7 @@
             "matchday": 1,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-25T05:20:35Z",
+            "lastUpdated": "2026-08-26T05:20:35Z",
             "homeTeam": {
                 "id": 86,
                 "name": "Real Madrid CF",
