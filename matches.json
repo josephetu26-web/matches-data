@@ -9,7 +9,7 @@
         "competitions": "SA,PD,PL,PPL,BSA",
         "first": "2026-08-31",
         "last": "2026-08-31",
-        "played": 0
+        "played": 2
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 558621,
             "utcDate": "2026-08-31T16:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-30T15:20:16Z",
+            "lastUpdated": "2026-08-31T18:39:24Z",
             "homeTeam": {
                 "id": 5890,
                 "name": "US Lecce",
@@ -55,21 +55,28 @@
                 "crest": "https://crests.football-data.org/100.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 4
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 3
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11053,
+                    "name": "Daniele Chiffi",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -94,11 +101,11 @@
             },
             "id": 564657,
             "utcDate": "2026-08-31T17:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-30T10:20:34Z",
+            "lastUpdated": "2026-08-31T19:44:48Z",
             "homeTeam": {
                 "id": 79,
                 "name": "CA Osasuna",
@@ -114,15 +121,15 @@
                 "crest": "https://crests.football-data.org/82.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -153,11 +160,11 @@
             },
             "id": 558628,
             "utcDate": "2026-08-31T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-30T15:20:16Z",
+            "lastUpdated": "2026-08-31T20:43:40Z",
             "homeTeam": {
                 "id": 102,
                 "name": "Atalanta BC",
@@ -173,21 +180,28 @@
                 "crest": "https://crests.football-data.org/103.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11065,
+                    "name": "Daniele Doveri",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -212,11 +226,11 @@
             },
             "id": 560557,
             "utcDate": "2026-08-31T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-30T20:20:30Z",
+            "lastUpdated": "2026-08-31T20:43:08Z",
             "homeTeam": {
                 "id": 58,
                 "name": "Aston Villa FC",
@@ -232,21 +246,28 @@
                 "crest": "https://crests.football-data.org/57.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 257648,
+                    "name": "Adrian Gillett",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
@@ -271,11 +292,11 @@
             },
             "id": 567292,
             "utcDate": "2026-08-31T19:15:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-30T10:20:35Z",
+            "lastUpdated": "2026-08-31T20:43:40Z",
             "homeTeam": {
                 "id": 5613,
                 "name": "Sporting Clube de Braga",
@@ -291,21 +312,28 @@
                 "crest": "https://crests.football-data.org/5543.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 37207,
+                    "name": "André Narciso",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -330,11 +358,11 @@
             },
             "id": 567288,
             "utcDate": "2026-08-31T19:15:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-30T10:20:35Z",
+            "lastUpdated": "2026-08-31T20:43:40Z",
             "homeTeam": {
                 "id": 1903,
                 "name": "Sport Lisboa e Benfica",
@@ -350,21 +378,28 @@
                 "crest": "https://crests.football-data.org/582.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 220533,
+                    "name": "Hélder Carvalho",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -389,11 +424,11 @@
             },
             "id": 564650,
             "utcDate": "2026-08-31T19:30:00Z",
-            "status": "TIMED",
+            "status": "PAUSED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-08-30T10:20:34Z",
+            "lastUpdated": "2026-08-31T20:29:16Z",
             "homeTeam": {
                 "id": 81,
                 "name": "FC Barcelona",
@@ -409,15 +444,15 @@
                 "crest": "https://crests.football-data.org/87.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 }
             },
             "odds": {
