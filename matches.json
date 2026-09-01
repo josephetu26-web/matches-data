@@ -9,7 +9,7 @@
         "competitions": "ELC",
         "first": "2026-09-01",
         "last": "2026-09-01",
-        "played": 0
+        "played": 8
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 561799,
             "utcDate": "2026-09-01T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-01T05:20:33Z",
+            "lastUpdated": "2026-09-01T22:25:11Z",
             "homeTeam": {
                 "id": 563,
                 "name": "West Ham United FC",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/76.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 4,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 }
             },
             "odds": {
@@ -94,11 +94,11 @@
             },
             "id": 561801,
             "utcDate": "2026-09-01T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-01T05:20:33Z",
+            "lastUpdated": "2026-09-01T22:25:11Z",
             "homeTeam": {
                 "id": 356,
                 "name": "Sheffield United FC",
@@ -114,15 +114,15 @@
                 "crest": "https://crests.football-data.org/60.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
@@ -153,11 +153,11 @@
             },
             "id": 561802,
             "utcDate": "2026-09-01T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-01T05:20:33Z",
+            "lastUpdated": "2026-09-01T22:25:11Z",
             "homeTeam": {
                 "id": 325,
                 "name": "Portsmouth FC",
@@ -173,15 +173,15 @@
                 "crest": "https://crests.football-data.org/342.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -212,11 +212,11 @@
             },
             "id": 561798,
             "utcDate": "2026-09-01T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-01T05:20:33Z",
+            "lastUpdated": "2026-09-01T22:25:11Z",
             "homeTeam": {
                 "id": 1081,
                 "name": "Preston North End FC",
@@ -232,15 +232,15 @@
                 "crest": "https://crests.football-data.org/387.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -271,11 +271,11 @@
             },
             "id": 561804,
             "utcDate": "2026-09-01T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-01T05:20:33Z",
+            "lastUpdated": "2026-09-01T22:25:11Z",
             "homeTeam": {
                 "id": 72,
                 "name": "Swansea City AFC",
@@ -291,15 +291,15 @@
                 "crest": "https://crests.football-data.org/346.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 }
             },
             "odds": {
@@ -330,11 +330,11 @@
             },
             "id": 561800,
             "utcDate": "2026-09-01T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-01T05:20:33Z",
+            "lastUpdated": "2026-09-01T22:25:11Z",
             "homeTeam": {
                 "id": 1126,
                 "name": "Lincoln City FC",
@@ -350,15 +350,15 @@
                 "crest": "https://crests.football-data.org/59.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -389,11 +389,11 @@
             },
             "id": 561797,
             "utcDate": "2026-09-01T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-01T05:20:33Z",
+            "lastUpdated": "2026-09-01T22:25:11Z",
             "homeTeam": {
                 "id": 70,
                 "name": "Stoke City FC",
@@ -409,15 +409,15 @@
                 "crest": "https://crests.football-data.org/68.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -448,11 +448,11 @@
             },
             "id": 561803,
             "utcDate": "2026-09-01T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-01T05:20:33Z",
+            "lastUpdated": "2026-09-01T22:25:11Z",
             "homeTeam": {
                 "id": 332,
                 "name": "Birmingham City FC",
@@ -468,15 +468,15 @@
                 "crest": "https://crests.football-data.org/340.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
