@@ -33,7 +33,7 @@
                 "currentMatchday": 4,
                 "winner": null
             },
-            "id": 561807,
+            "id": 561806,
             "utcDate": "2026-09-02T18:45:00Z",
             "status": "TIMED",
             "matchday": 4,
@@ -41,18 +41,18 @@
             "group": null,
             "lastUpdated": "2026-09-02T01:32:00Z",
             "homeTeam": {
-                "id": 69,
-                "name": "Queens Park Rangers FC",
-                "shortName": "QPR",
-                "tla": "QPR",
-                "crest": "https://crests.football-data.org/69.png"
+                "id": 384,
+                "name": "Millwall FC",
+                "shortName": "Millwall",
+                "tla": "MIL",
+                "crest": "https://crests.football-data.org/384.png"
             },
             "awayTeam": {
-                "id": 715,
-                "name": "Cardiff City FC",
-                "shortName": "Cardiff",
-                "tla": "CAR",
-                "crest": "https://crests.football-data.org/715.png"
+                "id": 404,
+                "name": "Wrexham AFC",
+                "shortName": "Wrexham",
+                "tla": "WRE",
+                "crest": "https://crests.football-data.org/404.png"
             },
             "score": {
                 "winner": null,
@@ -151,7 +151,7 @@
                 "currentMatchday": 4,
                 "winner": null
             },
-            "id": 561806,
+            "id": 561807,
             "utcDate": "2026-09-02T18:45:00Z",
             "status": "TIMED",
             "matchday": 4,
@@ -159,18 +159,18 @@
             "group": null,
             "lastUpdated": "2026-09-02T01:32:00Z",
             "homeTeam": {
-                "id": 384,
-                "name": "Millwall FC",
-                "shortName": "Millwall",
-                "tla": "MIL",
-                "crest": "https://crests.football-data.org/384.png"
+                "id": 69,
+                "name": "Queens Park Rangers FC",
+                "shortName": "QPR",
+                "tla": "QPR",
+                "crest": "https://crests.football-data.org/69.png"
             },
             "awayTeam": {
-                "id": 404,
-                "name": "Wrexham AFC",
-                "shortName": "Wrexham",
-                "tla": "WRE",
-                "crest": "https://crests.football-data.org/404.png"
+                "id": 715,
+                "name": "Cardiff City FC",
+                "shortName": "Cardiff",
+                "tla": "CAR",
+                "crest": "https://crests.football-data.org/715.png"
             },
             "score": {
                 "winner": null,
