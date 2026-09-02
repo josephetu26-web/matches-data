@@ -9,7 +9,7 @@
         "competitions": "ELC,BSA",
         "first": "2026-09-02",
         "last": "2026-09-02",
-        "played": 0
+        "played": 3
     },
     "matches": [
         {
@@ -33,37 +33,37 @@
                 "currentMatchday": 4,
                 "winner": null
             },
-            "id": 561806,
+            "id": 561807,
             "utcDate": "2026-09-02T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-02T01:32:00Z",
+            "lastUpdated": "2026-09-02T20:41:45Z",
             "homeTeam": {
-                "id": 384,
-                "name": "Millwall FC",
-                "shortName": "Millwall",
-                "tla": "MIL",
-                "crest": "https://crests.football-data.org/384.png"
+                "id": 69,
+                "name": "Queens Park Rangers FC",
+                "shortName": "QPR",
+                "tla": "QPR",
+                "crest": "https://crests.football-data.org/69.png"
             },
             "awayTeam": {
-                "id": 404,
-                "name": "Wrexham AFC",
-                "shortName": "Wrexham",
-                "tla": "WRE",
-                "crest": "https://crests.football-data.org/404.png"
+                "id": 715,
+                "name": "Cardiff City FC",
+                "shortName": "Cardiff",
+                "tla": "CAR",
+                "crest": "https://crests.football-data.org/715.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -94,11 +94,11 @@
             },
             "id": 561808,
             "utcDate": "2026-09-02T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-02T01:32:00Z",
+            "lastUpdated": "2026-09-02T20:42:49Z",
             "homeTeam": {
                 "id": 74,
                 "name": "West Bromwich Albion FC",
@@ -114,15 +114,15 @@
                 "crest": "https://crests.football-data.org/348.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
@@ -151,37 +151,37 @@
                 "currentMatchday": 4,
                 "winner": null
             },
-            "id": 561807,
+            "id": 561806,
             "utcDate": "2026-09-02T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-02T01:32:00Z",
+            "lastUpdated": "2026-09-02T20:46:01Z",
             "homeTeam": {
-                "id": 69,
-                "name": "Queens Park Rangers FC",
-                "shortName": "QPR",
-                "tla": "QPR",
-                "crest": "https://crests.football-data.org/69.png"
+                "id": 384,
+                "name": "Millwall FC",
+                "shortName": "Millwall",
+                "tla": "MIL",
+                "crest": "https://crests.football-data.org/384.png"
             },
             "awayTeam": {
-                "id": 715,
-                "name": "Cardiff City FC",
-                "shortName": "Cardiff",
-                "tla": "CAR",
-                "crest": "https://crests.football-data.org/715.png"
+                "id": 404,
+                "name": "Wrexham AFC",
+                "shortName": "Wrexham",
+                "tla": "WRE",
+                "crest": "https://crests.football-data.org/404.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -212,11 +212,11 @@
             },
             "id": 561805,
             "utcDate": "2026-09-02T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-02T01:32:00Z",
+            "lastUpdated": "2026-09-02T20:52:25Z",
             "homeTeam": {
                 "id": 328,
                 "name": "Burnley FC",
@@ -232,15 +232,15 @@
                 "crest": "https://crests.football-data.org/343.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
