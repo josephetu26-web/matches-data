@@ -9,7 +9,7 @@
         "competitions": "FL1,PD",
         "first": "2026-09-03",
         "last": "2026-09-03",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 559696,
             "utcDate": "2026-09-03T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-03T00:20:31Z",
+            "lastUpdated": "2026-09-03T20:43:53Z",
             "homeTeam": {
                 "id": 511,
                 "name": "Toulouse FC",
@@ -55,21 +55,28 @@
                 "crest": "https://crests.football-data.org/521.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57054,
+                    "name": "Mathieu Vernice",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
         },
         {
             "area": {
@@ -94,11 +101,11 @@
             },
             "id": 564682,
             "utcDate": "2026-09-03T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-03T00:20:31Z",
+            "lastUpdated": "2026-09-03T20:50:17Z",
             "homeTeam": {
                 "id": 92,
                 "name": "Real Sociedad de Fútbol",
@@ -114,21 +121,28 @@
                 "crest": "https://crests.football-data.org/558.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 56995,
+                    "name": "Víctor García Verdura",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         }
     ]
 }
