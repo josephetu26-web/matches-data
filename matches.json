@@ -9,7 +9,7 @@
         "competitions": "FL1,PD",
         "first": "2026-09-03",
         "last": "2026-09-03",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -39,7 +39,7 @@
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-03T20:43:53Z",
+            "lastUpdated": "2026-09-03T22:25:10Z",
             "homeTeam": {
                 "id": 511,
                 "name": "Toulouse FC",
@@ -101,11 +101,11 @@
             },
             "id": 564682,
             "utcDate": "2026-09-03T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-03T20:50:17Z",
+            "lastUpdated": "2026-09-03T22:25:09Z",
             "homeTeam": {
                 "id": 92,
                 "name": "Real Sociedad de Fútbol",
