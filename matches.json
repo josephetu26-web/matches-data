@@ -9,7 +9,7 @@
         "competitions": "FL1,DED,BL1,SA,PL,PD,PPL",
         "first": "2026-09-04",
         "last": "2026-09-04",
-        "played": 3
+        "played": 8
     },
     "matches": [
         {
@@ -39,7 +39,7 @@
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T19:03:05Z",
+            "lastUpdated": "2026-09-04T22:25:11Z",
             "homeTeam": {
                 "id": 523,
                 "name": "Olympique Lyonnais",
@@ -105,7 +105,7 @@
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T19:56:25Z",
+            "lastUpdated": "2026-09-04T22:25:02Z",
             "homeTeam": {
                 "id": 6806,
                 "name": "Sparta Rotterdam",
@@ -171,7 +171,7 @@
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T20:31:05Z",
+            "lastUpdated": "2026-09-04T22:25:01Z",
             "homeTeam": {
                 "id": 10,
                 "name": "VfB Stuttgart",
@@ -233,11 +233,11 @@
             },
             "id": 558609,
             "utcDate": "2026-09-04T18:45:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T20:37:29Z",
+            "lastUpdated": "2026-09-04T22:25:14Z",
             "homeTeam": {
                 "id": 107,
                 "name": "Genoa CFC",
@@ -299,11 +299,11 @@
             },
             "id": 560566,
             "utcDate": "2026-09-04T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T20:37:29Z",
+            "lastUpdated": "2026-09-04T22:25:16Z",
             "homeTeam": {
                 "id": 349,
                 "name": "Ipswich Town FC",
@@ -365,11 +365,11 @@
             },
             "id": 564667,
             "utcDate": "2026-09-04T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T20:37:29Z",
+            "lastUpdated": "2026-09-04T22:25:10Z",
             "homeTeam": {
                 "id": 90,
                 "name": "Real Betis Balompié",
@@ -385,10 +385,10 @@
                 "crest": "https://crests.football-data.org/86.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
+                    "home": 1,
                     "away": 0
                 },
                 "halfTime": {
@@ -431,11 +431,11 @@
             },
             "id": 559697,
             "utcDate": "2026-09-04T19:05:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T20:36:57Z",
+            "lastUpdated": "2026-09-04T22:25:11Z",
             "homeTeam": {
                 "id": 524,
                 "name": "Paris Saint-Germain FC",
@@ -451,11 +451,11 @@
                 "crest": "https://crests.football-data.org/548.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 1,
-                    "away": 1
+                    "away": 2
                 },
                 "halfTime": {
                     "home": 1,
@@ -497,11 +497,11 @@
             },
             "id": 567299,
             "utcDate": "2026-09-04T19:15:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T20:36:57Z",
+            "lastUpdated": "2026-09-04T22:25:13Z",
             "homeTeam": {
                 "id": 503,
                 "name": "FC Porto",
@@ -517,10 +517,10 @@
                 "crest": "https://crests.football-data.org/583.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 1,
+                    "home": 2,
                     "away": 1
                 },
                 "halfTime": {
