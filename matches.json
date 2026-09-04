@@ -6,10 +6,10 @@
     },
     "resultSet": {
         "count": 8,
-        "competitions": "FL1,DED,BL1,SA,PD,PL,PPL",
+        "competitions": "FL1,DED,BL1,SA,PL,PD,PPL",
         "first": "2026-09-04",
         "last": "2026-09-04",
-        "played": 0
+        "played": 3
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 559699,
             "utcDate": "2026-09-04T17:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T00:20:34Z",
+            "lastUpdated": "2026-09-04T19:03:05Z",
             "homeTeam": {
                 "id": 523,
                 "name": "Olympique Lyonnais",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/519.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 }
             },
             "odds": {
@@ -101,11 +101,11 @@
             },
             "id": 558250,
             "utcDate": "2026-09-04T18:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T00:20:33Z",
+            "lastUpdated": "2026-09-04T19:56:25Z",
             "homeTeam": {
                 "id": 6806,
                 "name": "Sparta Rotterdam",
@@ -121,15 +121,15 @@
                 "crest": "https://crests.football-data.org/684.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
@@ -167,11 +167,11 @@
             },
             "id": 565791,
             "utcDate": "2026-09-04T18:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 2,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T00:20:33Z",
+            "lastUpdated": "2026-09-04T20:31:05Z",
             "homeTeam": {
                 "id": 10,
                 "name": "VfB Stuttgart",
@@ -187,21 +187,28 @@
                 "crest": "https://crests.football-data.org/1.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 4,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57526,
+                    "name": "Christian Dingert",
+                    "type": "REFEREE",
+                    "nationality": "Germany"
+                }
+            ]
         },
         {
             "area": {
@@ -226,11 +233,11 @@
             },
             "id": 558609,
             "utcDate": "2026-09-04T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T00:20:34Z",
+            "lastUpdated": "2026-09-04T20:37:29Z",
             "homeTeam": {
                 "id": 107,
                 "name": "Genoa CFC",
@@ -246,80 +253,28 @@
                 "crest": "https://crests.football-data.org/7397.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 4
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 3
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2224,
-                "name": "Spain",
-                "code": "ESP",
-                "flag": "https://crests.football-data.org/760.svg"
-            },
-            "competition": {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
-            },
-            "season": {
-                "id": 2518,
-                "startDate": "2026-08-16",
-                "endDate": "2027-05-30",
-                "currentMatchday": 6,
-                "winner": null
-            },
-            "id": 564667,
-            "utcDate": "2026-09-04T19:00:00Z",
-            "status": "2026-09-04 18:00:00Z",
-            "matchday": 4,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-09-04T07:11:54Z",
-            "homeTeam": {
-                "id": 90,
-                "name": "Real Betis Balompié",
-                "shortName": "Real Betis",
-                "tla": "BET",
-                "crest": "https://crests.football-data.org/90.png"
-            },
-            "awayTeam": {
-                "id": 86,
-                "name": "Real Madrid CF",
-                "shortName": "Real Madrid",
-                "tla": "RMA",
-                "crest": "https://crests.football-data.org/86.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
+            "referees": [
+                {
+                    "id": 11079,
+                    "name": "Marco Guida",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
                 }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
+            ]
         },
         {
             "area": {
@@ -344,11 +299,11 @@
             },
             "id": 560566,
             "utcDate": "2026-09-04T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T00:20:34Z",
+            "lastUpdated": "2026-09-04T20:37:29Z",
             "homeTeam": {
                 "id": 349,
                 "name": "Ipswich Town FC",
@@ -364,21 +319,94 @@
                 "crest": "https://crests.football-data.org/64.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11469,
+                    "name": "Darren England",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            },
+            "season": {
+                "id": 2518,
+                "startDate": "2026-08-16",
+                "endDate": "2027-05-30",
+                "currentMatchday": 6,
+                "winner": null
+            },
+            "id": 564667,
+            "utcDate": "2026-09-04T19:00:00Z",
+            "status": "IN_PLAY",
+            "matchday": 4,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-09-04T20:37:29Z",
+            "homeTeam": {
+                "id": 90,
+                "name": "Real Betis Balompié",
+                "shortName": "Real Betis",
+                "tla": "BET",
+                "crest": "https://crests.football-data.org/90.png"
+            },
+            "awayTeam": {
+                "id": 86,
+                "name": "Real Madrid CF",
+                "shortName": "Real Madrid",
+                "tla": "RMA",
+                "crest": "https://crests.football-data.org/86.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 206208,
+                    "name": "Alejandro Hernández Hernández",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
@@ -403,11 +431,11 @@
             },
             "id": 559697,
             "utcDate": "2026-09-04T19:05:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T01:32:00Z",
+            "lastUpdated": "2026-09-04T20:36:57Z",
             "homeTeam": {
                 "id": 524,
                 "name": "Paris Saint-Germain FC",
@@ -423,21 +451,28 @@
                 "crest": "https://crests.football-data.org/548.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 15548,
+                    "name": "Jérôme Brisard",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
         },
         {
             "area": {
@@ -462,11 +497,11 @@
             },
             "id": 567299,
             "utcDate": "2026-09-04T19:15:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-04T00:20:34Z",
+            "lastUpdated": "2026-09-04T20:36:57Z",
             "homeTeam": {
                 "id": 503,
                 "name": "FC Porto",
@@ -482,21 +517,28 @@
                 "crest": "https://crests.football-data.org/583.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 37386,
+                    "name": "António Nobre",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         }
     ]
 }
