@@ -330,11 +330,11 @@
             },
             "id": 554999,
             "utcDate": "2026-09-07T23:00:00Z",
-            "status": "TIMED",
+            "status": "2026-09-07 22:00:00Z",
             "matchday": 26,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-07T01:32:00Z",
+            "lastUpdated": "2026-09-07T10:32:51Z",
             "homeTeam": {
                 "id": 1782,
                 "name": "EC Vitória",
