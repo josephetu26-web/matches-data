@@ -9,7 +9,7 @@
         "competitions": "SA,PD,PPL,BSA,CLI",
         "first": "2026-09-07",
         "last": "2026-09-08",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 558610,
             "utcDate": "2026-09-07T16:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-07T00:20:33Z",
+            "lastUpdated": "2026-09-07T18:31:44Z",
             "homeTeam": {
                 "id": 104,
                 "name": "Cagliari Calcio",
@@ -55,21 +55,28 @@
                 "crest": "https://crests.football-data.org/5890.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 206189,
+                    "name": "Juan Luca Sacchi",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -94,11 +101,11 @@
             },
             "id": 564665,
             "utcDate": "2026-09-07T17:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-07T00:20:33Z",
+            "lastUpdated": "2026-09-07T19:03:12Z",
             "homeTeam": {
                 "id": 82,
                 "name": "Getafe CF",
@@ -114,21 +121,28 @@
                 "crest": "https://crests.football-data.org/558.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 207113,
+                    "name": "César Soto Grado",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
@@ -153,11 +167,11 @@
             },
             "id": 558617,
             "utcDate": "2026-09-07T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-07T01:32:00Z",
+            "lastUpdated": "2026-09-07T19:03:44Z",
             "homeTeam": {
                 "id": 115,
                 "name": "Udinese Calcio",
@@ -173,11 +187,11 @@
                 "crest": "https://crests.football-data.org/110.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -187,7 +201,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 97887,
+                    "name": "Paride Tremolada",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -246,7 +267,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 37812,
+                    "name": "Fábio Veríssimo",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -305,7 +333,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 207048,
+                    "name": "Miguel Ortiz Arias",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
