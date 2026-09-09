@@ -33,65 +33,6 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 575330,
-            "utcDate": "2026-09-09T16:45:00Z",
-            "status": "TIMED",
-            "matchday": 1,
-            "stage": "LEAGUE_STAGE",
-            "group": null,
-            "lastUpdated": "2026-09-09T01:32:00Z",
-            "homeTeam": {
-                "id": 10,
-                "name": "VfB Stuttgart",
-                "shortName": "Stuttgart",
-                "tla": "VFB",
-                "crest": "https://crests.football-data.org/10.png"
-            },
-            "awayTeam": {
-                "id": 5720,
-                "name": "Viking FK",
-                "shortName": "Viking",
-                "tla": "VIK",
-                "crest": "https://crests.football-data.org/5720.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2077,
-                "name": "Europe",
-                "code": "EUR",
-                "flag": "https://crests.football-data.org/EUR.svg"
-            },
-            "competition": {
-                "id": 2001,
-                "name": "UEFA Champions League",
-                "code": "CL",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CL.png"
-            },
-            "season": {
-                "id": 2557,
-                "startDate": "2026-09-08",
-                "endDate": "2027-01-27",
-                "currentMatchday": 1,
-                "winner": null
-            },
             "id": 575329,
             "utcDate": "2026-09-09T16:45:00Z",
             "status": "TIMED",
@@ -171,6 +112,65 @@
                 "shortName": "Telstar",
                 "tla": "TEL",
                 "crest": "https://crests.football-data.org/1912.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2077,
+                "name": "Europe",
+                "code": "EUR",
+                "flag": "https://crests.football-data.org/EUR.svg"
+            },
+            "competition": {
+                "id": 2001,
+                "name": "UEFA Champions League",
+                "code": "CL",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CL.png"
+            },
+            "season": {
+                "id": 2557,
+                "startDate": "2026-09-08",
+                "endDate": "2027-01-27",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 575330,
+            "utcDate": "2026-09-09T16:45:00Z",
+            "status": "TIMED",
+            "matchday": 1,
+            "stage": "LEAGUE_STAGE",
+            "group": null,
+            "lastUpdated": "2026-09-09T01:32:00Z",
+            "homeTeam": {
+                "id": 10,
+                "name": "VfB Stuttgart",
+                "shortName": "Stuttgart",
+                "tla": "VFB",
+                "crest": "https://crests.football-data.org/10.png"
+            },
+            "awayTeam": {
+                "id": 5720,
+                "name": "Viking FK",
+                "shortName": "Viking",
+                "tla": "VIK",
+                "crest": "https://crests.football-data.org/5720.png"
             },
             "score": {
                 "winner": null,
@@ -309,104 +309,45 @@
         },
         {
             "area": {
-                "id": 2077,
-                "name": "Europe",
-                "code": "EUR",
-                "flag": "https://crests.football-data.org/EUR.svg"
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
             },
             "competition": {
-                "id": 2001,
-                "name": "UEFA Champions League",
-                "code": "CL",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CL.png"
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ELC.png"
             },
             "season": {
-                "id": 2557,
-                "startDate": "2026-09-08",
-                "endDate": "2027-01-27",
-                "currentMatchday": 1,
+                "id": 2509,
+                "startDate": "2026-08-14",
+                "endDate": "2027-05-01",
+                "currentMatchday": 6,
                 "winner": null
             },
-            "id": 575334,
+            "id": 561831,
             "utcDate": "2026-09-09T19:00:00Z",
             "status": "TIMED",
-            "matchday": 1,
-            "stage": "LEAGUE_STAGE",
+            "matchday": 6,
+            "stage": "REGULAR_SEASON",
             "group": null,
             "lastUpdated": "2026-09-09T01:32:00Z",
             "homeTeam": {
-                "id": 498,
-                "name": "Sporting Clube de Portugal",
-                "shortName": "Sporting CP",
-                "tla": "SPO",
-                "crest": "https://crests.football-data.org/498.png"
+                "id": 348,
+                "name": "Charlton Athletic FC",
+                "shortName": "Charlton",
+                "tla": "CHA",
+                "crest": "https://crests.football-data.org/348.png"
             },
             "awayTeam": {
-                "id": 610,
-                "name": "Galatasaray SK",
-                "shortName": "Galatasaray",
-                "tla": "GAL",
-                "crest": "https://crests.football-data.org/610.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2077,
-                "name": "Europe",
-                "code": "EUR",
-                "flag": "https://crests.football-data.org/EUR.svg"
-            },
-            "competition": {
-                "id": 2001,
-                "name": "UEFA Champions League",
-                "code": "CL",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CL.png"
-            },
-            "season": {
-                "id": 2557,
-                "startDate": "2026-09-08",
-                "endDate": "2027-01-27",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "id": 575332,
-            "utcDate": "2026-09-09T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 1,
-            "stage": "LEAGUE_STAGE",
-            "group": null,
-            "lastUpdated": "2026-09-09T01:32:00Z",
-            "homeTeam": {
-                "id": 524,
-                "name": "Paris Saint-Germain FC",
-                "shortName": "PSG",
-                "tla": "PSG",
-                "crest": "https://crests.football-data.org/524.png"
-            },
-            "awayTeam": {
-                "id": 7509,
-                "name": "ŠK Slovan Bratislava",
-                "shortName": "Sl. Bratislava",
-                "tla": "SBA",
-                "crest": "https://crests.football-data.org/7509.png"
+                "id": 69,
+                "name": "Queens Park Rangers FC",
+                "shortName": "QPR",
+                "tla": "QPR",
+                "crest": "https://crests.football-data.org/69.png"
             },
             "score": {
                 "winner": null,
@@ -545,45 +486,104 @@
         },
         {
             "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https://crests.football-data.org/770.svg"
+                "id": 2077,
+                "name": "Europe",
+                "code": "EUR",
+                "flag": "https://crests.football-data.org/EUR.svg"
             },
             "competition": {
-                "id": 2016,
-                "name": "Championship",
-                "code": "ELC",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ELC.png"
+                "id": 2001,
+                "name": "UEFA Champions League",
+                "code": "CL",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CL.png"
             },
             "season": {
-                "id": 2509,
-                "startDate": "2026-08-14",
-                "endDate": "2027-05-01",
-                "currentMatchday": 6,
+                "id": 2557,
+                "startDate": "2026-09-08",
+                "endDate": "2027-01-27",
+                "currentMatchday": 1,
                 "winner": null
             },
-            "id": 561831,
+            "id": 575332,
             "utcDate": "2026-09-09T19:00:00Z",
             "status": "TIMED",
-            "matchday": 6,
-            "stage": "REGULAR_SEASON",
+            "matchday": 1,
+            "stage": "LEAGUE_STAGE",
             "group": null,
             "lastUpdated": "2026-09-09T01:32:00Z",
             "homeTeam": {
-                "id": 348,
-                "name": "Charlton Athletic FC",
-                "shortName": "Charlton",
-                "tla": "CHA",
-                "crest": "https://crests.football-data.org/348.png"
+                "id": 524,
+                "name": "Paris Saint-Germain FC",
+                "shortName": "PSG",
+                "tla": "PSG",
+                "crest": "https://crests.football-data.org/524.png"
             },
             "awayTeam": {
-                "id": 69,
-                "name": "Queens Park Rangers FC",
-                "shortName": "QPR",
-                "tla": "QPR",
-                "crest": "https://crests.football-data.org/69.png"
+                "id": 7509,
+                "name": "ŠK Slovan Bratislava",
+                "shortName": "Sl. Bratislava",
+                "tla": "SBA",
+                "crest": "https://crests.football-data.org/7509.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2077,
+                "name": "Europe",
+                "code": "EUR",
+                "flag": "https://crests.football-data.org/EUR.svg"
+            },
+            "competition": {
+                "id": 2001,
+                "name": "UEFA Champions League",
+                "code": "CL",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CL.png"
+            },
+            "season": {
+                "id": 2557,
+                "startDate": "2026-09-08",
+                "endDate": "2027-01-27",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 575334,
+            "utcDate": "2026-09-09T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 1,
+            "stage": "LEAGUE_STAGE",
+            "group": null,
+            "lastUpdated": "2026-09-09T01:32:00Z",
+            "homeTeam": {
+                "id": 498,
+                "name": "Sporting Clube de Portugal",
+                "shortName": "Sporting CP",
+                "tla": "SPO",
+                "crest": "https://crests.football-data.org/498.png"
+            },
+            "awayTeam": {
+                "id": 610,
+                "name": "Galatasaray SK",
+                "shortName": "Galatasaray",
+                "tla": "GAL",
+                "crest": "https://crests.football-data.org/610.png"
             },
             "score": {
                 "winner": null,
