@@ -9,7 +9,7 @@
         "competitions": "CLI,CL,PPL",
         "first": "2026-09-10",
         "last": "2026-09-10",
-        "played": 0
+        "played": 2
     },
     "matches": [
         {
@@ -101,11 +101,11 @@
             },
             "id": 575336,
             "utcDate": "2026-09-10T16:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T01:32:00Z",
+            "lastUpdated": "2026-09-10T18:41:52Z",
             "homeTeam": {
                 "id": 674,
                 "name": "PSV",
@@ -121,15 +121,15 @@
                 "crest": "https://crests.football-data.org/1887.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -167,11 +167,11 @@
             },
             "id": 575335,
             "utcDate": "2026-09-10T16:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T01:32:00Z",
+            "lastUpdated": "2026-09-10T18:42:56Z",
             "homeTeam": {
                 "id": 613,
                 "name": "Fenerbahçe SK",
@@ -187,15 +187,15 @@
                 "crest": "https://crests.football-data.org/100.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -233,11 +233,11 @@
             },
             "id": 575340,
             "utcDate": "2026-09-10T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T01:32:00Z",
+            "lastUpdated": "2026-09-10T20:41:20Z",
             "homeTeam": {
                 "id": 930,
                 "name": "SK Slavia Praha",
@@ -253,21 +253,28 @@
                 "crest": "https://crests.football-data.org/546.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 209604,
+                    "name": "Vasilios Fotias",
+                    "type": "REFEREE",
+                    "nationality": "Greece"
+                }
+            ]
         },
         {
             "area": {
@@ -292,11 +299,11 @@
             },
             "id": 575338,
             "utcDate": "2026-09-10T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T01:32:00Z",
+            "lastUpdated": "2026-09-10T20:41:52Z",
             "homeTeam": {
                 "id": 66,
                 "name": "Manchester United FC",
@@ -312,21 +319,28 @@
                 "crest": "https://crests.football-data.org/10233.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 4,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57042,
+                    "name": "Willy Delajod",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
         },
         {
             "area": {
@@ -351,11 +365,11 @@
             },
             "id": 575337,
             "utcDate": "2026-09-10T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T01:32:00Z",
+            "lastUpdated": "2026-09-10T20:41:52Z",
             "homeTeam": {
                 "id": 5,
                 "name": "FC Bayern München",
@@ -371,21 +385,28 @@
                 "crest": "https://crests.football-data.org/5721.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 43936,
+                    "name": "Rade Obrenović",
+                    "type": "REFEREE",
+                    "nationality": "Slovenia"
+                }
+            ]
         },
         {
             "area": {
@@ -410,11 +431,11 @@
             },
             "id": 575339,
             "utcDate": "2026-09-10T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T01:32:00Z",
+            "lastUpdated": "2026-09-10T20:41:52Z",
             "homeTeam": {
                 "id": 7397,
                 "name": "Como 1907",
@@ -430,21 +451,28 @@
                 "crest": "https://crests.football-data.org/721.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 43858,
+                    "name": "Serdar Gözübüyük",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -469,11 +497,11 @@
             },
             "id": 567276,
             "utcDate": "2026-09-10T19:15:00Z",
-            "status": "2026-09-10 18:15:00Z",
+            "status": "IN_PLAY",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-10T13:06:26Z",
+            "lastUpdated": "2026-09-10T20:41:52Z",
             "homeTeam": {
                 "id": 9136,
                 "name": "CF Estrela da Amadora",
@@ -489,21 +517,28 @@
                 "crest": "https://crests.football-data.org/5613.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 38408,
+                    "name": "Iancu Vasilica",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         }
     ]
 }
