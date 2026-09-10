@@ -135,7 +135,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 214424,
+                    "name": "Halil Meler",
+                    "type": "REFEREE",
+                    "nationality": "Turkey"
+                }
+            ]
         },
         {
             "area": {
@@ -194,7 +201,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 206211,
+                    "name": "Jesús Gil Manzano",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
@@ -335,7 +349,7 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 575339,
+            "id": 575337,
             "utcDate": "2026-09-10T19:00:00Z",
             "status": "TIMED",
             "matchday": 1,
@@ -343,18 +357,18 @@
             "group": null,
             "lastUpdated": "2026-09-10T01:32:00Z",
             "homeTeam": {
-                "id": 7397,
-                "name": "Como 1907",
-                "shortName": "Como 1907",
-                "tla": "COM",
-                "crest": "https://crests.football-data.org/7397.png"
+                "id": 5,
+                "name": "FC Bayern München",
+                "shortName": "Bayern",
+                "tla": "FCB",
+                "crest": "https://crests.football-data.org/5.png"
             },
             "awayTeam": {
-                "id": 721,
-                "name": "RB Leipzig",
-                "shortName": "RB Leipzig",
-                "tla": "RBL",
-                "crest": "https://crests.football-data.org/721.png"
+                "id": 5721,
+                "name": "FK Bodø/Glimt",
+                "shortName": "Bodø/Glimt",
+                "tla": "FK",
+                "crest": "https://crests.football-data.org/5721.png"
             },
             "score": {
                 "winner": null,
@@ -394,7 +408,7 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 575337,
+            "id": 575339,
             "utcDate": "2026-09-10T19:00:00Z",
             "status": "TIMED",
             "matchday": 1,
@@ -402,18 +416,18 @@
             "group": null,
             "lastUpdated": "2026-09-10T01:32:00Z",
             "homeTeam": {
-                "id": 5,
-                "name": "FC Bayern München",
-                "shortName": "Bayern",
-                "tla": "FCB",
-                "crest": "https://crests.football-data.org/5.png"
+                "id": 7397,
+                "name": "Como 1907",
+                "shortName": "Como 1907",
+                "tla": "COM",
+                "crest": "https://crests.football-data.org/7397.png"
             },
             "awayTeam": {
-                "id": 5721,
-                "name": "FK Bodø/Glimt",
-                "shortName": "Bodø/Glimt",
-                "tla": "FK",
-                "crest": "https://crests.football-data.org/5721.png"
+                "id": 721,
+                "name": "RB Leipzig",
+                "shortName": "RB Leipzig",
+                "tla": "RBL",
+                "crest": "https://crests.football-data.org/721.png"
             },
             "score": {
                 "winner": null,
@@ -455,11 +469,11 @@
             },
             "id": 567276,
             "utcDate": "2026-09-10T19:15:00Z",
-            "status": "TIMED",
+            "status": "2026-09-10 18:15:00Z",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-10T00:20:29Z",
+            "lastUpdated": "2026-09-10T13:06:26Z",
             "homeTeam": {
                 "id": 9136,
                 "name": "CF Estrela da Amadora",
