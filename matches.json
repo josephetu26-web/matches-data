@@ -9,7 +9,7 @@
         "competitions": "CLI,CL,PPL",
         "first": "2026-09-10",
         "last": "2026-09-10",
-        "played": 2
+        "played": 7
     },
     "matches": [
         {
@@ -99,79 +99,13 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 575336,
-            "utcDate": "2026-09-10T16:45:00Z",
-            "status": "FINISHED",
-            "matchday": 1,
-            "stage": "LEAGUE_STAGE",
-            "group": null,
-            "lastUpdated": "2026-09-10T18:41:52Z",
-            "homeTeam": {
-                "id": 674,
-                "name": "PSV",
-                "shortName": "PSV",
-                "tla": "PSV",
-                "crest": "https://crests.football-data.org/674.png"
-            },
-            "awayTeam": {
-                "id": 1887,
-                "name": "FK Shakhtar Donetsk",
-                "shortName": "Shaktar",
-                "tla": "SHD",
-                "crest": "https://crests.football-data.org/1887.png"
-            },
-            "score": {
-                "winner": "DRAW",
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": 1,
-                    "away": 1
-                },
-                "halfTime": {
-                    "home": 0,
-                    "away": 1
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 214424,
-                    "name": "Halil Meler",
-                    "type": "REFEREE",
-                    "nationality": "Turkey"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2077,
-                "name": "Europe",
-                "code": "EUR",
-                "flag": "https://crests.football-data.org/EUR.svg"
-            },
-            "competition": {
-                "id": 2001,
-                "name": "UEFA Champions League",
-                "code": "CL",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CL.png"
-            },
-            "season": {
-                "id": 2557,
-                "startDate": "2026-09-08",
-                "endDate": "2027-01-27",
-                "currentMatchday": 1,
-                "winner": null
-            },
             "id": 575335,
             "utcDate": "2026-09-10T16:45:00Z",
             "status": "FINISHED",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T18:42:56Z",
+            "lastUpdated": "2026-09-10T22:25:00Z",
             "homeTeam": {
                 "id": 613,
                 "name": "Fenerbahçe SK",
@@ -231,26 +165,26 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 575340,
-            "utcDate": "2026-09-10T19:00:00Z",
-            "status": "IN_PLAY",
+            "id": 575336,
+            "utcDate": "2026-09-10T16:45:00Z",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T20:41:20Z",
+            "lastUpdated": "2026-09-10T22:25:00Z",
             "homeTeam": {
-                "id": 930,
-                "name": "SK Slavia Praha",
-                "shortName": "Slavia Praha",
-                "tla": "SLP",
-                "crest": "https://crests.football-data.org/930.png"
+                "id": 674,
+                "name": "PSV",
+                "shortName": "PSV",
+                "tla": "PSV",
+                "crest": "https://crests.football-data.org/674.png"
             },
             "awayTeam": {
-                "id": 546,
-                "name": "Racing Club de Lens",
-                "shortName": "RC Lens",
-                "tla": "RCL",
-                "crest": "https://crests.football-data.org/546.png"
+                "id": 1887,
+                "name": "FK Shakhtar Donetsk",
+                "shortName": "Shaktar",
+                "tla": "SHD",
+                "crest": "https://crests.football-data.org/1887.png"
             },
             "score": {
                 "winner": "DRAW",
@@ -258,6 +192,138 @@
                 "fullTime": {
                     "home": 1,
                     "away": 1
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 214424,
+                    "name": "Halil Meler",
+                    "type": "REFEREE",
+                    "nationality": "Turkey"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2077,
+                "name": "Europe",
+                "code": "EUR",
+                "flag": "https://crests.football-data.org/EUR.svg"
+            },
+            "competition": {
+                "id": 2001,
+                "name": "UEFA Champions League",
+                "code": "CL",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CL.png"
+            },
+            "season": {
+                "id": 2557,
+                "startDate": "2026-09-08",
+                "endDate": "2027-01-27",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 575339,
+            "utcDate": "2026-09-10T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "LEAGUE_STAGE",
+            "group": null,
+            "lastUpdated": "2026-09-10T22:25:00Z",
+            "homeTeam": {
+                "id": 7397,
+                "name": "Como 1907",
+                "shortName": "Como 1907",
+                "tla": "COM",
+                "crest": "https://crests.football-data.org/7397.png"
+            },
+            "awayTeam": {
+                "id": 721,
+                "name": "RB Leipzig",
+                "shortName": "RB Leipzig",
+                "tla": "RBL",
+                "crest": "https://crests.football-data.org/721.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 43858,
+                    "name": "Serdar Gözübüyük",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2077,
+                "name": "Europe",
+                "code": "EUR",
+                "flag": "https://crests.football-data.org/EUR.svg"
+            },
+            "competition": {
+                "id": 2001,
+                "name": "UEFA Champions League",
+                "code": "CL",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CL.png"
+            },
+            "season": {
+                "id": 2557,
+                "startDate": "2026-09-08",
+                "endDate": "2027-01-27",
+                "currentMatchday": 1,
+                "winner": null
+            },
+            "id": 575337,
+            "utcDate": "2026-09-10T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "LEAGUE_STAGE",
+            "group": null,
+            "lastUpdated": "2026-09-10T22:25:00Z",
+            "homeTeam": {
+                "id": 5,
+                "name": "FC Bayern München",
+                "shortName": "Bayern",
+                "tla": "FCB",
+                "crest": "https://crests.football-data.org/5.png"
+            },
+            "awayTeam": {
+                "id": 5721,
+                "name": "FK Bodø/Glimt",
+                "shortName": "Bodø/Glimt",
+                "tla": "FK",
+                "crest": "https://crests.football-data.org/5721.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 5,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": 0,
@@ -269,10 +335,10 @@
             },
             "referees": [
                 {
-                    "id": 209604,
-                    "name": "Vasilios Fotias",
+                    "id": 43936,
+                    "name": "Rade Obrenović",
                     "type": "REFEREE",
-                    "nationality": "Greece"
+                    "nationality": "Slovenia"
                 }
             ]
         },
@@ -299,11 +365,11 @@
             },
             "id": 575338,
             "utcDate": "2026-09-10T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T20:41:52Z",
+            "lastUpdated": "2026-09-10T22:25:00Z",
             "homeTeam": {
                 "id": 66,
                 "name": "Manchester United FC",
@@ -363,33 +429,33 @@
                 "currentMatchday": 1,
                 "winner": null
             },
-            "id": 575337,
+            "id": 575340,
             "utcDate": "2026-09-10T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-09-10T20:41:52Z",
+            "lastUpdated": "2026-09-10T22:25:00Z",
             "homeTeam": {
-                "id": 5,
-                "name": "FC Bayern München",
-                "shortName": "Bayern",
-                "tla": "FCB",
-                "crest": "https://crests.football-data.org/5.png"
+                "id": 930,
+                "name": "SK Slavia Praha",
+                "shortName": "Slavia Praha",
+                "tla": "SLP",
+                "crest": "https://crests.football-data.org/930.png"
             },
             "awayTeam": {
-                "id": 5721,
-                "name": "FK Bodø/Glimt",
-                "shortName": "Bodø/Glimt",
-                "tla": "FK",
-                "crest": "https://crests.football-data.org/5721.png"
+                "id": 546,
+                "name": "Racing Club de Lens",
+                "shortName": "RC Lens",
+                "tla": "RCL",
+                "crest": "https://crests.football-data.org/546.png"
             },
             "score": {
-                "winner": "HOME_TEAM",
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 2,
-                    "away": 0
+                    "away": 3
                 },
                 "halfTime": {
                     "home": 0,
@@ -401,76 +467,10 @@
             },
             "referees": [
                 {
-                    "id": 43936,
-                    "name": "Rade Obrenović",
+                    "id": 209604,
+                    "name": "Vasilios Fotias",
                     "type": "REFEREE",
-                    "nationality": "Slovenia"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2077,
-                "name": "Europe",
-                "code": "EUR",
-                "flag": "https://crests.football-data.org/EUR.svg"
-            },
-            "competition": {
-                "id": 2001,
-                "name": "UEFA Champions League",
-                "code": "CL",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CL.png"
-            },
-            "season": {
-                "id": 2557,
-                "startDate": "2026-09-08",
-                "endDate": "2027-01-27",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "id": 575339,
-            "utcDate": "2026-09-10T19:00:00Z",
-            "status": "IN_PLAY",
-            "matchday": 1,
-            "stage": "LEAGUE_STAGE",
-            "group": null,
-            "lastUpdated": "2026-09-10T20:41:52Z",
-            "homeTeam": {
-                "id": 7397,
-                "name": "Como 1907",
-                "shortName": "Como 1907",
-                "tla": "COM",
-                "crest": "https://crests.football-data.org/7397.png"
-            },
-            "awayTeam": {
-                "id": 721,
-                "name": "RB Leipzig",
-                "shortName": "RB Leipzig",
-                "tla": "RBL",
-                "crest": "https://crests.football-data.org/721.png"
-            },
-            "score": {
-                "winner": "HOME_TEAM",
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": 3,
-                    "away": 1
-                },
-                "halfTime": {
-                    "home": 2,
-                    "away": 0
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 43858,
-                    "name": "Serdar Gözübüyük",
-                    "type": "REFEREE",
-                    "nationality": "Netherlands"
+                    "nationality": "Greece"
                 }
             ]
         },
@@ -497,11 +497,11 @@
             },
             "id": 567276,
             "utcDate": "2026-09-10T19:15:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-10T20:41:52Z",
+            "lastUpdated": "2026-09-10T22:25:11Z",
             "homeTeam": {
                 "id": 9136,
                 "name": "CF Estrela da Amadora",
