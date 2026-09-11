@@ -9,7 +9,7 @@
         "competitions": "CLI,DED,BL1,FL1,SA,PD,ELC,BSA",
         "first": "2026-09-11",
         "last": "2026-09-12",
-        "played": 0
+        "played": 3
     },
     "matches": [
         {
@@ -101,11 +101,11 @@
             },
             "id": 558899,
             "utcDate": "2026-09-11T18:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T00:20:30Z",
+            "lastUpdated": "2026-09-11T19:58:44Z",
             "homeTeam": {
                 "id": 682,
                 "name": "AZ",
@@ -121,15 +121,15 @@
                 "crest": "https://crests.football-data.org/672.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -167,11 +167,11 @@
             },
             "id": 565797,
             "utcDate": "2026-09-11T18:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T00:20:30Z",
+            "lastUpdated": "2026-09-11T20:40:21Z",
             "homeTeam": {
                 "id": 28,
                 "name": "1. FC Union Berlin",
@@ -187,21 +187,28 @@
                 "crest": "https://crests.football-data.org/6.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57527,
+                    "name": "Timo Gerach",
+                    "type": "REFEREE",
+                    "nationality": "Germany"
+                }
+            ]
         },
         {
             "area": {
@@ -226,11 +233,11 @@
             },
             "id": 559689,
             "utcDate": "2026-09-11T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T00:20:31Z",
+            "lastUpdated": "2026-09-11T20:42:29Z",
             "homeTeam": {
                 "id": 529,
                 "name": "Stade Rennais FC 1901",
@@ -246,21 +253,28 @@
                 "crest": "https://crests.football-data.org/516.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 1049,
+                    "name": "Jeremy Stinat",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
         },
         {
             "area": {
@@ -285,11 +299,11 @@
             },
             "id": 558606,
             "utcDate": "2026-09-11T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T00:20:31Z",
+            "lastUpdated": "2026-09-11T20:47:48Z",
             "homeTeam": {
                 "id": 454,
                 "name": "Venezia FC",
@@ -305,21 +319,28 @@
                 "crest": "https://crests.football-data.org/99.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 4
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 2
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11129,
+                    "name": "Francesco Fourneau",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -344,11 +365,11 @@
             },
             "id": 564669,
             "utcDate": "2026-09-11T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T00:20:30Z",
+            "lastUpdated": "2026-09-11T20:47:48Z",
             "homeTeam": {
                 "id": 559,
                 "name": "Sevilla FC",
@@ -364,21 +385,28 @@
                 "crest": "https://crests.football-data.org/95.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 217698,
+                    "name": "Mateo Busquets Ferrer",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
@@ -403,11 +431,11 @@
             },
             "id": 561842,
             "utcDate": "2026-09-11T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 7,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T00:20:31Z",
+            "lastUpdated": "2026-09-11T20:47:48Z",
             "homeTeam": {
                 "id": 563,
                 "name": "West Ham United FC",
@@ -423,21 +451,28 @@
                 "crest": "https://crests.football-data.org/404.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 6,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11626,
+                    "name": "Matt Donohue",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
