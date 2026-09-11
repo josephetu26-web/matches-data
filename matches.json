@@ -6,7 +6,7 @@
     },
     "resultSet": {
         "count": 8,
-        "competitions": "CLI,DED,BL1,SA,FL1,ELC,PD,BSA",
+        "competitions": "CLI,DED,BL1,FL1,SA,PD,ELC,BSA",
         "first": "2026-09-11",
         "last": "2026-09-12",
         "played": 0
@@ -135,7 +135,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 56910,
+                    "name": "Martin van den Kerkhof",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -178,65 +185,6 @@
                 "shortName": "Schalke",
                 "tla": "S04",
                 "crest": "https://crests.football-data.org/6.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2114,
-                "name": "Italy",
-                "code": "ITA",
-                "flag": "https://crests.football-data.org/784.svg"
-            },
-            "competition": {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/c111.png"
-            },
-            "season": {
-                "id": 2494,
-                "startDate": "2026-08-23",
-                "endDate": "2027-05-30",
-                "currentMatchday": 4,
-                "winner": null
-            },
-            "id": 558606,
-            "utcDate": "2026-09-11T18:45:00Z",
-            "status": "TIMED",
-            "matchday": 4,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-09-11T00:20:31Z",
-            "homeTeam": {
-                "id": 454,
-                "name": "Venezia FC",
-                "shortName": "Venezia FC",
-                "tla": "VEN",
-                "crest": "https://crests.football-data.org/454.png"
-            },
-            "awayTeam": {
-                "id": 99,
-                "name": "ACF Fiorentina",
-                "shortName": "Fiorentina",
-                "tla": "FIO",
-                "crest": "https://crests.football-data.org/99.png"
             },
             "score": {
                 "winner": null,
@@ -316,45 +264,45 @@
         },
         {
             "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https://crests.football-data.org/770.svg"
+                "id": 2114,
+                "name": "Italy",
+                "code": "ITA",
+                "flag": "https://crests.football-data.org/784.svg"
             },
             "competition": {
-                "id": 2016,
-                "name": "Championship",
-                "code": "ELC",
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ELC.png"
+                "emblem": "https://crests.football-data.org/c111.png"
             },
             "season": {
-                "id": 2509,
-                "startDate": "2026-08-14",
-                "endDate": "2027-05-01",
-                "currentMatchday": 7,
+                "id": 2494,
+                "startDate": "2026-08-23",
+                "endDate": "2027-05-30",
+                "currentMatchday": 4,
                 "winner": null
             },
-            "id": 561842,
-            "utcDate": "2026-09-11T19:00:00Z",
+            "id": 558606,
+            "utcDate": "2026-09-11T18:45:00Z",
             "status": "TIMED",
-            "matchday": 7,
+            "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
             "lastUpdated": "2026-09-11T00:20:31Z",
             "homeTeam": {
-                "id": 563,
-                "name": "West Ham United FC",
-                "shortName": "West Ham",
-                "tla": "WHU",
-                "crest": "https://crests.football-data.org/563.png"
+                "id": 454,
+                "name": "Venezia FC",
+                "shortName": "Venezia FC",
+                "tla": "VEN",
+                "crest": "https://crests.football-data.org/454.png"
             },
             "awayTeam": {
-                "id": 404,
-                "name": "Wrexham AFC",
-                "shortName": "Wrexham",
-                "tla": "WRE",
-                "crest": "https://crests.football-data.org/404.png"
+                "id": 99,
+                "name": "ACF Fiorentina",
+                "shortName": "Fiorentina",
+                "tla": "FIO",
+                "crest": "https://crests.football-data.org/99.png"
             },
             "score": {
                 "winner": null,
@@ -414,6 +362,65 @@
                 "shortName": "Valencia",
                 "tla": "VAL",
                 "crest": "https://crests.football-data.org/95.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "competition": {
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ELC.png"
+            },
+            "season": {
+                "id": 2509,
+                "startDate": "2026-08-14",
+                "endDate": "2027-05-01",
+                "currentMatchday": 7,
+                "winner": null
+            },
+            "id": 561842,
+            "utcDate": "2026-09-11T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 7,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-09-11T00:20:31Z",
+            "homeTeam": {
+                "id": 563,
+                "name": "West Ham United FC",
+                "shortName": "West Ham",
+                "tla": "WHU",
+                "crest": "https://crests.football-data.org/563.png"
+            },
+            "awayTeam": {
+                "id": 404,
+                "name": "Wrexham AFC",
+                "shortName": "Wrexham",
+                "tla": "WRE",
+                "crest": "https://crests.football-data.org/404.png"
             },
             "score": {
                 "winner": null,
