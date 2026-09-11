@@ -9,7 +9,7 @@
         "competitions": "CLI,DED,BL1,FL1,SA,PD,ELC,BSA",
         "first": "2026-09-11",
         "last": "2026-09-12",
-        "played": 3
+        "played": 6
     },
     "matches": [
         {
@@ -105,7 +105,7 @@
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T19:58:44Z",
+            "lastUpdated": "2026-09-11T22:25:02Z",
             "homeTeam": {
                 "id": 682,
                 "name": "AZ",
@@ -171,7 +171,7 @@
             "matchday": 3,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T20:40:21Z",
+            "lastUpdated": "2026-09-11T22:25:01Z",
             "homeTeam": {
                 "id": 28,
                 "name": "1. FC Union Berlin",
@@ -237,7 +237,7 @@
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T20:42:29Z",
+            "lastUpdated": "2026-09-11T22:25:07Z",
             "homeTeam": {
                 "id": 529,
                 "name": "Stade Rennais FC 1901",
@@ -299,11 +299,11 @@
             },
             "id": 558606,
             "utcDate": "2026-09-11T18:45:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T20:47:48Z",
+            "lastUpdated": "2026-09-11T22:25:11Z",
             "homeTeam": {
                 "id": 454,
                 "name": "Venezia FC",
@@ -365,11 +365,11 @@
             },
             "id": 564669,
             "utcDate": "2026-09-11T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T20:47:48Z",
+            "lastUpdated": "2026-09-11T22:25:06Z",
             "homeTeam": {
                 "id": 559,
                 "name": "Sevilla FC",
@@ -385,10 +385,10 @@
                 "crest": "https://crests.football-data.org/95.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
+                    "home": 1,
                     "away": 0
                 },
                 "halfTime": {
@@ -431,11 +431,11 @@
             },
             "id": 561842,
             "utcDate": "2026-09-11T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 7,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-11T20:47:48Z",
+            "lastUpdated": "2026-09-11T22:25:09Z",
             "homeTeam": {
                 "id": 563,
                 "name": "West Ham United FC",
