@@ -9,7 +9,7 @@
         "competitions": "SA,PPL,PL,PD,BSA",
         "first": "2026-09-14",
         "last": "2026-09-14",
-        "played": 0
+        "played": 2
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 558602,
             "utcDate": "2026-09-14T16:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-14T00:20:57Z",
+            "lastUpdated": "2026-09-14T18:30:13Z",
             "homeTeam": {
                 "id": 7397,
                 "name": "Como 1907",
@@ -55,21 +55,28 @@
                 "crest": "https://crests.football-data.org/112.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 188512,
+                    "name": "Giuseppe Mucera",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -94,11 +101,11 @@
             },
             "id": 558603,
             "utcDate": "2026-09-14T16:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-14T01:32:00Z",
+            "lastUpdated": "2026-09-14T18:32:52Z",
             "homeTeam": {
                 "id": 586,
                 "name": "Torino FC",
@@ -114,21 +121,28 @@
                 "crest": "https://crests.football-data.org/100.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 10977,
+                    "name": "Fabio Maresca",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -153,11 +167,11 @@
             },
             "id": 567303,
             "utcDate": "2026-09-14T17:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-14T00:20:57Z",
+            "lastUpdated": "2026-09-14T19:46:29Z",
             "homeTeam": {
                 "id": 496,
                 "name": "Rio Ave FC",
@@ -173,21 +187,28 @@
                 "crest": "https://crests.football-data.org/9136.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 37823,
+                    "name": "Gustavo Correia",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -212,11 +233,11 @@
             },
             "id": 558601,
             "utcDate": "2026-09-14T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-14T01:32:00Z",
+            "lastUpdated": "2026-09-14T19:38:28Z",
             "homeTeam": {
                 "id": 108,
                 "name": "FC Internazionale Milano",
@@ -232,21 +253,28 @@
                 "crest": "https://crests.football-data.org/115.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 2
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11002,
+                    "name": "Luca Pairetto",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -271,11 +299,11 @@
             },
             "id": 560579,
             "utcDate": "2026-09-14T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-14T01:32:00Z",
+            "lastUpdated": "2026-09-14T19:46:28Z",
             "homeTeam": {
                 "id": 341,
                 "name": "Leeds United FC",
@@ -291,11 +319,11 @@
                 "crest": "https://crests.football-data.org/67.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -305,7 +333,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11405,
+                    "name": "Michael Salisbury",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
@@ -330,11 +365,11 @@
             },
             "id": 564671,
             "utcDate": "2026-09-14T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-14T01:32:00Z",
+            "lastUpdated": "2026-09-14T19:46:29Z",
             "homeTeam": {
                 "id": 94,
                 "name": "Villarreal CF",
@@ -350,11 +385,11 @@
                 "crest": "https://crests.football-data.org/90.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
                     "home": null,
@@ -364,7 +399,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 214213,
+                    "name": "Francisco Hernández Maeso",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
@@ -389,11 +431,11 @@
             },
             "id": 567302,
             "utcDate": "2026-09-14T19:15:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-14T01:32:00Z",
+            "lastUpdated": "2026-09-14T19:46:29Z",
             "homeTeam": {
                 "id": 583,
                 "name": "Moreirense FC",
@@ -409,11 +451,11 @@
                 "crest": "https://crests.football-data.org/5575.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -423,7 +465,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 131993,
+                    "name": "Fabio Melo",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -482,7 +531,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 98928,
+                    "name": "David Silva",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -507,11 +563,11 @@
             },
             "id": 555001,
             "utcDate": "2026-09-14T23:00:00Z",
-            "status": "2026-09-14 23:00:00Z",
+            "status": "TIMED",
             "matchday": 27,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-14T07:33:52Z",
+            "lastUpdated": "2026-09-13T15:20:23Z",
             "homeTeam": {
                 "id": 1777,
                 "name": "EC Bahia",
