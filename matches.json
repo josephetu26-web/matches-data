@@ -9,7 +9,7 @@
         "competitions": "CLI,DED,BL1,FL1,SA,ELC,PL,PD",
         "first": "2026-09-18",
         "last": "2026-09-18",
-        "played": 0
+        "played": 2
     },
     "matches": [
         {
@@ -94,11 +94,11 @@
             },
             "id": 558888,
             "utcDate": "2026-09-18T18:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 7,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-18T00:20:31Z",
+            "lastUpdated": "2026-09-18T19:58:45Z",
             "homeTeam": {
                 "id": 677,
                 "name": "FC Groningen",
@@ -114,15 +114,15 @@
                 "crest": "https://crests.football-data.org/684.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 }
             },
             "odds": {
@@ -160,11 +160,11 @@
             },
             "id": 565804,
             "utcDate": "2026-09-18T18:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 4,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-18T00:20:31Z",
+            "lastUpdated": "2026-09-18T20:28:37Z",
             "homeTeam": {
                 "id": 5,
                 "name": "FC Bayern München",
@@ -180,21 +180,28 @@
                 "crest": "https://crests.football-data.org/28.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 7,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 43922,
+                    "name": "Benjamin Brand",
+                    "type": "REFEREE",
+                    "nationality": "Germany"
+                }
+            ]
         },
         {
             "area": {
@@ -219,11 +226,11 @@
             },
             "id": 559682,
             "utcDate": "2026-09-18T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-18T00:20:32Z",
+            "lastUpdated": "2026-09-18T20:43:32Z",
             "homeTeam": {
                 "id": 548,
                 "name": "AS Monaco FC",
@@ -239,21 +246,28 @@
                 "crest": "https://crests.football-data.org/546.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 9374,
+                    "name": "Clément Turpin",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
         },
         {
             "area": {
@@ -278,11 +292,11 @@
             },
             "id": 558596,
             "utcDate": "2026-09-18T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-18T00:20:32Z",
+            "lastUpdated": "2026-09-18T20:43:33Z",
             "homeTeam": {
                 "id": 5911,
                 "name": "AC Monza",
@@ -298,21 +312,28 @@
                 "crest": "https://crests.football-data.org/471.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 97885,
+                    "name": "Daniele Perenzoni",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -337,11 +358,11 @@
             },
             "id": 561845,
             "utcDate": "2026-09-18T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 8,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-18T00:20:32Z",
+            "lastUpdated": "2026-09-18T20:43:00Z",
             "homeTeam": {
                 "id": 387,
                 "name": "Bristol City FC",
@@ -357,21 +378,28 @@
                 "crest": "https://crests.football-data.org/346.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11287,
+                    "name": "Oliver Langford",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
@@ -396,11 +424,11 @@
             },
             "id": 560591,
             "utcDate": "2026-09-18T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 5,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-18T00:20:33Z",
+            "lastUpdated": "2026-09-18T20:43:00Z",
             "homeTeam": {
                 "id": 402,
                 "name": "Brentford FC",
@@ -416,21 +444,28 @@
                 "crest": "https://crests.football-data.org/61.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11423,
+                    "name": "Andy Madley",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
@@ -455,11 +490,11 @@
             },
             "id": 564692,
             "utcDate": "2026-09-18T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 7,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-09-18T01:32:00Z",
+            "lastUpdated": "2026-09-18T20:43:33Z",
             "homeTeam": {
                 "id": 80,
                 "name": "RCD Espanyol de Barcelona",
@@ -475,21 +510,28 @@
                 "crest": "https://crests.football-data.org/285.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 2
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 214122,
+                    "name": "Jon González Esteban",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         }
     ]
 }
