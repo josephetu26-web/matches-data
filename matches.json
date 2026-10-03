@@ -9,7 +9,7 @@
         "competitions": "BSA",
         "first": "2026-10-03",
         "last": "2026-10-03",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 554940,
             "utcDate": "2026-10-03T21:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 21,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-03T01:32:00Z",
+            "lastUpdated": "2026-10-03T23:36:35Z",
             "homeTeam": {
                 "id": 1766,
                 "name": "CA Mineiro",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/4286.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
