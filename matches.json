@@ -1,14 +1,14 @@
 {
     "filters": {
-        "dateFrom": "2026-10-02",
-        "dateTo": "2026-10-03",
+        "dateFrom": "2026-10-03",
+        "dateTo": "2026-10-04",
         "permission": "TIER_ONE"
     },
     "resultSet": {
         "count": 1,
         "competitions": "BSA",
-        "first": "2026-10-02",
-        "last": "2026-10-02",
+        "first": "2026-10-03",
+        "last": "2026-10-03",
         "played": 0
     },
     "matches": [
@@ -33,26 +33,26 @@
                 "currentMatchday": 28,
                 "winner": null
             },
-            "id": 554948,
-            "utcDate": "2026-10-02T23:00:00Z",
+            "id": 554940,
+            "utcDate": "2026-10-03T21:30:00Z",
             "status": "TIMED",
             "matchday": 21,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-02T00:20:37Z",
+            "lastUpdated": "2026-10-03T01:32:00Z",
             "homeTeam": {
-                "id": 1776,
-                "name": "São Paulo FC",
-                "shortName": "São Paulo",
-                "tla": "PAU",
-                "crest": "https://crests.football-data.org/1776.png"
+                "id": 1766,
+                "name": "CA Mineiro",
+                "shortName": "Mineiro",
+                "tla": "CAM",
+                "crest": "https://crests.football-data.org/1766.png"
             },
             "awayTeam": {
-                "id": 6685,
-                "name": "Santos FC",
-                "shortName": "Santos",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/6685.png"
+                "id": 4286,
+                "name": "RB Bragantino",
+                "shortName": "Bragantino",
+                "tla": "RBB",
+                "crest": "https://crests.football-data.org/4286.png"
             },
             "score": {
                 "winner": null,
