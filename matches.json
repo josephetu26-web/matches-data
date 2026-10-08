@@ -9,7 +9,7 @@
         "competitions": "BSA",
         "first": "2026-10-08",
         "last": "2026-10-08",
-        "played": 0
+        "played": 1
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 555023,
             "utcDate": "2026-10-08T00:30:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 29,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-08T00:51:47Z",
+            "lastUpdated": "2026-10-08T03:25:08Z",
             "homeTeam": {
                 "id": 1771,
                 "name": "Cruzeiro EC",
@@ -55,15 +55,15 @@
                 "crest": "https://crests.football-data.org/1776.png"
             },
             "score": {
-                "winner": "DRAW",
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 0,
+                    "home": 2,
                     "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
