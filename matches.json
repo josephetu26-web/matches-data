@@ -9,7 +9,7 @@
         "competitions": "BSA,PPL,DED,BL1,FL1,PD,ELC",
         "first": "2026-10-09",
         "last": "2026-10-09",
-        "played": 0
+        "played": 2
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 555026,
             "utcDate": "2026-10-09T00:30:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 29,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-09T01:05:39Z",
+            "lastUpdated": "2026-10-09T03:25:08Z",
             "homeTeam": {
                 "id": 1769,
                 "name": "SE Palmeiras",
@@ -62,8 +62,8 @@
                     "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -94,11 +94,11 @@
             },
             "id": 555024,
             "utcDate": "2026-10-09T00:30:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 29,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-09T01:05:39Z",
+            "lastUpdated": "2026-10-09T03:25:08Z",
             "homeTeam": {
                 "id": 1765,
                 "name": "Fluminense FC",
@@ -117,12 +117,12 @@
                 "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": 1,
+                    "home": 4,
                     "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
