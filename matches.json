@@ -9,7 +9,7 @@
         "competitions": "BSA,DED,SA,ELC,PD,PL,FL1,BL1,PPL",
         "first": "2026-10-11",
         "last": "2026-10-11",
-        "played": 1
+        "played": 2
     },
     "matches": [
         {
@@ -94,11 +94,11 @@
             },
             "id": 558876,
             "utcDate": "2026-10-11T10:15:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 8,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-11T00:20:31Z",
+            "lastUpdated": "2026-10-11T12:18:11Z",
             "homeTeam": {
                 "id": 676,
                 "name": "FC Utrecht",
@@ -114,21 +114,28 @@
                 "crest": "https://crests.football-data.org/672.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 80087,
+                    "name": "Jannick van der Laan",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -153,11 +160,11 @@
             },
             "id": 558585,
             "utcDate": "2026-10-11T10:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-11T01:32:00Z",
+            "lastUpdated": "2026-10-11T12:29:55Z",
             "homeTeam": {
                 "id": 7397,
                 "name": "Como 1907",
@@ -173,21 +180,28 @@
                 "crest": "https://crests.football-data.org/100.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 10985,
+                    "name": "Michael Fabbri",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -212,11 +226,11 @@
             },
             "id": 561859,
             "utcDate": "2026-10-11T11:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 9,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-11T01:32:00Z",
+            "lastUpdated": "2026-10-11T12:29:23Z",
             "homeTeam": {
                 "id": 340,
                 "name": "Southampton FC",
@@ -232,21 +246,28 @@
                 "crest": "https://crests.football-data.org/325.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 58025,
+                    "name": "Adam Herczeg",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
@@ -271,11 +292,11 @@
             },
             "id": 564703,
             "utcDate": "2026-10-11T12:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 8,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-11T00:20:32Z",
+            "lastUpdated": "2026-10-11T12:29:23Z",
             "homeTeam": {
                 "id": 285,
                 "name": "Elche CF",
@@ -291,11 +312,11 @@
                 "crest": "https://crests.football-data.org/558.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -305,7 +326,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 80747,
+                    "name": "Javier Alberola Rojas",
+                    "type": "REFEREE",
+                    "nationality": null
+                }
+            ]
         },
         {
             "area": {
@@ -364,7 +392,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 56917,
+                    "name": "Erwin Blank",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -423,66 +458,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2114,
-                "name": "Italy",
-                "code": "ITA",
-                "flag": "https://crests.football-data.org/784.svg"
-            },
-            "competition": {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/c111.png"
-            },
-            "season": {
-                "id": 2494,
-                "startDate": "2026-08-23",
-                "endDate": "2027-05-30",
-                "currentMatchday": 6,
-                "winner": null
-            },
-            "id": 558581,
-            "utcDate": "2026-10-11T13:00:00Z",
-            "status": "TIMED",
-            "matchday": 6,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-10-11T01:32:01Z",
-            "homeTeam": {
-                "id": 5890,
-                "name": "US Lecce",
-                "shortName": "Lecce",
-                "tla": "USL",
-                "crest": "https://crests.football-data.org/5890.png"
-            },
-            "awayTeam": {
-                "id": 103,
-                "name": "Bologna FC 1909",
-                "shortName": "Bologna",
-                "tla": "BOL",
-                "crest": "https://crests.football-data.org/103.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
+            "referees": [
+                {
+                    "id": 56923,
+                    "name": "Sander Van der Eijk",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
                 }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
+            ]
         },
         {
             "area": {
@@ -541,30 +524,37 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11309,
+                    "name": "Peter Bankes",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https://crests.football-data.org/770.svg"
+                "id": 2114,
+                "name": "Italy",
+                "code": "ITA",
+                "flag": "https://crests.football-data.org/784.svg"
             },
             "competition": {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/c111.png"
             },
             "season": {
-                "id": 2502,
-                "startDate": "2026-08-21",
+                "id": 2494,
+                "startDate": "2026-08-23",
                 "endDate": "2027-05-30",
                 "currentMatchday": 6,
                 "winner": null
             },
-            "id": 560594,
+            "id": 558581,
             "utcDate": "2026-10-11T13:00:00Z",
             "status": "TIMED",
             "matchday": 6,
@@ -572,18 +562,18 @@
             "group": null,
             "lastUpdated": "2026-10-11T01:32:01Z",
             "homeTeam": {
-                "id": 322,
-                "name": "Hull City AFC",
-                "shortName": "Hull City",
-                "tla": "HUL",
-                "crest": "https://crests.football-data.org/322.png"
+                "id": 5890,
+                "name": "US Lecce",
+                "shortName": "Lecce",
+                "tla": "USL",
+                "crest": "https://crests.football-data.org/5890.png"
             },
             "awayTeam": {
-                "id": 62,
-                "name": "Everton FC",
-                "shortName": "Everton",
-                "tla": "EVE",
-                "crest": "https://crests.football-data.org/62.png"
+                "id": 103,
+                "name": "Bologna FC 1909",
+                "shortName": "Bologna",
+                "tla": "BOL",
+                "crest": "https://crests.football-data.org/103.png"
             },
             "score": {
                 "winner": null,
@@ -600,7 +590,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11002,
+                    "name": "Luca Pairetto",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -659,7 +656,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 97848,
+                    "name": "Giuseppe Collu",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -718,7 +722,80 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57073,
+                    "name": "Jérémie Pignard",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            },
+            "season": {
+                "id": 2502,
+                "startDate": "2026-08-21",
+                "endDate": "2027-05-30",
+                "currentMatchday": 6,
+                "winner": null
+            },
+            "id": 560594,
+            "utcDate": "2026-10-11T13:00:00Z",
+            "status": "TIMED",
+            "matchday": 6,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-10-11T01:32:01Z",
+            "homeTeam": {
+                "id": 322,
+                "name": "Hull City AFC",
+                "shortName": "Hull City",
+                "tla": "HUL",
+                "crest": "https://crests.football-data.org/322.png"
+            },
+            "awayTeam": {
+                "id": 62,
+                "name": "Everton FC",
+                "shortName": "Everton",
+                "tla": "EVE",
+                "crest": "https://crests.football-data.org/62.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 11405,
+                    "name": "Michael Salisbury",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
@@ -777,7 +854,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57518,
+                    "name": "Florian Badstübner",
+                    "type": "REFEREE",
+                    "nationality": "Germany"
+                }
+            ]
         },
         {
             "area": {
@@ -836,7 +920,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 214573,
+                    "name": "Miguel Sesma Espinosa",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
@@ -895,7 +986,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 40454,
+                    "name": "Carlos Macedo",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -1430,65 +1528,6 @@
         },
         {
             "area": {
-                "id": 2224,
-                "name": "Spain",
-                "code": "ESP",
-                "flag": "https://crests.football-data.org/760.svg"
-            },
-            "competition": {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
-            },
-            "season": {
-                "id": 2518,
-                "startDate": "2026-08-16",
-                "endDate": "2027-05-30",
-                "currentMatchday": 8,
-                "winner": null
-            },
-            "id": 564705,
-            "utcDate": "2026-10-11T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 8,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-10-11T00:20:32Z",
-            "homeTeam": {
-                "id": 5335,
-                "name": "Real Racing Club de Santander",
-                "shortName": "Santander",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/5335.png"
-            },
-            "awayTeam": {
-                "id": 95,
-                "name": "Valencia CF",
-                "shortName": "Valencia",
-                "tla": "VAL",
-                "crest": "https://crests.football-data.org/95.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
                 "id": 2032,
                 "name": "Brazil",
                 "code": "BRA",
@@ -1528,6 +1567,65 @@
                 "shortName": "Santos",
                 "tla": "SAN",
                 "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            },
+            "season": {
+                "id": 2518,
+                "startDate": "2026-08-16",
+                "endDate": "2027-05-30",
+                "currentMatchday": 8,
+                "winner": null
+            },
+            "id": 564705,
+            "utcDate": "2026-10-11T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 8,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-10-11T00:20:32Z",
+            "homeTeam": {
+                "id": 5335,
+                "name": "Real Racing Club de Santander",
+                "shortName": "Santander",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/5335.png"
+            },
+            "awayTeam": {
+                "id": 95,
+                "name": "Valencia CF",
+                "shortName": "Valencia",
+                "tla": "VAL",
+                "crest": "https://crests.football-data.org/95.png"
             },
             "score": {
                 "winner": null,
