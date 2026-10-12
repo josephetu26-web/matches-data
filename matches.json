@@ -9,7 +9,7 @@
         "competitions": "SA,BSA,PL,PD,PPL",
         "first": "2026-10-12",
         "last": "2026-10-13",
-        "played": 0
+        "played": 3
     },
     "matches": [
         {
@@ -35,11 +35,11 @@
             },
             "id": 558579,
             "utcDate": "2026-10-12T16:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-12T00:20:33Z",
+            "lastUpdated": "2026-10-12T18:27:47Z",
             "homeTeam": {
                 "id": 102,
                 "name": "Atalanta BC",
@@ -55,21 +55,28 @@
                 "crest": "https://crests.football-data.org/454.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 97887,
+                    "name": "Paride Tremolada",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -94,11 +101,11 @@
             },
             "id": 558587,
             "utcDate": "2026-10-12T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-12T01:32:00Z",
+            "lastUpdated": "2026-10-12T20:48:03Z",
             "homeTeam": {
                 "id": 586,
                 "name": "Torino FC",
@@ -114,21 +121,28 @@
                 "crest": "https://crests.football-data.org/115.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 159361,
+                    "name": "Valerio Crezzini",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -153,11 +167,11 @@
             },
             "id": 555034,
             "utcDate": "2026-10-12T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 30,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-12T01:32:00Z",
+            "lastUpdated": "2026-10-12T21:08:51Z",
             "homeTeam": {
                 "id": 4241,
                 "name": "Coritiba FBC",
@@ -173,15 +187,15 @@
                 "crest": "https://crests.football-data.org/1770.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
@@ -212,11 +226,11 @@
             },
             "id": 560597,
             "utcDate": "2026-10-12T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-12T00:20:33Z",
+            "lastUpdated": "2026-10-12T20:58:43Z",
             "homeTeam": {
                 "id": 1076,
                 "name": "Coventry City FC",
@@ -232,21 +246,28 @@
                 "crest": "https://crests.football-data.org/67.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 4,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11327,
+                    "name": "John Brooks",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
@@ -271,11 +292,11 @@
             },
             "id": 564704,
             "utcDate": "2026-10-12T19:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 8,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-12T01:32:00Z",
+            "lastUpdated": "2026-10-12T21:08:19Z",
             "homeTeam": {
                 "id": 88,
                 "name": "Levante UD",
@@ -291,21 +312,28 @@
                 "crest": "https://crests.football-data.org/559.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 206205,
+                    "name": "Adrián Cordero Vega",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
@@ -330,11 +358,11 @@
             },
             "id": 567325,
             "utcDate": "2026-10-12T19:15:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 8,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-12T00:20:33Z",
+            "lastUpdated": "2026-10-12T21:08:19Z",
             "homeTeam": {
                 "id": 5531,
                 "name": "FC Famalicão",
@@ -350,21 +378,28 @@
                 "crest": "https://crests.football-data.org/7822.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 4
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57283,
+                    "name": "Sérgio Guelho",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -393,7 +428,7 @@
             "matchday": 30,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-11T15:20:18Z",
+            "lastUpdated": "2026-10-10T20:20:22Z",
             "homeTeam": {
                 "id": 1772,
                 "name": "Chapecoense AF",
@@ -452,7 +487,7 @@
             "matchday": 30,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-12T01:32:00Z",
+            "lastUpdated": "2026-10-10T20:20:22Z",
             "homeTeam": {
                 "id": 4286,
                 "name": "RB Bragantino",
