@@ -6,7 +6,7 @@
     },
     "resultSet": {
         "count": 8,
-        "competitions": "CLI,DED,BL1,SA,FL1,PD,ELC,BSA",
+        "competitions": "CLI,DED,BL1,FL1,SA,PD,ELC,BSA",
         "first": "2026-10-16",
         "last": "2026-10-16",
         "played": 0
@@ -128,7 +128,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 81036,
+                    "name": "Robin Hensgens",
+                    "type": "REFEREE",
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         {
             "area": {
@@ -191,65 +198,6 @@
         },
         {
             "area": {
-                "id": 2114,
-                "name": "Italy",
-                "code": "ITA",
-                "flag": "https://crests.football-data.org/784.svg"
-            },
-            "competition": {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/c111.png"
-            },
-            "season": {
-                "id": 2494,
-                "startDate": "2026-08-23",
-                "endDate": "2027-05-30",
-                "currentMatchday": 7,
-                "winner": null
-            },
-            "id": 558573,
-            "utcDate": "2026-10-16T18:45:00Z",
-            "status": "TIMED",
-            "matchday": 7,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-10-16T00:20:35Z",
-            "homeTeam": {
-                "id": 470,
-                "name": "Frosinone Calcio",
-                "shortName": "Frosinone",
-                "tla": "FRO",
-                "crest": "https://crests.football-data.org/470.png"
-            },
-            "awayTeam": {
-                "id": 471,
-                "name": "US Sassuolo Calcio",
-                "shortName": "Sassuolo",
-                "tla": "SAS",
-                "crest": "https://crests.football-data.org/471.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
                 "id": 2081,
                 "name": "France",
                 "code": "FRA",
@@ -289,6 +237,65 @@
                 "shortName": "Toulouse",
                 "tla": "TOU",
                 "crest": "https://crests.football-data.org/511.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2114,
+                "name": "Italy",
+                "code": "ITA",
+                "flag": "https://crests.football-data.org/784.svg"
+            },
+            "competition": {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/c111.png"
+            },
+            "season": {
+                "id": 2494,
+                "startDate": "2026-08-23",
+                "endDate": "2027-05-30",
+                "currentMatchday": 7,
+                "winner": null
+            },
+            "id": 558573,
+            "utcDate": "2026-10-16T18:45:00Z",
+            "status": "TIMED",
+            "matchday": 7,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-10-16T00:20:35Z",
+            "homeTeam": {
+                "id": 470,
+                "name": "Frosinone Calcio",
+                "shortName": "Frosinone",
+                "tla": "FRO",
+                "crest": "https://crests.football-data.org/470.png"
+            },
+            "awayTeam": {
+                "id": 471,
+                "name": "US Sassuolo Calcio",
+                "shortName": "Sassuolo",
+                "tla": "SAS",
+                "crest": "https://crests.football-data.org/471.png"
             },
             "score": {
                 "winner": null,
