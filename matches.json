@@ -9,7 +9,7 @@
         "competitions": "CLI,DED,BL1,SA,FL1,PD,ELC,BSA",
         "first": "2026-10-16",
         "last": "2026-10-16",
-        "played": 4
+        "played": 6
     },
     "matches": [
         {
@@ -98,7 +98,7 @@
             "matchday": 9,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-16T19:59:53Z",
+            "lastUpdated": "2026-10-16T22:25:02Z",
             "homeTeam": {
                 "id": 673,
                 "name": "SC Heerenveen",
@@ -164,7 +164,7 @@
             "matchday": 6,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-16T20:31:53Z",
+            "lastUpdated": "2026-10-16T22:25:01Z",
             "homeTeam": {
                 "id": 19,
                 "name": "Eintracht Frankfurt",
@@ -230,7 +230,7 @@
             "matchday": 7,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-16T20:46:49Z",
+            "lastUpdated": "2026-10-16T22:25:13Z",
             "homeTeam": {
                 "id": 470,
                 "name": "Frosinone Calcio",
@@ -296,7 +296,7 @@
             "matchday": 7,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-16T20:46:17Z",
+            "lastUpdated": "2026-10-16T22:25:09Z",
             "homeTeam": {
                 "id": 535,
                 "name": "Le Mans FC",
@@ -358,11 +358,11 @@
             },
             "id": 564716,
             "utcDate": "2026-10-16T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 9,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-16T20:48:25Z",
+            "lastUpdated": "2026-10-16T22:25:07Z",
             "homeTeam": {
                 "id": 560,
                 "name": "RC Deportivo La Coruña",
@@ -378,11 +378,11 @@
                 "crest": "https://crests.football-data.org/88.png"
             },
             "score": {
-                "winner": "HOME_TEAM",
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
                     "home": 1,
-                    "away": 0
+                    "away": 1
                 },
                 "halfTime": {
                     "home": 0,
@@ -424,11 +424,11 @@
             },
             "id": 561883,
             "utcDate": "2026-10-16T19:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 11,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-16T20:47:53Z",
+            "lastUpdated": "2026-10-16T22:25:10Z",
             "homeTeam": {
                 "id": 328,
                 "name": "Burnley FC",
@@ -490,11 +490,11 @@
             },
             "id": 555047,
             "utcDate": "2026-10-16T23:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 31,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-16T00:20:34Z",
+            "lastUpdated": "2026-10-16T23:22:33Z",
             "homeTeam": {
                 "id": 4364,
                 "name": "Mirassol FC",
@@ -510,11 +510,11 @@
                 "crest": "https://crests.football-data.org/6684.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -524,7 +524,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 206800,
+                    "name": "Bruno de Araújo",
+                    "type": "REFEREE",
+                    "nationality": "Brazil"
+                }
+            ]
         }
     ]
 }
