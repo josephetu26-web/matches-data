@@ -6,7 +6,7 @@
     },
     "resultSet": {
         "count": 8,
-        "competitions": "CLI,DED,BL1,FL1,SA,PD,ELC,BSA",
+        "competitions": "CLI,DED,BL1,SA,FL1,PD,ELC,BSA",
         "first": "2026-10-16",
         "last": "2026-10-16",
         "played": 0
@@ -191,65 +191,6 @@
         },
         {
             "area": {
-                "id": 2081,
-                "name": "France",
-                "code": "FRA",
-                "flag": "https://crests.football-data.org/773.svg"
-            },
-            "competition": {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
-            },
-            "season": {
-                "id": 2497,
-                "startDate": "2026-08-22",
-                "endDate": "2027-05-29",
-                "currentMatchday": 7,
-                "winner": null
-            },
-            "id": 559661,
-            "utcDate": "2026-10-16T18:45:00Z",
-            "status": "TIMED",
-            "matchday": 7,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-10-16T00:20:34Z",
-            "homeTeam": {
-                "id": 535,
-                "name": "Le Mans FC",
-                "shortName": "Le Mans",
-                "tla": "LMF",
-                "crest": "https://crests.football-data.org/535.png"
-            },
-            "awayTeam": {
-                "id": 511,
-                "name": "Toulouse FC",
-                "shortName": "Toulouse",
-                "tla": "TOU",
-                "crest": "https://crests.football-data.org/511.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
                 "id": 2114,
                 "name": "Italy",
                 "code": "ITA",
@@ -289,6 +230,65 @@
                 "shortName": "Sassuolo",
                 "tla": "SAS",
                 "crest": "https://crests.football-data.org/471.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2497,
+                "startDate": "2026-08-22",
+                "endDate": "2027-05-29",
+                "currentMatchday": 7,
+                "winner": null
+            },
+            "id": 559661,
+            "utcDate": "2026-10-16T18:45:00Z",
+            "status": "TIMED",
+            "matchday": 7,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-10-16T00:20:34Z",
+            "homeTeam": {
+                "id": 535,
+                "name": "Le Mans FC",
+                "shortName": "Le Mans",
+                "tla": "LMF",
+                "crest": "https://crests.football-data.org/535.png"
+            },
+            "awayTeam": {
+                "id": 511,
+                "name": "Toulouse FC",
+                "shortName": "Toulouse",
+                "tla": "TOU",
+                "crest": "https://crests.football-data.org/511.png"
             },
             "score": {
                 "winner": null,
