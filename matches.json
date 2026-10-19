@@ -69,7 +69,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 160813,
+                    "name": "Andrea Calzavara",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -128,7 +135,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57842,
+                    "name": "Giovanni Ayroldi",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
         },
         {
             "area": {
@@ -187,7 +201,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 11423,
+                    "name": "Andy Madley",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
         },
         {
             "area": {
@@ -246,7 +267,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 214122,
+                    "name": "Jon González Esteban",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
@@ -305,7 +333,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 37823,
+                    "name": "Gustavo Correia",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
