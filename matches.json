@@ -33,26 +33,26 @@
                 "currentMatchday": 3,
                 "winner": null
             },
-            "id": 575368,
+            "id": 575369,
             "utcDate": "2026-10-21T16:45:00Z",
             "status": "TIMED",
             "matchday": 3,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-10-21T01:32:00Z",
+            "lastUpdated": "2026-10-21T00:20:27Z",
             "homeTeam": {
-                "id": 7397,
-                "name": "Como 1907",
-                "shortName": "Como 1907",
-                "tla": "COM",
-                "crest": "https://crests.football-data.org/7397.png"
+                "id": 521,
+                "name": "Lille OSC",
+                "shortName": "Lille",
+                "tla": "LIL",
+                "crest": "https://crests.football-data.org/521.png"
             },
             "awayTeam": {
-                "id": 66,
-                "name": "Manchester United FC",
-                "shortName": "Man United",
-                "tla": "MUN",
-                "crest": "https://crests.football-data.org/66.png"
+                "id": 610,
+                "name": "Galatasaray SK",
+                "shortName": "Galatasaray",
+                "tla": "GAL",
+                "crest": "https://crests.football-data.org/610.png"
             },
             "score": {
                 "winner": null,
@@ -92,26 +92,26 @@
                 "currentMatchday": 3,
                 "winner": null
             },
-            "id": 575369,
+            "id": 575368,
             "utcDate": "2026-10-21T16:45:00Z",
             "status": "TIMED",
             "matchday": 3,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2026-10-21T00:20:27Z",
+            "lastUpdated": "2026-10-21T01:32:00Z",
             "homeTeam": {
-                "id": 521,
-                "name": "Lille OSC",
-                "shortName": "Lille",
-                "tla": "LIL",
-                "crest": "https://crests.football-data.org/521.png"
+                "id": 7397,
+                "name": "Como 1907",
+                "shortName": "Como 1907",
+                "tla": "COM",
+                "crest": "https://crests.football-data.org/7397.png"
             },
             "awayTeam": {
-                "id": 610,
-                "name": "Galatasaray SK",
-                "shortName": "Galatasaray",
-                "tla": "GAL",
-                "crest": "https://crests.football-data.org/610.png"
+                "id": 66,
+                "name": "Manchester United FC",
+                "shortName": "Man United",
+                "tla": "MUN",
+                "crest": "https://crests.football-data.org/66.png"
             },
             "score": {
                 "winner": null,
@@ -217,7 +217,7 @@
                 "currentMatchday": 3,
                 "winner": null
             },
-            "id": 575374,
+            "id": 575375,
             "utcDate": "2026-10-21T19:00:00Z",
             "status": "TIMED",
             "matchday": 3,
@@ -225,18 +225,136 @@
             "group": null,
             "lastUpdated": "2026-10-21T01:32:00Z",
             "homeTeam": {
-                "id": 58,
-                "name": "Aston Villa FC",
-                "shortName": "Aston Villa",
-                "tla": "AVL",
-                "crest": "https://crests.football-data.org/58.png"
+                "id": 498,
+                "name": "Sporting Clube de Portugal",
+                "shortName": "Sporting CP",
+                "tla": "SPO",
+                "crest": "https://crests.football-data.org/498.png"
             },
             "awayTeam": {
-                "id": 5720,
-                "name": "Viking FK",
-                "shortName": "Viking",
-                "tla": "VIK",
-                "crest": "https://crests.football-data.org/5720.png"
+                "id": 2016,
+                "name": "LASK Linz",
+                "shortName": "LASK",
+                "tla": "LIN",
+                "crest": "https://crests.football-data.org/2016.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2077,
+                "name": "Europe",
+                "code": "EUR",
+                "flag": "https://crests.football-data.org/EUR.svg"
+            },
+            "competition": {
+                "id": 2001,
+                "name": "UEFA Champions League",
+                "code": "CL",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CL.png"
+            },
+            "season": {
+                "id": 2557,
+                "startDate": "2026-09-08",
+                "endDate": "2027-01-27",
+                "currentMatchday": 3,
+                "winner": null
+            },
+            "id": 575371,
+            "utcDate": "2026-10-21T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 3,
+            "stage": "LEAGUE_STAGE",
+            "group": null,
+            "lastUpdated": "2026-10-21T01:32:00Z",
+            "homeTeam": {
+                "id": 108,
+                "name": "FC Internazionale Milano",
+                "shortName": "Inter",
+                "tla": "INT",
+                "crest": "https://crests.football-data.org/108.png"
+            },
+            "awayTeam": {
+                "id": 1887,
+                "name": "FK Shakhtar Donetsk",
+                "shortName": "Shaktar",
+                "tla": "SHD",
+                "crest": "https://crests.football-data.org/1887.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2077,
+                "name": "Europe",
+                "code": "EUR",
+                "flag": "https://crests.football-data.org/EUR.svg"
+            },
+            "competition": {
+                "id": 2001,
+                "name": "UEFA Champions League",
+                "code": "CL",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CL.png"
+            },
+            "season": {
+                "id": 2557,
+                "startDate": "2026-09-08",
+                "endDate": "2027-01-27",
+                "currentMatchday": 3,
+                "winner": null
+            },
+            "id": 575373,
+            "utcDate": "2026-10-21T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 3,
+            "stage": "LEAGUE_STAGE",
+            "group": null,
+            "lastUpdated": "2026-10-21T01:32:00Z",
+            "homeTeam": {
+                "id": 851,
+                "name": "Club Brugge KV",
+                "shortName": "Club Brugge",
+                "tla": "BRU",
+                "crest": "https://crests.football-data.org/851.png"
+            },
+            "awayTeam": {
+                "id": 546,
+                "name": "Racing Club de Lens",
+                "shortName": "RC Lens",
+                "tla": "RCL",
+                "crest": "https://crests.football-data.org/546.png"
             },
             "score": {
                 "winner": null,
@@ -453,7 +571,7 @@
                 "currentMatchday": 3,
                 "winner": null
             },
-            "id": 575375,
+            "id": 575374,
             "utcDate": "2026-10-21T19:00:00Z",
             "status": "TIMED",
             "matchday": 3,
@@ -461,136 +579,18 @@
             "group": null,
             "lastUpdated": "2026-10-21T01:32:00Z",
             "homeTeam": {
-                "id": 498,
-                "name": "Sporting Clube de Portugal",
-                "shortName": "Sporting CP",
-                "tla": "SPO",
-                "crest": "https://crests.football-data.org/498.png"
+                "id": 58,
+                "name": "Aston Villa FC",
+                "shortName": "Aston Villa",
+                "tla": "AVL",
+                "crest": "https://crests.football-data.org/58.png"
             },
             "awayTeam": {
-                "id": 2016,
-                "name": "LASK Linz",
-                "shortName": "LASK",
-                "tla": "LIN",
-                "crest": "https://crests.football-data.org/2016.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2077,
-                "name": "Europe",
-                "code": "EUR",
-                "flag": "https://crests.football-data.org/EUR.svg"
-            },
-            "competition": {
-                "id": 2001,
-                "name": "UEFA Champions League",
-                "code": "CL",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CL.png"
-            },
-            "season": {
-                "id": 2557,
-                "startDate": "2026-09-08",
-                "endDate": "2027-01-27",
-                "currentMatchday": 3,
-                "winner": null
-            },
-            "id": 575371,
-            "utcDate": "2026-10-21T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 3,
-            "stage": "LEAGUE_STAGE",
-            "group": null,
-            "lastUpdated": "2026-10-21T01:32:00Z",
-            "homeTeam": {
-                "id": 108,
-                "name": "FC Internazionale Milano",
-                "shortName": "Inter",
-                "tla": "INT",
-                "crest": "https://crests.football-data.org/108.png"
-            },
-            "awayTeam": {
-                "id": 1887,
-                "name": "FK Shakhtar Donetsk",
-                "shortName": "Shaktar",
-                "tla": "SHD",
-                "crest": "https://crests.football-data.org/1887.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
-                "id": 2077,
-                "name": "Europe",
-                "code": "EUR",
-                "flag": "https://crests.football-data.org/EUR.svg"
-            },
-            "competition": {
-                "id": 2001,
-                "name": "UEFA Champions League",
-                "code": "CL",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CL.png"
-            },
-            "season": {
-                "id": 2557,
-                "startDate": "2026-09-08",
-                "endDate": "2027-01-27",
-                "currentMatchday": 3,
-                "winner": null
-            },
-            "id": 575373,
-            "utcDate": "2026-10-21T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 3,
-            "stage": "LEAGUE_STAGE",
-            "group": null,
-            "lastUpdated": "2026-10-21T01:32:00Z",
-            "homeTeam": {
-                "id": 851,
-                "name": "Club Brugge KV",
-                "shortName": "Club Brugge",
-                "tla": "BRU",
-                "crest": "https://crests.football-data.org/851.png"
-            },
-            "awayTeam": {
-                "id": 546,
-                "name": "Racing Club de Lens",
-                "shortName": "RC Lens",
-                "tla": "RCL",
-                "crest": "https://crests.football-data.org/546.png"
+                "id": 5720,
+                "name": "Viking FK",
+                "shortName": "Viking",
+                "tla": "VIK",
+                "crest": "https://crests.football-data.org/5720.png"
             },
             "score": {
                 "winner": null,
