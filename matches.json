@@ -6,7 +6,7 @@
     },
     "resultSet": {
         "count": 10,
-        "competitions": "CLI,DED,BL1,FL1,SA,PL,ELC,PD,PPL,BSA",
+        "competitions": "CLI,DED,BL1,FL1,SA,PL,PD,ELC,PPL,BSA",
         "first": "2026-10-23",
         "last": "2026-10-23",
         "played": 0
@@ -375,65 +375,6 @@
         },
         {
             "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https://crests.football-data.org/770.svg"
-            },
-            "competition": {
-                "id": 2016,
-                "name": "Championship",
-                "code": "ELC",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/ELC.png"
-            },
-            "season": {
-                "id": 2509,
-                "startDate": "2026-08-14",
-                "endDate": "2027-05-01",
-                "currentMatchday": 12,
-                "winner": null
-            },
-            "id": 561894,
-            "utcDate": "2026-10-23T19:00:00Z",
-            "status": "TIMED",
-            "matchday": 12,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-10-20T15:20:35Z",
-            "homeTeam": {
-                "id": 60,
-                "name": "Bolton Wanderers FC",
-                "shortName": "Bolton",
-                "tla": "BOL",
-                "crest": "https://crests.football-data.org/60.png"
-            },
-            "awayTeam": {
-                "id": 343,
-                "name": "Middlesbrough FC",
-                "shortName": "Middlesbrough",
-                "tla": "MID",
-                "crest": "https://crests.football-data.org/343.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": []
-        },
-        {
-            "area": {
                 "id": 2224,
                 "name": "Spain",
                 "code": "ESP",
@@ -473,6 +414,65 @@
                 "shortName": "Málaga",
                 "tla": "MAL",
                 "crest": "https://crests.football-data.org/84.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "competition": {
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ELC.png"
+            },
+            "season": {
+                "id": 2509,
+                "startDate": "2026-08-14",
+                "endDate": "2027-05-01",
+                "currentMatchday": 12,
+                "winner": null
+            },
+            "id": 561894,
+            "utcDate": "2026-10-23T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 12,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-10-20T15:20:35Z",
+            "homeTeam": {
+                "id": 60,
+                "name": "Bolton Wanderers FC",
+                "shortName": "Bolton",
+                "tla": "BOL",
+                "crest": "https://crests.football-data.org/60.png"
+            },
+            "awayTeam": {
+                "id": 343,
+                "name": "Middlesbrough FC",
+                "shortName": "Middlesbrough",
+                "tla": "MID",
+                "crest": "https://crests.football-data.org/343.png"
             },
             "score": {
                 "winner": null,
