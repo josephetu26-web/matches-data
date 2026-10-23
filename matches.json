@@ -6,10 +6,10 @@
     },
     "resultSet": {
         "count": 10,
-        "competitions": "CLI,DED,BL1,FL1,SA,PL,PD,ELC,PPL,BSA",
+        "competitions": "CLI,DED,BL1,SA,FL1,PD,ELC,PL,PPL,BSA",
         "first": "2026-10-23",
         "last": "2026-10-23",
-        "played": 0
+        "played": 6
     },
     "matches": [
         {
@@ -101,11 +101,11 @@
             },
             "id": 558863,
             "utcDate": "2026-10-23T18:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 10,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-23T00:20:27Z",
+            "lastUpdated": "2026-10-23T19:57:41Z",
             "homeTeam": {
                 "id": 718,
                 "name": "Go Ahead Eagles",
@@ -121,15 +121,15 @@
                 "crest": "https://crests.football-data.org/1912.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 0
                 }
             },
             "odds": {
@@ -167,11 +167,11 @@
             },
             "id": 565833,
             "utcDate": "2026-10-23T18:30:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 7,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-23T00:20:27Z",
+            "lastUpdated": "2026-10-23T20:30:46Z",
             "homeTeam": {
                 "id": 10,
                 "name": "VfB Stuttgart",
@@ -187,15 +187,15 @@
                 "crest": "https://crests.football-data.org/18.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 2,
+                    "away": 3
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
@@ -207,72 +207,6 @@
                     "name": "Matthias Jöllenbeck",
                     "type": "REFEREE",
                     "nationality": "Germany"
-                }
-            ]
-        },
-        {
-            "area": {
-                "id": 2081,
-                "name": "France",
-                "code": "FRA",
-                "flag": "https://crests.football-data.org/773.svg"
-            },
-            "competition": {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
-            },
-            "season": {
-                "id": 2497,
-                "startDate": "2026-08-22",
-                "endDate": "2027-05-29",
-                "currentMatchday": 8,
-                "winner": null
-            },
-            "id": 559654,
-            "utcDate": "2026-10-23T18:45:00Z",
-            "status": "TIMED",
-            "matchday": 8,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2026-10-23T00:20:28Z",
-            "homeTeam": {
-                "id": 512,
-                "name": "Stade Brestois 29",
-                "shortName": "Brest",
-                "tla": "BRE",
-                "crest": "https://crests.football-data.org/512.png"
-            },
-            "awayTeam": {
-                "id": 522,
-                "name": "OGC Nice",
-                "shortName": "Nice",
-                "tla": "NIC",
-                "crest": "https://crests.football-data.org/522.png"
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "home": null,
-                    "away": null
-                },
-                "halfTime": {
-                    "home": null,
-                    "away": null
-                }
-            },
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "referees": [
-                {
-                    "id": 57084,
-                    "name": "Guillaume Paradis",
-                    "type": "REFEREE",
-                    "nationality": "France"
                 }
             ]
         },
@@ -299,11 +233,11 @@
             },
             "id": 558567,
             "utcDate": "2026-10-23T18:45:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 8,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-23T00:20:28Z",
+            "lastUpdated": "2026-10-23T20:46:46Z",
             "homeTeam": {
                 "id": 586,
                 "name": "Torino FC",
@@ -319,15 +253,15 @@
                 "crest": "https://crests.football-data.org/5911.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
@@ -344,62 +278,69 @@
         },
         {
             "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https://crests.football-data.org/770.svg"
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
             },
             "competition": {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/FL1.png"
             },
             "season": {
-                "id": 2502,
-                "startDate": "2026-08-21",
-                "endDate": "2027-05-30",
+                "id": 2497,
+                "startDate": "2026-08-22",
+                "endDate": "2027-05-29",
                 "currentMatchday": 8,
                 "winner": null
             },
-            "id": 560620,
-            "utcDate": "2026-10-23T19:00:00Z",
-            "status": "TIMED",
+            "id": 559654,
+            "utcDate": "2026-10-23T18:45:00Z",
+            "status": "FINISHED",
             "matchday": 8,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-23T00:20:28Z",
+            "lastUpdated": "2026-10-23T20:48:53Z",
             "homeTeam": {
-                "id": 349,
-                "name": "Ipswich Town FC",
-                "shortName": "Ipswich Town",
-                "tla": "IPS",
-                "crest": "https://crests.football-data.org/349.png"
+                "id": 512,
+                "name": "Stade Brestois 29",
+                "shortName": "Brest",
+                "tla": "BRE",
+                "crest": "https://crests.football-data.org/512.png"
             },
             "awayTeam": {
-                "id": 351,
-                "name": "Nottingham Forest FC",
-                "shortName": "Nottingham",
-                "tla": "NOT",
-                "crest": "https://crests.football-data.org/351.png"
+                "id": 522,
+                "name": "OGC Nice",
+                "shortName": "Nice",
+                "tla": "NIC",
+                "crest": "https://crests.football-data.org/522.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 57084,
+                    "name": "Guillaume Paradis",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
         },
         {
             "area": {
@@ -424,11 +365,11 @@
             },
             "id": 564719,
             "utcDate": "2026-10-23T19:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 10,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-23T00:20:28Z",
+            "lastUpdated": "2026-10-23T20:59:33Z",
             "homeTeam": {
                 "id": 263,
                 "name": "Deportivo Alavés",
@@ -444,21 +385,28 @@
                 "crest": "https://crests.football-data.org/84.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 265471,
+                    "name": "Carlos Muñiz Muñoz",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
@@ -521,6 +469,72 @@
         },
         {
             "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            },
+            "season": {
+                "id": 2502,
+                "startDate": "2026-08-21",
+                "endDate": "2027-05-30",
+                "currentMatchday": 8,
+                "winner": null
+            },
+            "id": 560620,
+            "utcDate": "2026-10-23T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 8,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2026-10-23T21:04:53Z",
+            "homeTeam": {
+                "id": 349,
+                "name": "Ipswich Town FC",
+                "shortName": "Ipswich Town",
+                "tla": "IPS",
+                "crest": "https://crests.football-data.org/349.png"
+            },
+            "awayTeam": {
+                "id": 351,
+                "name": "Nottingham Forest FC",
+                "shortName": "Nottingham",
+                "tla": "NOT",
+                "crest": "https://crests.football-data.org/351.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 11620,
+                    "name": "Thomas Bramall",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "area": {
                 "id": 2187,
                 "name": "Portugal",
                 "code": "POR",
@@ -542,11 +556,11 @@
             },
             "id": 567329,
             "utcDate": "2026-10-23T19:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 9,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-23T00:20:28Z",
+            "lastUpdated": "2026-10-23T21:15:01Z",
             "homeTeam": {
                 "id": 5543,
                 "name": "Vitória SC",
@@ -562,21 +576,28 @@
                 "crest": "https://crests.football-data.org/5575.png"
             },
             "score": {
-                "winner": null,
+                "winner": "HOME_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 3,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 231221,
+                    "name": "Diogo Rosa",
+                    "type": "REFEREE",
+                    "nationality": "Portugal"
+                }
+            ]
         },
         {
             "area": {
@@ -635,7 +656,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 206800,
+                    "name": "Bruno de Araújo",
+                    "type": "REFEREE",
+                    "nationality": "Brazil"
+                }
+            ]
         }
     ]
 }
