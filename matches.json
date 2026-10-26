@@ -35,11 +35,11 @@
             },
             "id": 567331,
             "utcDate": "2026-10-26T18:45:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 9,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-26T10:20:31Z",
+            "lastUpdated": "2026-10-26T20:22:21Z",
             "homeTeam": {
                 "id": 5530,
                 "name": "CD Santa Clara",
@@ -55,21 +55,28 @@
                 "crest": "https://crests.football-data.org/1903.png"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 2
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 176741,
+                    "name": "Claudio Pereira",
+                    "type": "REFEREE",
+                    "nationality": null
+                }
+            ]
         },
         {
             "area": {
@@ -94,11 +101,11 @@
             },
             "id": 559648,
             "utcDate": "2026-10-26T19:30:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 8,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-26T10:20:30Z",
+            "lastUpdated": "2026-10-26T20:21:17Z",
             "homeTeam": {
                 "id": 524,
                 "name": "Paris Saint-Germain FC",
@@ -114,21 +121,28 @@
                 "crest": "https://crests.football-data.org/523.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 }
             },
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 15548,
+                    "name": "Jérôme Brisard",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
         },
         {
             "area": {
@@ -153,11 +167,11 @@
             },
             "id": 564721,
             "utcDate": "2026-10-26T20:00:00Z",
-            "status": "TIMED",
+            "status": "IN_PLAY",
             "matchday": 10,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2026-10-26T10:20:30Z",
+            "lastUpdated": "2026-10-26T20:22:21Z",
             "homeTeam": {
                 "id": 559,
                 "name": "Sevilla FC",
@@ -173,11 +187,11 @@
                 "crest": "https://crests.football-data.org/79.png"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 0
                 },
                 "halfTime": {
                     "home": null,
@@ -187,7 +201,14 @@
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
-            "referees": []
+            "referees": [
+                {
+                    "id": 207048,
+                    "name": "Miguel Ortiz Arias",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
         },
         {
             "area": {
